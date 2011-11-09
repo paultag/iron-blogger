@@ -1,8 +1,8 @@
 andresmh:
   links:
-  - ["Andr\xE9s Monroy-Hern\xE1ndez", 'http://blogs.law.harvard.edu/andresmh/', 'http://www.thesimplelogic.com/feed/']
+  - ["Andr\xE9s Monroy-Hern\xE1ndez", 'http://blogs.law.harvard.edu/andresmh/', 'http://blogs.law.harvard.edu/andresmh/feed/']
   start: 10/31/2011
 mako:
   links:
-  - [copyrighteous, 'http://mako.cc/copyrighteous/', 'http://mako.cc/copyrighteous/?flav=atom']
+  - [Benjamin Mako Hill, 'http://mako.cc/copyrighteous/', 'http://mako.cc/copyrighteous/?flav=atom']
   start: 10/31/2011
