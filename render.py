@@ -9,7 +9,7 @@ import os.path
 import subprocess
 from mako.template import Template
 
-START = datetime.datetime(2009, 12, 21, 6)
+START = datetime.datetime(2011, 10, 24, 6)
 HERE  = os.path.dirname(__file__)
 
 def get_balance(acct):

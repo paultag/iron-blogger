@@ -15,7 +15,7 @@ try:
 except IOError:
     log = {}
 
-START = datetime.datetime(2009, 12, 21, 6)
+START = datetime.datetime(2011, 10, 24, 6)
 
 def parse_published(pub):
     return parse(pub).astimezone(tz.tzlocal()).replace(tzinfo=None)

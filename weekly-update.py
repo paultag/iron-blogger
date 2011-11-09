@@ -7,8 +7,8 @@ import subprocess
 import datetime
 import yaml
 
-XMLRPC_ENDPOINT = 'http://iron-blogger.mit.edu/xmlrpc.php'
-USER            = 'nelhage'
+XMLRPC_ENDPOINT = 'http://iron-blogger.mako.cc/xmlrpc.php'
+USER            = 'mako'
 BLOG_ID         = 1
 
 dry_run = False
