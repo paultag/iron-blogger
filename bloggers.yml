@@ -2,7 +2,23 @@ andresmh:
   links:
   - ["Andr\xE9s Monroy-Hern\xE1ndez", 'http://blogs.law.harvard.edu/andresmh/', 'http://blogs.law.harvard.edu/andresmh/feed/']
   start: 10/31/2011
+asheesh:
+  links:
+  - [Asheesh Laroia, 'http://asheesh.org/note/', 'http://asheesh.org/note/index.atom']
+  start: 11/09/2011
 mako:
   links:
   - [Benjamin Mako Hill, 'http://mako.cc/copyrighteous/', 'http://mako.cc/copyrighteous/?flav=atom']
   start: 10/31/2011
+mayo:
+  links:
+  - [Mayo Fuster Morell, 'http://www.onlinecreation.info/', 'http://www.onlinecreation.info/?feed=rss2']
+  start: 11/08/2011
+paultag:
+  links:
+  - [Paul Tagliamonte, 'http://blog.pault.ag/', 'http://blog.pault.ag/rss']
+  start: 11/09/2011
+shauna:
+  links:
+  - [Shauna Gordon-McKeon, 'http://www.shaunagm.net/blog', 'http://www.shaunagm.net/blog/feed/rss/']
+  start: 11/09/2011
