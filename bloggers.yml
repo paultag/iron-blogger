@@ -14,6 +14,10 @@ mayo:
   links:
   - [Mayo Fuster Morell, 'http://www.onlinecreation.info/', 'http://www.onlinecreation.info/?feed=rss2']
   start: 11/08/2011
+mollydb:
+  links:
+  - [Molly de Blanc, 'http://mmillions.wordpress.com', 'http://mmillions.wordpress.com/feed/']
+  start: 11/09/2011
 paultag:
   links:
   - [Paul Tagliamonte, 'http://blog.pault.ag/', 'http://blog.pault.ag/rss']
