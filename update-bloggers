@@ -2,6 +2,8 @@
 HERE=$(dirname "$0")
 $HERE/import-feeds.py
 $HERE/render.py $HERE/templates/config.ini > $HERE/../iron-blogger-planet/config.ini
+rsync $HERE/../iron-blogger-planet/config.ini epicenter:/var/www/iron-blogger/planet/
+
 $HERE/update-participants.py
 
 # cp "$HERE/bloggers.yml" /mit/nelhage/web_scripts/iron-blogger/
