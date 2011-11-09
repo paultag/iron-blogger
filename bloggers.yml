@@ -5,7 +5,7 @@ andresmh:
 asheesh:
   links:
   - [Asheesh Laroia, 'http://asheesh.org/note/', 'http://asheesh.org/note/index.atom']
-  start: 11/09/2011
+  start: 11/07/2011
 mako:
   links:
   - [Benjamin Mako Hill, 'http://mako.cc/copyrighteous/', 'http://mako.cc/copyrighteous/?flav=atom']
@@ -13,16 +13,20 @@ mako:
 mayo:
   links:
   - [Mayo Fuster Morell, 'http://www.onlinecreation.info/', 'http://www.onlinecreation.info/?feed=rss2']
-  start: 11/08/2011
+  start: 11/07/2011
 mollydb:
   links:
   - [Molly de Blanc, 'http://mmillions.wordpress.com', 'http://mmillions.wordpress.com/feed/']
-  start: 11/09/2011
+  start: 11/07/2011
+nadya:
+  links:
+  - [Nadya Peek, 'http://infosyncratic.nl/weblog', 'http://infosyncratic.nl/weblog/feed']
+  start: 11/07/2011
 paultag:
   links:
   - [Paul Tagliamonte, 'http://blog.pault.ag/', 'http://blog.pault.ag/rss']
-  start: 11/09/2011
+  start: 11/07/2011
 shauna:
   links:
   - [Shauna Gordon-McKeon, 'http://www.shaunagm.net/blog', 'http://www.shaunagm.net/blog/feed/atom/']
-  start: 11/09/2011
+  start: 11/07/2011
