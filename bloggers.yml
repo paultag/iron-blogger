@@ -1,3 +1,7 @@
+aarons:
+  links:
+  - [Aaron Shaw, 'http://fringethoughts.wordpress.com/', 'http://fringethoughts.wordpress.com/feed/']
+  start: 11/07/2011
 andresmh:
   links:
   - ["Andr\xE9s Monroy-Hern\xE1ndez", 'http://blogs.law.harvard.edu/andresmh/', 'http://blogs.law.harvard.edu/andresmh/feed/']
@@ -13,6 +17,10 @@ mako:
 mayo:
   links:
   - [Mayo Fuster Morell, 'http://www.onlinecreation.info/', 'http://www.onlinecreation.info/?feed=rss2']
+  start: 11/14/2011
+mika:
+  links:
+  - [Mika Matsuzaki, 'http://mika.im/nikki', 'http://mika.im/nikki/feed/']
   start: 11/07/2011
 mollydb:
   links:
@@ -21,7 +29,7 @@ mollydb:
 nadya:
   links:
   - [Nadya Peek, 'http://infosyncratic.nl/weblog', 'http://infosyncratic.nl/weblog/feed']
-  start: 11/07/2011
+  start: 11/14/2011
 paultag:
   links:
   - [Paul Tagliamonte, 'http://blog.pault.ag/', 'http://blog.pault.ag/rss']
