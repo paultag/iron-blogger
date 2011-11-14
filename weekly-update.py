@@ -83,3 +83,7 @@ if punt:
 
     subprocess.check_call(["git", "commit", "ledger", "bloggers.yml",
                            "-m", "Punts for %s" % (today,)])
+
+# if it's a dry run, lets set the ledger back to the beginning state
+if dry_run:
+    subprocess.check_call(["git", "checkout", "ledger"])
