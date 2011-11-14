@@ -10,6 +10,18 @@ asheesh:
   links:
   - [Asheesh Laroia, 'http://asheesh.org/note/', 'http://asheesh.org/note/index.atom']
   start: 11/07/2011
+johns:
+  links:
+  - [John Sullivan, 'http://journal.wjsullivan.net', 'http://feeds.feedburner.com/wjsullivan']
+  start: 11/14/2011
+joi:
+  links:
+  - [Joichi Ito, 'http://joi.ito.com/', 'http://feeds.feedburner.com/joi-ito/weblog']
+  start: 11/14/2011
+karim:
+  links:
+  - [Karim Lakhani's Spoudaiospaizen, 'http://spoudaiospaizen.net/', 'http://spoudaiospaizen.net/feed/atom/']
+  start: 11/14/2011
 mako:
   links:
   - [Benjamin Mako Hill, 'http://mako.cc/copyrighteous/', 'http://mako.cc/copyrighteous/?flav=atom']
