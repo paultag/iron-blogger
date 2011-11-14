@@ -25,8 +25,9 @@ with open('ledger', 'a') as f:
     f.write("\n")
     f.write(render.render_template('templates/ledger', date))
 
-subprocess.check_call(["git", "commit", "ledger",
-                       "-m", "Update for %s" % (date,)])
+if not dry_run:
+    subprocess.check_call(["git", "commit", "ledger",
+                           "-m", "Update for %s" % (date,)])
 
 debts = render.get_debts()
 punt = []
