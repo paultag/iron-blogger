@@ -66,3 +66,12 @@ shauna:
   links:
   - [Shauna Gordon-McKeon, 'http://www.shaunagm.net/blog', 'http://www.shaunagm.net/blog/feed/atom/']
   start: 11/14/2011
+mad:
+  links:
+  - [Madeleine Price Ball, 'https://plus.google.com/100533872344198336746/posts', 'https://plusfeed2.appspot.com/100533872344198336746']
+  start: 11/14/2011
+djcp:
+  links:
+  - [Dan Collis-Puro, 'http://blogs.law.harvard.edu/djcp/', 'http://blogs.law.harvard.edu/djcp/feed']
+  start: 11/14/2011
+
