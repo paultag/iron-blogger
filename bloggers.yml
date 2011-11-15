@@ -14,6 +14,10 @@ dlarochelle:
   links:
   - [David Larochelle, 'http://blogs.law.harvard.edu/dlarochelle', 'http://blogs.law.harvard.edu/dlarochelle/feed/']
   start: 11/14/2011
+jgay:
+  links:
+  - [Joshua Gay, 'http://joshuagay.org/blog/', 'http://joshuagay.org/blog/?feed=rss2']
+  start: 11/14/2011
 johns:
   links:
   - [John Sullivan, 'http://journal.wjsullivan.net', 'http://feeds.feedburner.com/wjsullivan']
