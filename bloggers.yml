@@ -10,6 +10,10 @@ asheesh:
   links:
   - [Asheesh Laroia, 'http://asheesh.org/note/', 'http://asheesh.org/note/index.atom']
   start: 11/07/2011
+dlarochelle:
+  links:
+  - [David Larochelle, 'http://blogs.law.harvard.edu/dlarochelle', 'https://blogs.law.harvard.edu/dlarochelle/feed/']
+  start: 11/14/2011
 johns:
   links:
   - [John Sullivan, 'http://journal.wjsullivan.net', 'http://feeds.feedburner.com/wjsullivan']
@@ -21,6 +25,10 @@ joi:
 karim:
   links:
   - [Karim Lakhani's Spoudaiospaizen, 'http://spoudaiospaizen.net/', 'http://spoudaiospaizen.net/feed/atom/']
+  start: 11/14/2011
+lombana:
+  links:
+  - [Andres Lombana Bermudez, 'http://andreslombana.net/blog/', 'http://andreslombana.net/blog/?feed=rss2']
   start: 11/14/2011
 mako:
   links:
