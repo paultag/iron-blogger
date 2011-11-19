@@ -10,6 +10,14 @@ asheesh:
   links:
   - [Asheesh Laroia, 'http://asheesh.org/note/', 'http://asheesh.org/note/index.atom']
   start: 11/07/2011
+austein:
+  links:
+  - [Matthew Goldstein, 'http://austein.livejournal.com/', 'http://austein.livejournal.com/']
+  start: 11/21/2011
+bkolko:
+  links:
+  - [Beth Kolko, 'http://bethkolko.wordpress.com/', 'http://bethkolko.wordpress.com/feed/']
+  start: 11/14/2011
 daf:
   links:
   - [Dafydd Harries, 'http://dgh.livejournal.com/', 'http://dgh.livejournal.com/data/atom']
@@ -36,7 +44,8 @@ joi:
   start: 11/14/2011
 karim:
   links:
-  - [Karim Lakhani's Spoudaiospaizen, 'http://spoudaiospaizen.net/', 'http://spoudaiospaizen.net/feed/atom/']
+  - [Karim Lakhani's (Spoudaiospaizen), 'http://spoudaiospaizen.net/', 'http://spoudaiospaizen.net/feed/atom/']
+  - [Karim Lakhani's (Strategy Profs), 'http://strategyprofs.wordpress.com/author/karimlakhani/', 'http://strategyprofs.wordpress.com/author/karimlakhani/feed/atom/']
   start: 11/14/2011
 lombana:
   links:
@@ -44,8 +53,7 @@ lombana:
   start: 11/14/2011
 mad:
   links:
-  - [Madeleine Price Ball, 'https://plus.google.com/100533872344198336746/posts',
-    'https://plusfeed2.appspot.com/100533872344198336746']
+  - [Madeleine Price Ball, 'http://plus.google.com/100533872344198336746/posts', 'http://plusfeed2.appspot.com/100533872344198336746']
   start: 11/14/2011
 mako:
   links:
@@ -67,6 +75,10 @@ mstone:
   links:
   - [Michael Stone, 'http://mstone.info/posts/', 'http://mstone.info/posts/atom.xml']
   start: 11/14/2011
+nadav:
+  links:
+  - [Nadav Aharony, 'http://thisinformed.com', 'http://www.thisinformed.com/feeds/posts/default?alt=rss']
+  start: 11/14/2011
 nadya:
   links:
   - [Nadya Peek, 'http://infosyncratic.nl/weblog', 'http://infosyncratic.nl/weblog/feed']
@@ -79,3 +91,7 @@ shauna:
   links:
   - [Shauna Gordon-McKeon, 'http://www.shaunagm.net/blog', 'http://www.shaunagm.net/blog/feed/atom/']
   start: 11/14/2011
+spang:
+  links:
+  - [Christine Spang, 'http://blog.spang.cc/', 'http://blog.spang.cc/index.atom']
+  start: 11/21/2011
