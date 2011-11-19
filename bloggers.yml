@@ -44,8 +44,9 @@ joi:
   start: 11/14/2011
 karim:
   links:
-  - [Karim Lakhani's (Spoudaiospaizen), 'http://spoudaiospaizen.net/', 'http://spoudaiospaizen.net/feed/atom/']
-  - [Karim Lakhani's (Strategy Profs), 'http://strategyprofs.wordpress.com/author/karimlakhani/', 'http://strategyprofs.wordpress.com/author/karimlakhani/feed/atom/']
+  - [Karim Lakhani (Spoudaiospaizen), 'http://spoudaiospaizen.net/', 'http://spoudaiospaizen.net/feed/atom/']
+  - [Karim Lakhani (Strategy Profs), 'http://strategyprofs.wordpress.com/author/karimlakhani/',
+    'http://strategyprofs.wordpress.com/author/karimlakhani/feed/atom/']
   start: 11/14/2011
 lombana:
   links:
