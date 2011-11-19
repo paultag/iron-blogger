@@ -1,12 +1,7 @@
-2011-10-31 Week 0
-  User:mako     $-5
-  Pool:Owed:mako
-
-2011-11-08 Payment
-  Pool:Owed:mako    $-5
-  Pool:Paid
-
-
 2011-11-14 Week 2
   User:andresmh    $-5
   Pool:Owed:andresmh
+
+2011-11-08 Payment
+  Pool:Owed:andresmh    $-5
+  Pool:Paid
