@@ -18,6 +18,10 @@ bkolko:
   links:
   - [Beth Kolko, 'http://bethkolko.wordpress.com/', 'http://bethkolko.wordpress.com/feed/']
   start: 11/14/2011
+crschmidt:
+  links:
+  - [Christopher Schmidt, 'http://crschmidt.net/blog/feed/', 'http://crschmidt.net/blog/feed/']
+  start: 11/21/2011
 daf:
   links:
   - [Dafydd Harries, 'http://dgh.livejournal.com/', 'http://dgh.livejournal.com/data/atom']
