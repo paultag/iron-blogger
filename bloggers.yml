@@ -92,6 +92,10 @@ paultag:
   links:
   - [Paul Tagliamonte, 'http://blog.pault.ag/', 'http://blog.pault.ag/rss']
   start: 11/07/2011
+ria:
+  links:
+  - [Ricarose Roque, 'http://www.ricarose.com/diversity', 'http://www.ricarose.com/diversity/feed/rss']
+  start: 11/14/2011
 shauna:
   links:
   - [Shauna Gordon-McKeon, 'http://www.shaunagm.net/blog', 'http://www.shaunagm.net/blog/feed/atom/']
