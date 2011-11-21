@@ -30,6 +30,9 @@ def get_link(post):
 
 def parse_feeds(weeks, uri):
     feed = feedparser.parse(uri)
+
+    print >>sys.stderr, "Parsing: %s" % uri
+
     if not feed.entries:
         print >>sys.stderr, "WARN: no entries for ", uri
     for post in feed.entries:
