@@ -12,7 +12,7 @@ asheesh:
   start: 11/07/2011
 austein:
   links:
-  - [Matthew Goldstein, 'http://austein.livejournal.com/', 'http://austein.livejournal.com/']
+  - [Matthew Goldstein, 'http://austein.livejournal.com/', 'http://austein.livejournal.com/data/atom']
   start: 11/21/2011
 bkolko:
   links:
@@ -58,7 +58,7 @@ lombana:
   start: 11/14/2011
 mad:
   links:
-  - [Madeleine Price Ball, 'http://plus.google.com/100533872344198336746/posts', 'http://plusfeed2.appspot.com/100533872344198336746']
+  - [Madeleine Price Ball, 'http://plus.google.com/100533872344198336746/posts', 'https://plusfeed2.appspot.com/100533872344198336746']
   start: 11/14/2011
 mako:
   links:
