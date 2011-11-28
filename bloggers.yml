@@ -27,6 +27,10 @@ daf:
   - [Dafydd Harries, 'http://rhydd.org/blog/', 'http://rhydd.org/blog/index.atom']
   - [Dafydd Harries (LiveJournal), 'http://dgh.livejournal.com/', 'http://dgh.livejournal.com/data/atom']
   start: 11/14/2011
+dandennis:
+  links:
+  - [Daniel Jones, 'http://dandennis.tumblr.com/', 'http://dandennis.tumblr.com/rss']
+  start: 11/21/2011
 djcp:
   links:
   - [Dan Collis-Puro, 'http://blogs.law.harvard.edu/djcp/', 'http://blogs.law.harvard.edu/djcp/feed']
@@ -93,10 +97,22 @@ paultag:
   links:
   - [Paul Tagliamonte, 'http://blog.pault.ag/', 'http://blog.pault.ag/rss']
   start: 11/07/2011
+rheacock:
+  links:
+  - [Rebekah Heacock, 'http://jackfruity.com/', 'http://jackfruity.com/feed/']
+  start: 11/21/2011
 ria:
   links:
   - [Ricarose Roque, 'http://www.ricarose.com/diversity', 'http://www.ricarose.com/diversity/feed']
   start: 11/14/2011
+rocky:
+  links:
+  - [Rocky Acosta, 'http://arttechlaw.tumblr.com/', 'http://arttechlaw.tumblr.com/rss']
+  start: 11/21/2011
+sayamindu:
+  links:
+  - [Sayamindu Dasgupta, 'http://sayamindu.randomink.org/ramblings-reloaded/', 'http://sayamindu.randomink.org/ramblings-reloaded/feed/']
+  start: 11/21/2011
 shauna:
   links:
   - [Shauna Gordon-McKeon, 'http://www.shaunagm.net/blog', 'http://www.shaunagm.net/blog/feed/atom/']
