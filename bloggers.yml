@@ -72,8 +72,8 @@ mako:
 mayo:
   links:
   - [Mayo Fuster Morell, 'http://www.onlinecreation.info/', 'http://www.onlinecreation.info/?feed=rss2']
-  start: 11/14/2011
   skip: [11/21/2011]
+  start: 11/14/2011
 mika:
   links:
   - [Mika Matsuzaki, 'http://mika.im/nikki', 'http://mika.im/nikki/feed/']
@@ -122,6 +122,10 @@ spang:
   links:
   - [Christine Spang, 'http://blog.spang.cc/', 'http://blog.spang.cc/index.atom']
   start: 11/21/2011
+swartzcr:
+  links:
+  - [Noah Swartz, 'http://verythorough.tumblr.com/', 'http://verythorough.tumblr.com/rss']
+  start: 11/28/2011
 zig:
   links:
   - [Jamie Zigelbaum, 'http://jamiezigelbaum.wordpress.com/', 'http://jamiezigelbaum.wordpress.com/feed/']
