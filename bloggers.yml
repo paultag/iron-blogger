@@ -39,6 +39,11 @@ dlarochelle:
   links:
   - [David Larochelle, 'http://blogs.law.harvard.edu/dlarochelle', 'http://blogs.law.harvard.edu/dlarochelle/feed/']
   start: 11/14/2011
+jeff:
+  links:
+  - [Jeff Warren (Unterbahn), 'http://unterbahn.com', 'http://unterbahn.com/feed/']
+  - [Jeff Warren (Public Laboratory), 'http://publiclaboratory.org/', 'http://publiclaboratory.org/feed/1']
+  start: 11/28/2011
 jgay:
   links:
   - [Joshua Gay, 'http://joshuagay.org/blog/', 'http://joshuagay.org/blog/?feed=rss2']
