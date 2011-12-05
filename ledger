@@ -53,3 +53,7 @@
 2011-11-28 Week 4
   User:spang    $-5
   Pool:Owed:spang
+
+2011-12-04 Payment
+  Pool:Owed:spang   $-10
+  Pool:Paid
