@@ -74,6 +74,7 @@ lombana:
 mad:
   links:
   - [Madeleine Price Ball, 'http://plus.google.com/100533872344198336746/posts', 'https://plusfeed2.appspot.com/100533872344198336746']
+  skip: [11/28/2011]
   start: 11/14/2011
 mako:
   links:
