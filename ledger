@@ -57,3 +57,25 @@
 2011-12-04 Payment
   Pool:Owed:spang   $-10
   Pool:Paid
+
+2011-12-05 Week 5
+  User:dlarochelle    $-5
+  Pool:Owed:dlarochelle
+2011-12-05 Week 5
+  User:johns    $-5
+  Pool:Owed:johns
+2011-12-05 Week 5
+  User:joi    $-5
+  Pool:Owed:joi
+2011-12-05 Week 5
+  User:nadav    $-5
+  Pool:Owed:nadav
+2011-12-05 Week 5
+  User:nadya    $-5
+  Pool:Owed:nadya
+2011-12-05 Week 5
+  User:spang    $-5
+  Pool:Owed:spang
+2011-12-05 Week 5
+  User:zig    $-5
+  Pool:Owed:zig
