@@ -115,3 +115,15 @@
   Pool:Owed:bkolko    $-5
   User:bkolko
 
+2011-12-12 Payment
+  Pool:Owed:mayo    $-5
+  Pool:Paid
+2011-12-12 Payment
+  Pool:Owed:zig     $-10
+  Pool:Paid
+2011-12-12 Payment
+  Pool:Owed:bkolko    $-10
+  Pool:Paid
+2011-12-12 Payment
+  Pool:Owed:bardagjy    $-5
+  Pool:Paid
