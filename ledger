@@ -110,3 +110,8 @@
 2011-12-12 Payment
   Pool:Owed:joi     $-10
   Pool:Paid
+
+2011-11-21 Retroactive Skip 
+  Pool:Owed:bkolko    $-5
+  User:bkolko
+
