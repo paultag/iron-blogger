@@ -107,4 +107,6 @@
 2011-12-12 Payment
   Pool:Owed:johns   $-5
   Pool:Paid
-
+2011-12-12 Payment
+  Pool:Owed:joi     $-10
+  Pool:Paid
