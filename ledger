@@ -103,3 +103,8 @@
 2011-12-12 Week 6
   User:zig    $-5
   Pool:Owed:zig
+
+2011-12-12 Payment
+  Pool:Owed:johns   $-5
+  Pool:Paid
+
