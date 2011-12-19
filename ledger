@@ -135,3 +135,6 @@
 2011-12-17 Payment
   Pool:Owed:mollydb    $-5
   Pool:Paid
+2011-12-17 Payment
+  Pool:Owed:nadya    $-20
+  Pool:Paid
