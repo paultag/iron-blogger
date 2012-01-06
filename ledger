@@ -169,3 +169,8 @@
 2011-12-19 Week 7
   User:zig    $-5
   Pool:Owed:zig
+
+2012-01-01 Payment
+  Pool:Owed:asheesh     $-5
+  Pool:Paid
+
