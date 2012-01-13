@@ -174,7 +174,6 @@
   Pool:Owed:asheesh     $-5
   Pool:Paid
 
-
 2011-12-26 Week 8
   User:aarons    $-5
   Pool:Owed:aarons
@@ -279,3 +278,14 @@
 2012-01-02 Week 9
   User:zig    $-5
   Pool:Owed:zig
+
+2012-01-12 Payment
+  Pool:Owed:zig     $-15
+  Pool:Paid
+2012-01-12 Payment
+  Pool:Owed:mako     $-15
+  Pool:Paid
+2012-01-09 Payment
+  Pool:Owed:rheacock     $-5
+  Pool:Paid
+
