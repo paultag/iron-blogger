@@ -289,3 +289,33 @@
   Pool:Owed:rheacock     $-5
   Pool:Paid
 
+2012-01-18 Payment
+  Pool:Owed:johns   $-5
+  Pool:Paid
+
+2012-01-18 Payment
+  Pool:Owed:mad   $-5
+  Pool:Paid
+2012-01-18 Payment
+  Pool:Owed:jeff   $-5
+  Pool:Paid
+2012-01-18 Payment
+  Pool:Owed:djcp   $-5
+  Pool:Paid
+2012-01-18 Payment
+  Pool:Owed:nadya   $-10
+  Pool:Paid
+2012-01-18 Payment
+  Pool:Owed:dlarochelle  $-10
+  Pool:Paid
+2012-01-18 Payment
+  Pool:Owed:shauna  $-5
+  Pool:Paid
+2012-01-18 Payment
+  Pool:Owed:asheesh  $-10
+  Pool:Paid
+
+2012-01-18 CBC Outing
+  Pool:Paid     $-185
+  Events
+
