@@ -484,3 +484,7 @@
 2012-01-19 Punt
   Pool:Owed:spang  $-30.0
   User:spang
+
+2012-01-18 Payment
+  Pool:Owed:spang   $-15
+  Pool:Paid
