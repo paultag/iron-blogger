@@ -491,6 +491,10 @@
 2012-01-18 Payment
   Pool:Owed:spang   $-15
   Pool:Paid
-2012-01-18 Payment
+
+2012-01-19 Payment
   Pool:Owed:ria   $-15
+  Pool:Paid
+2012-01-19 Payment
+  Pool:Owed:sayamindu   $-15
   Pool:Paid
