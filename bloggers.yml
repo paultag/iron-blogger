@@ -133,6 +133,10 @@ shauna:
   links:
   - [Shauna Gordon-McKeon, 'http://www.shaunagm.net/blog', 'http://www.shaunagm.net/blog/feed/atom/']
   start: 11/14/2011
+sj:
+  links:
+  - [Samuel Klein, 'http://blogs.law.harvard.edu/sj/', 'http://blogs.law.harvard.edu/sj/feed/']
+  start: 01/16/2012
 spang:
   links:
   - [Christine Spang, 'http://blog.spang.cc/', 'http://blog.spang.cc/index.atom']
