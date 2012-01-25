@@ -61,6 +61,7 @@ johns:
 joi:
   links:
   - [Joichi Ito, 'http://joi.ito.com/', 'http://feeds.feedburner.com/joi-ito/weblog']
+  - [Joichi Ito (Diving), 'http://diving.ito.com/', 'http://diving.ito.com/rss']
   start: 11/14/2011
 karim:
   links:
