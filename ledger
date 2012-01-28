@@ -491,3 +491,7 @@
 2012-01-25 Punt
   Pool:Owed:karim  $-30.0
   User:karim
+
+2012-01-27 Payment
+  Pool:Owed:joi   $-20
+  Pool:Paid
