@@ -540,3 +540,6 @@
 2012-02-07 Payment
   Pool:Owed:jeff    $-5
   Pool:Paid
+2012-02-07 Payment
+  Pool:Owed:mako    $-10
+  Pool:Paid
