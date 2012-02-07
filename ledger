@@ -536,3 +536,7 @@
 2012-02-04 Punt
   Pool:Owed:dandennis  $-30.0
   User:dandennis
+
+2012-02-07 Payment
+  Pool:Owed:jeff    $-5
+  Pool:Paid
