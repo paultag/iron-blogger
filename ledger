@@ -543,3 +543,7 @@
 2012-02-07 Payment
   Pool:Owed:mako    $-10
   Pool:Paid
+
+2012-02-07 Payment
+  Pool:Owed:mayo    $-20
+  Pool:Paid
