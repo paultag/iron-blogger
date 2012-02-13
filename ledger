@@ -637,3 +637,10 @@
 2012-02-13 Payment
   Pool:Owed:rheackock    $-10
   Pool:Paid
+
+2012-02-13 Unpunt
+  Pool:Owed:jgay  $30.0
+  User:jgay
+2012-02-13 Payment
+  Pool:Owed:jgay    $-35
+  Pool:Paid
