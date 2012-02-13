@@ -45,6 +45,10 @@ dlarochelle:
   links:
   - [David Larochelle, 'http://blogs.law.harvard.edu/dlarochelle', 'http://blogs.law.harvard.edu/dlarochelle/feed/']
   start: 11/14/2011
+epopko:
+  links:
+  - [Ed Popko, 'http://blogs.law.harvard.edu/okpop/', 'http://blogs.law.harvard.edu/okpop/feed/']
+  start: 02/06/2012
 jeff:
   links:
   - [Jeff Warren (Unterbahn), 'http://unterbahn.com', 'http://unterbahn.com/feed/']
