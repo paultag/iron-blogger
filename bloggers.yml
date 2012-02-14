@@ -114,6 +114,12 @@ nadya:
   links:
   - [Nadya Peek, 'http://infosyncratic.nl/weblog', 'http://infosyncratic.nl/weblog/feed']
   start: 11/14/2011
+pablo:
+  links:
+  - [Pablo Rey (Meipi), 'http://www.meipi.com/author/pablo/', 'http://www.meipi.com/author/pablo/feed']
+  - [Pablo Rey (600km), 'http://www.6000km.org/author/pablo/', 'http://www.6000km.org/author/pablo/feed/']
+  - [Pablo Rey, 'http://numeroteca.org/', 'http://numeroteca.org/feed/']
+  start: 02/13/2012
 paultag:
   links:
   - [Paul Tagliamonte, 'http://blog.pault.ag/', 'http://blog.pault.ag/rss']
@@ -150,6 +156,10 @@ swartzcr:
   links:
   - [Noah Swartz, 'http://verythorough.tumblr.com/', 'http://verythorough.tumblr.com/rss']
   start: 11/28/2011
+wendy:
+  links:
+  - [Wendy Seltzer, 'http://wendy.seltzer.org/blog/', 'http://wendy.seltzer.org/blog/feed']
+  start: 2/13/2012
 zig:
   links:
   - [Jamie Zigelbaum, 'http://jamiezigelbaum.wordpress.com/', 'http://jamiezigelbaum.wordpress.com/feed/']
