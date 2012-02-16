@@ -81,6 +81,8 @@ lombana:
 mad:
   links:
   - [Madeleine Price Ball, 'http://www.madprime.org/', 'http://www.madprime.org/xml/rss20/feed.xml']
+  - [Madeleine Price Ball (Personal Genome Project), 'http://blog.personalgenomes.org/author/mpball/',
+    'http://blog.personalgenomes.org/author/mpball/feed/']
   skip: [11/28/2011]
   start: 11/14/2011
 mako:
