@@ -158,6 +158,10 @@ swartzcr:
   links:
   - [Noah Swartz, 'http://verythorough.tumblr.com/', 'http://verythorough.tumblr.com/rss']
   start: 11/28/2011
+vaughn:
+  links:
+  - [Vaughn Tan, 'http://www.flavourcountryfeedlot.com/', 'http://feeds.feedburner.com/flavourcountryfeedlot/sap?format=xml']
+  start: 02/20/2012
 wendy:
   links:
   - [Wendy Seltzer, 'http://wendy.seltzer.org/blog/', 'http://wendy.seltzer.org/blog/feed']
