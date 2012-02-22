@@ -22,6 +22,10 @@ bkolko:
   links:
   - [Beth Kolko, 'http://bethkolko.wordpress.com/', 'http://bethkolko.wordpress.com/feed/']
   start: 11/14/2011
+cjb:
+  links:
+  - [Chris Ball, 'http://blog.printf.net/', 'http://blog.printf.net/xml/rss20/feed.xml']
+  start: 02/20/2011
 crschmidt:
   links:
   - [Christopher Schmidt, 'http://crschmidt.net/blog/feed/', 'http://crschmidt.net/blog/feed/']
