@@ -658,3 +658,7 @@
 2012-02-21 Payment
   Pool:Owed:johns   $-5
   Pool:Paid
+
+2012-02-21 Unpunt
+  Pool:Owed:dandennis   $30.0
+  User:dandennis
