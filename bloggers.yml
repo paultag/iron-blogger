@@ -40,6 +40,10 @@ dandennis:
   links:
   - [Daniel Jones, 'http://dandennis.tumblr.com/', 'http://dandennis.tumblr.com/rss']
   start: 11/21/2011
+denten:
+  links:
+  - [Dennis Tenen, 'http://d3nten.com/', 'http://d3nten.com/feed/']
+  start: 2/20/2011
 djcp:
   links:
   - [Dan Collis-Puro, 'http://blogs.law.harvard.edu/djcp/', 'http://blogs.law.harvard.edu/djcp/feed']
@@ -92,6 +96,10 @@ mako:
   links:
   - [Benjamin Mako Hill, 'http://mako.cc/copyrighteous/', 'http://mako.cc/copyrighteous/?flav=atom']
   start: 10/31/2011
+mattl:
+  links:
+  - [Matt Lee, 'https://lttam.wordpress.com/', 'https://lttam.wordpress.com/feed/']
+  start: 02/27/2012
 mayo:
   links:
   - [Mayo Fuster Morell, 'http://www.onlinecreation.info/', 'http://www.onlinecreation.info/?feed=rss2']
