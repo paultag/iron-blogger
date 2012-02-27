@@ -701,3 +701,7 @@
 2012-02-22 Post-unpunt adjustment
   Pool:Owed:dandennis  $-5
   User:dandennis
+
+2012-02-26 Payment
+  Pool:Owed:crschmidt   $-15
+  Pool:Paid
