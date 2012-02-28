@@ -11,6 +11,7 @@ asheesh:
   - [Asheesh Laroia, 'http://asheesh.org/note/', 'http://asheesh.org/note/index.atom']
   start: 11/07/2011
 austein:
+  end: '2012-02-28'
   links:
   - [Matthew Goldstein, 'http://austein.livejournal.com/', 'http://austein.livejournal.com/data/atom']
   start: 11/21/2011
