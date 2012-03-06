@@ -7,6 +7,7 @@ andresmh:
   - ["Andr\xE9s Monroy-Hern\xE1ndez", 'http://blogs.law.harvard.edu/andresmh/', 'http://blogs.law.harvard.edu/andresmh/feed/']
   start: 10/31/2011
 asheesh:
+  end: '2012-03-05'
   links:
   - [Asheesh Laroia, 'http://asheesh.org/note/', 'http://asheesh.org/note/index.atom']
   start: 11/07/2011
@@ -20,6 +21,7 @@ bardagjy:
   - [Andy Bardagjy, 'http://bardagjy.com', 'http://bardagjy.com/?feed=rss2']
   start: 11/28/2011
 bkolko:
+  end: '2012-03-05'
   links:
   - [Beth Kolko, 'http://bethkolko.wordpress.com/', 'http://bethkolko.wordpress.com/feed/']
   start: 11/14/2011
