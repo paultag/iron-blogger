@@ -3,6 +3,7 @@ aarons:
   - [Aaron Shaw, 'http://fringethoughts.wordpress.com/', 'http://fringethoughts.wordpress.com/feed/atom']
   start: 11/07/2011
 andresmh:
+  end: '2012-03-16'
   links:
   - ["Andr\xE9s Monroy-Hern\xE1ndez", 'http://blogs.law.harvard.edu/andresmh/', 'http://blogs.law.harvard.edu/andresmh/feed/']
   start: 10/31/2011
@@ -73,6 +74,7 @@ johns:
   - [John Sullivan, 'http://journal.wjsullivan.net', 'http://feeds.feedburner.com/wjsullivan']
   start: 11/14/2011
 joi:
+  end: '2012-03-16'
   links:
   - [Joichi Ito, 'http://joi.ito.com/', 'http://feeds.feedburner.com/joi-ito/weblog']
   - [Joichi Ito (Diving), 'http://diving.ito.com/', 'http://diving.ito.com/rss']
