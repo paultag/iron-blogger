@@ -35,6 +35,7 @@ crschmidt:
   - [Christopher Schmidt, 'http://crschmidt.net/blog/feed/', 'http://crschmidt.net/blog/feed/']
   start: 11/21/2011
 daf:
+  end: '2012-03-19'
   links:
   - [Dafydd Harries, 'http://rhydd.org/blog/', 'http://rhydd.org/blog/index.atom']
   - [Dafydd Harries (LiveJournal), 'http://dgh.livejournal.com/', 'http://dgh.livejournal.com/data/atom']
