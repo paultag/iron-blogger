@@ -66,10 +66,6 @@ jeff:
   - [Jeff Warren (Unterbahn), 'http://unterbahn.com', 'http://unterbahn.com/feed/']
   - [Jeff Warren (Public Laboratory), 'http://publiclaboratory.org/', 'http://publiclaboratory.org/feed/1']
   start: 11/28/2011
-jgay:
-  links:
-  - [Joshua Gay, 'http://joshuagay.org/blog/', 'http://joshuagay.org/blog/?feed=rss2']
-  start: 11/14/2011
 johns:
   links:
   - [John Sullivan, 'http://journal.wjsullivan.net', 'http://feeds.feedburner.com/wjsullivan']
