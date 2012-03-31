@@ -80,13 +80,6 @@ joi:
   - [Joichi Ito, 'http://joi.ito.com/', 'http://feeds.feedburner.com/joi-ito/weblog']
   - [Joichi Ito (Diving), 'http://diving.ito.com/', 'http://diving.ito.com/rss']
   start: 11/14/2011
-karim:
-  end: '2012-01-25'
-  links:
-  - [Karim Lakhani (Spoudaiospaizen), 'http://spoudaiospaizen.net/', 'http://spoudaiospaizen.net/feed/atom/']
-  - [Karim Lakhani (Strategy Profs), 'http://strategyprofs.wordpress.com/author/karimlakhani/',
-    'http://strategyprofs.wordpress.com/author/karimlakhani/feed/atom/']
-  start: 11/14/2011
 lombana:
   links:
   - [Andres Lombana Bermudez, 'http://andreslombana.net/blog/', 'http://andreslombana.net/blog/?feed=rss2']

@@ -887,3 +887,7 @@
 2012-03-19 Punt
   Pool:Owed:daf  $-30.0
   User:daf
+
+2012-03-31 Remove Karim
+  Pool:Owed:karim   $-5.00
+  User:karim
