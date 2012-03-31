@@ -894,3 +894,7 @@
 2012-03-31 Remove jgay
   Pool:Owed:jgay    $-20.00
   User:jgay
+
+2012-03-31 Payment
+  Pool:Owed:mako    $-10.00
+  Pool:Paid 
