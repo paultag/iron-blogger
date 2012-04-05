@@ -995,3 +995,7 @@
 2012-04-04 Punt
   Pool:Owed:epopko  $-30.0
   User:epopko
+
+2012-04-04 Payment
+  Pool:Owed:jeff    $-5
+  Pool:Paid 
