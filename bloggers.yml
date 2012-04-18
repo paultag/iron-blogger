@@ -50,6 +50,7 @@ denten:
   - [Dennis Tenen, 'http://d3nten.com/', 'http://d3nten.com/feed/']
   start: 2/20/2011
 djcp:
+  end: '2012-04-17'
   links:
   - [Dan Collis-Puro, 'http://blogs.law.harvard.edu/djcp/', 'http://blogs.law.harvard.edu/djcp/feed']
   start: 11/14/2011
@@ -137,6 +138,7 @@ rheacock:
   - [Rebekah Heacock, 'http://jackfruity.com/', 'http://jackfruity.com/feed/']
   start: 11/21/2011
 ria:
+  end: '2012-04-17'
   links:
   - [Ricarose Roque, 'http://www.ricarose.com/diversity', 'http://www.ricarose.com/diversity/feed']
   start: 11/14/2011
@@ -169,10 +171,12 @@ vaughn:
   - [Vaughn Tan, 'http://www.flavourcountryfeedlot.com/', 'http://feeds.feedburner.com/flavourcountryfeedlot/sap?format=xml']
   start: 02/20/2012
 wendy:
+  end: '2012-04-17'
   links:
   - [Wendy Seltzer, 'http://wendy.seltzer.org/blog/', 'http://wendy.seltzer.org/blog/feed']
   start: 2/13/2012
 zig:
+  end: '2012-04-17'
   links:
   - [Jamie Zigelbaum, 'http://jamiezigelbaum.wordpress.com/', 'http://jamiezigelbaum.wordpress.com/feed/']
   - [Jamie Zigelbaum (Industry Lab), 'http://industry-lab.com/weblog/', 'http://pipes.yahoo.com/pipes/pipe.run?_id=99cc7cd7e956c53fefcb90e37b0dce2f&_render=rss']
