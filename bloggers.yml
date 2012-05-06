@@ -109,6 +109,10 @@ mika:
   - [Mika Matsuzaki, 'http://mika.im/nikki', 'http://mika.im/nikki/tag/ironblogger/feed/']
   - [Mika Matsuzaki (Acetarium), 'http://acetarium.com/blog/', 'http://acetarium.com/blog/?creator=mika&feed=rss2']
   start: 11/07/2011
+mindstalk:
+  links:
+  - [Damien Sullivan, 'http://mindstalk.livejournal.com/', 'http://mindstalk.livejournal.com/data/atom']
+  start: 05/07/2012
 mollydb:
   links:
   - [Molly de Blanc, 'http://mmillions.wordpress.com', 'http://mmillions.wordpress.com/feed/']
