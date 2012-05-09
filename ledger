@@ -1208,6 +1208,10 @@
   Pool:Owed:sj  $-20
   Pool:Paid
 
-2012-04-18  Payment
+2012-05-08  Payment
   Pool:Owed:andresmh  $-5
+  Pool:Paid
+
+2012-05-09  Payment
+  Pool:Owed:mako  $-15
   Pool:Paid
