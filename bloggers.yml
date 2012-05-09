@@ -165,6 +165,7 @@ sj:
   - [Samuel Klein, 'http://blogs.law.harvard.edu/sj/', 'http://blogs.law.harvard.edu/sj/feed/']
   start: 01/16/2012
 spang:
+  end: '2012-05-09'
   links:
   - [Christine Spang, 'http://blog.spang.cc/', 'http://blog.spang.cc/index.atom']
   start: 11/21/2011
