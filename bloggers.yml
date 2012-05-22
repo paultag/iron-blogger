@@ -117,7 +117,6 @@ mollydb:
   - [Molly de Blanc, 'http://mmillions.wordpress.com', 'http://mmillions.wordpress.com/feed/']
   start: 11/07/2011
 mstone:
-  end: '2012-05-14'
   links:
   - [Michael Stone, 'http://mstone.info/posts/', 'http://mstone.info/posts/atom.xml']
   start: 11/14/2011
