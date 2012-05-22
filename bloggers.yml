@@ -96,7 +96,7 @@ mako:
   start: 10/31/2011
 mattl:
   links:
-  - [Matt Lee, 'https://lttam.wordpress.com/', 'https://lttam.wordpress.com/feed/']
+  - [Matt Lee, 'https://lttam.wordpress.com/', 'http://feeds.feedburner.com/metamattl/rss']
   start: 02/27/2012
 mayo:
   links:
