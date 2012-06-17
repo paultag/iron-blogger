@@ -1344,3 +1344,10 @@
   User:swartzcr    $-5
   Pool:Owed:swartzcr
 
+2012-04-18 Ununt
+  Pool:Owed:denten  $30.0
+  User:denten
+2012-06-16 Payment
+  Pool:Owed:denten  $-40
+  Pool:Paid
+
