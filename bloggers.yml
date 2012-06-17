@@ -57,6 +57,7 @@ djcp:
   - [Dan Collis-Puro, 'http://blogs.law.harvard.edu/djcp/', 'http://blogs.law.harvard.edu/djcp/feed']
   start: 11/14/2011
 dlarochelle:
+  end: '2012-06-16'
   links:
   - [David Larochelle, 'http://blogs.law.harvard.edu/dlarochelle', 'http://blogs.law.harvard.edu/dlarochelle/feed/']
   start: 11/14/2011
@@ -141,6 +142,7 @@ paultag:
   - [Paul Tagliamonte, 'http://blog.pault.ag/', 'http://blog.pault.ag/rss']
   start: 11/07/2011
 rheacock:
+  end: '2012-06-16'
   links:
   - [Rebekah Heacock, 'http://jackfruity.com/', 'http://jackfruity.com/feed/']
   start: 11/21/2011
