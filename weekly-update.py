@@ -77,7 +77,7 @@ if punt:
         bloggers = yaml.safe_load(b)
     for p in punt:
         if 'end' not in bloggers[p]:
-            bloggers[p]['end'] = today
+            bloggers[p]['end'] = date
     with open('bloggers.yml','w') as b:
         yaml.safe_dump(bloggers, b)
 
