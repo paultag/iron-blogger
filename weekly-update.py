@@ -19,7 +19,6 @@ if args[0] == '-n':
     args = args[1:]
 
 date = args[0]
-today = str(datetime.date.today())
 
 with open('ledger', 'a') as f:
     f.write("\n")
@@ -38,10 +37,10 @@ with open('ledger', 'a') as f:
         if debt < 30: continue
         punt.append(user)
         f.write("""\
-%(today)s Punt
+%(date)s Punt
   Pool:Owed:%(user)s  $-%(debt)s
   User:%(user)s
-""" % {'user': user, 'debt': debt, 'today': today})
+""" % {'user': user, 'debt': debt, 'date': date})
 
 
 if not dry_run:
