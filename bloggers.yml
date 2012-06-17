@@ -3,6 +3,7 @@ aarons:
   - [Aaron Shaw, 'http://fringethoughts.wordpress.com/', 'http://fringethoughts.wordpress.com/feed/atom']
   start: 11/07/2011
 andresmh:
+  end: '2012-06-16'
   links:
   - ["Andr\xE9s Monroy-Hern\xE1ndez", 'http://blogs.law.harvard.edu/andresmh/', 'http://blogs.law.harvard.edu/andresmh/feed/']
   start: 10/31/2011
@@ -60,6 +61,7 @@ dlarochelle:
   - [David Larochelle, 'http://blogs.law.harvard.edu/dlarochelle', 'http://blogs.law.harvard.edu/dlarochelle/feed/']
   start: 11/14/2011
 epopko:
+  end: '2012-06-16'
   links:
   - [Ed Popko, 'http://blogs.law.harvard.edu/okpop/', 'http://blogs.law.harvard.edu/okpop/feed/']
   start: 02/06/2012
