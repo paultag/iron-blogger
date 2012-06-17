@@ -1489,3 +1489,7 @@
 2012-06-11 Week 32
   User:sj    $-5
   Pool:Owed:sj
+
+2012-06-16 Payment
+  Pool:Owed:mako    $-20
+  Pool:Paid
