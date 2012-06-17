@@ -20,8 +20,10 @@ def get_balance(acct):
     return float(out.split()[0][1:])
 
 def get_debts():
-    p = subprocess.Popen(['ledger', '-f', os.path.join(HERE, 'ledger'),
-                          '-n', 'balance', 'Pool:Owed:'],
+    p = subprocess.Popen(['ledger', '-f',
+                           os.path.join(HERE, 'ledger'),
+                           '--no-color', '--flat',
+                           '--no-total', 'balance', 'Pool:Owed:'],
                          stdout=subprocess.PIPE)
     (out, _) = p.communicate()
     debts = []
