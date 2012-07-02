@@ -32,6 +32,7 @@ cjb:
   - [Chris Ball, 'http://blog.printf.net/', 'http://blog.printf.net/xml/rss20/feed.xml']
   start: 02/20/2011
 crschmidt:
+  end: '2012-06-11'
   links:
   - [Christopher Schmidt, 'http://crschmidt.net/blog/feed/', 'http://crschmidt.net/blog/feed/']
   start: 11/21/2011
@@ -158,6 +159,7 @@ rocky:
   - [Rocky Acosta, 'http://arttechlaw.com/', 'http://arttechlaw.com/feed']
   start: 11/21/2011
 sayamindu:
+  end: '2012-06-11'
   links:
   - [Sayamindu Dasgupta, 'http://sayamindu.randomink.org/ramblings-reloaded/', 'http://sayamindu.randomink.org/ramblings-reloaded/feed/']
   start: 11/21/2011
