@@ -75,6 +75,7 @@ def render_template(path, week=None, **kwargs):
     lame = []
     skip = []
     userlist = []
+    punted = []
 
     class User(object):
         pass
@@ -90,10 +91,15 @@ def render_template(path, week=None, **kwargs):
 
         userlist.append(u)
 
+        # create a subset of punted users
+        if u.end:
+            punted.append(u)
+
     def user_key(u):
         return (u.start, u.username)
 
     userlist.sort(key=user_key)
+    punted.sort(key=user_key)
 
     for u in userlist:
         user_start = parse(u.start, default=START)
@@ -115,7 +121,7 @@ def render_template(path, week=None, **kwargs):
         week=week, week_start=week_start,week_end=week_end,
         good=good, lame=lame, skip=skip, userlist=userlist,
         pool=get_balance('Pool'), paid=get_balance('Pool:Paid'),
-        debts=debts, **kwargs)
+        debts=debts, punted=punted, **kwargs)
 
 if __name__ == '__main__':
     if len(sys.argv) < 2:
