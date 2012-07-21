@@ -2,6 +2,10 @@ aarons:
   links:
   - [Aaron Shaw, 'http://fringethoughts.wordpress.com/', 'http://fringethoughts.wordpress.com/feed/atom']
   start: 11/07/2011
+adelaida:
+  links:
+  - [Sarah Adelaida McIntire, 'https://saddlebaggins.wordpress.com/', 'https://saddlebaggins.wordpress.com/feed/']
+  start: 07/09/2012
 andresmh:
   end: '2012-06-16'
   links:
@@ -196,7 +200,3 @@ zig:
   - [Jamie Zigelbaum, 'http://jamiezigelbaum.wordpress.com/', 'http://jamiezigelbaum.wordpress.com/feed/']
   - [Jamie Zigelbaum (Industry Lab), 'http://industry-lab.com/weblog/', 'http://pipes.yahoo.com/pipes/pipe.run?_id=99cc7cd7e956c53fefcb90e37b0dce2f&_render=rss']
   start: 11/28/2011
-adelaida:
-  links:
-  - [Sarah Adelaida McIntire, 'https://saddlebaggins.wordpress.com/', 'https://saddlebaggins.wordpress.com/feed/']
-  start: 07/09/2012
