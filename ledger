@@ -1523,3 +1523,7 @@
 2012-07-09 Week 36
   User:nadya    $-5
   Pool:Owed:nadya
+
+2012-07-24 Payment
+  Pool:Owed:nadya   $-20
+  Pool:Paid
