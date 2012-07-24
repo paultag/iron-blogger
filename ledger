@@ -1566,3 +1566,10 @@
 2012-07-23 Week 38
   User:mako    $-5
   Pool:Owed:mako
+
+2012-07-24 Unpunt
+  Pool:Owed:dlarochelle  $30.0
+  User:dlarochelle
+2012-07-24 Payment
+  Pool:Owed:dlarochelle  $-20.0
+  Pool:Paid
