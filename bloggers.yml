@@ -53,6 +53,7 @@ dandennis:
   - [Daniel Jones, 'http://dandennis.tumblr.com/', 'http://dandennis.tumblr.com/rss']
   start: 11/21/2011
 denten:
+  end: '2012-07-09'
   links:
   - [Dennis Tenen, 'http://d3nten.com/', 'http://d3nten.com/feed/']
   start: 2/20/2011
@@ -125,6 +126,7 @@ mollydb:
   - [Molly de Blanc, 'http://mmillions.wordpress.com', 'http://mmillions.wordpress.com/feed/']
   start: 11/07/2011
 mstone:
+  end: '2012-07-09'
   links:
   - [Michael Stone, 'http://mstone.info/posts/', 'http://mstone.info/posts/atom.xml']
   start: 11/14/2011
