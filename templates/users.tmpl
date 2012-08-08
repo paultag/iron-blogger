@@ -1,10 +1,12 @@
-      <table id='participants'>
+<h1>Participants in Good Standing</h1>
+<table id='participants'>
         <tr>
           <th>Who</th>
           <th>Blog link</th>
           <th>Start Week</th>
         </tr>
 % for u in sorted(userlist, key=lambda u:u.username):
+    <% if u.end: continue %>
         <tr>
           <td><tt> ${u.username} </tt></td>
           <td>
@@ -20,3 +22,34 @@
         </tr>
 % endfor
       </table>
+
+% if any(map(lambda u: u.end, userlist)):
+<h1>Former Participants Punted for Lack of Payment</h1>
+
+      <table id='participants'>
+        <tr>
+          <th>Who</th>
+          <th>Blog link</th>
+          <th>Start Week</th>
+          <th>End Week</th>
+        </tr>
+% for u in sorted(userlist, key=lambda u:u.username):
+    <% if not u.end: continue %>
+        <tr>
+          <td><tt> ${u.username} </tt></td>
+          <td>
+           % if u.links:
+            % for a in u.links:
+           <a href="${a[1]}">${a[0]}</a>
+            % endfor
+           % else:
+             Undecided
+           % endif
+          </td>
+          <td> ${u.start} </td>
+          <td> ${u.end} </td>
+        </tr>
+% endfor
+      </table>
+
+% endif
