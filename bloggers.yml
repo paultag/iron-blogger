@@ -71,6 +71,10 @@ epopko:
   links:
   - [Ed Popko, 'http://blogs.law.harvard.edu/okpop/', 'http://blogs.law.harvard.edu/okpop/feed/']
   start: 02/06/2012
+hannah:
+  links:
+  - [Hannah Hildreth, 'http://sleepyjeandances.wordpress.com', 'https://sleepyjeandances.wordpress.com/feed/']
+  start: 07/30/2012
 jeff:
   links:
   - [Jeff Warren (Unterbahn), 'http://unterbahn.com', 'http://unterbahn.com/feed/']
