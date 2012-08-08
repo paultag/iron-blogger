@@ -1600,3 +1600,8 @@
 2012-07-23 Punt
   Pool:Owed:cjb  $-30.0
   User:cjb
+
+2012-08-08 Payment
+  Pool:Owed:mako    $-25
+  Pool:Paid
+
