@@ -1573,3 +1573,10 @@
 2012-07-24 Payment
   Pool:Owed:dlarochelle  $-20.0
   Pool:Paid
+
+2012-08-08 Unpunt
+  Pool:Owed:andresmh  $30
+  User:andresmh
+2012-08-08 Payment
+  Pool:Owed:andresmh  $-20
+  Pool:Paid
