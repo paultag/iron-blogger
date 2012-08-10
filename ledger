@@ -1641,3 +1641,7 @@
 2012-08-06 Payment 
   Pool:Owed:epopko     $-30
   Pool:Paid
+
+2012-08-08 Payment 
+  Pool:Owed:mattl     $-5
+  Pool:Paid
