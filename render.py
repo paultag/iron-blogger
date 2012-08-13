@@ -7,21 +7,22 @@ import sys
 import os
 import os.path
 import subprocess
+import re
 from mako.template import Template
 
-START = datetime.datetime(2011, 10, 24, 6)
-HERE  = os.path.dirname(__file__)
+from config import *
 
 def get_balance(acct):
-    p = subprocess.Popen(['ledger', '-f', os.path.join(HERE,'ledger'),
-                          '-n', 'balance', acct],
+    print acct
+    balance_cmd_tmp = BALANCE_CMD
+    balance_cmd_tmp.append(acct)
+    p = subprocess.Popen(balance_cmd_tmp,
                          stdout=subprocess.PIPE)
     (out, _) = p.communicate()
-    return float(out.split()[0][1:])
+    return float(re.sub(r'\s*(\d+)\s+.*', r'\1', out))
 
 def get_debts():
-    p = subprocess.Popen(['ledger', '-f', os.path.join(HERE, 'ledger'),
-                          '-n', 'balance', 'Pool:Owed:'],
+    p = subprocess.Popen(DEBTS_CMD,
                          stdout=subprocess.PIPE)
     (out, _) = p.communicate()
     debts = []
@@ -29,7 +30,7 @@ def get_debts():
         if not line: continue
         (val, acct) = line.split()
         user = acct[len("Pool:Owed:"):]
-        val  = float(val[len("$"):])
+        val = float(re.sub(r'(\D)?(\d+)$', r'\2', val))
         debts.append((user, val))
     return debts
 
@@ -100,10 +101,10 @@ def render_template(path, week=None, **kwargs):
     punted.sort(key=user_key)
 
     for u in userlist:
-        user_start = parse(u.start, default=START)
+        user_start = datetime.datetime(*(u.start.timetuple()[:6]))
         if u.end and parse(u.end, default=START) <= week_start:
             continue
-
+        
         if should_skip(u.skip, week):
             pass
         elif user_start > week_start:
@@ -115,11 +116,14 @@ def render_template(path, week=None, **kwargs):
 
     debts = get_debts()
 
-    return Template(filename=path, output_encoding='utf-8').render(
+    return Template(filename=path, input_encoding='utf-8',
+                    output_encoding='utf-8',
+                    default_filters=['decode.utf8']).render(
         week=week, week_start=week_start,week_end=week_end,
         good=good, lame=lame, skip=skip, userlist=userlist,
         pool=get_balance('Pool'), paid=get_balance('Pool:Paid'),
-        debts=debts, punted=punted, **kwargs)
+        debts=debts, punted=punted, currency=CURRENCY, fine=FINE_SIZE,
+        **kwargs)
 
 if __name__ == '__main__':
     if len(sys.argv) < 2:

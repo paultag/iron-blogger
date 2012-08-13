@@ -6,11 +6,7 @@ import sys
 import xmlrpclib
 import subprocess
 
-
-XMLRPC_ENDPOINT = 'http://iron-blogger.mako.cc/xmlrpc.php'
-USER            = 'mako'
-BLOG_ID         = 1
-PAGE_ID         = 12
+import config
 
 try:
     subprocess.call(['stty', '-echo'])
@@ -20,7 +16,7 @@ finally:
     subprocess.call(['stty', 'echo'])
 
 x = xmlrpclib.ServerProxy(XMLRPC_ENDPOINT)
-page = x.wp.getPage(BLOG_ID, PAGE_ID, USER, passwd)
+page = x.wp.getPage(BLOG_ID, PARTICIPANTS_PAGE_ID, USER, passwd)
 
 text = render.render_template('templates/users.tmpl')
 page['description'] = text

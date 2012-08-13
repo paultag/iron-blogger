@@ -7,9 +7,7 @@ import subprocess
 import datetime
 import yaml
 
-XMLRPC_ENDPOINT = 'http://iron-blogger.mako.cc/xmlrpc.php'
-USER            = 'mako'
-BLOG_ID         = 1
+from config import *
 
 dry_run = False
 
@@ -34,11 +32,11 @@ punt = []
 with open('ledger', 'a') as f:
     f.write("\n")
     for (user, debt) in debts:
-        if debt < 30: continue
+        if debt < (FINE_SIZE * 6): continue
         punt.append(user)
         f.write("""\
 %(date)s Punt
-  Pool:Owed:%(user)s  $-%(debt)s
+  Pool:Owed:%(user)s  -%(debt)s
   User:%(user)s
 """ % {'user': user, 'debt': debt, 'date': date})
 

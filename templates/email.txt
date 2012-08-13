@@ -4,7 +4,7 @@ To: iron-blogger@mako.cc
 
 SLACKERS: ${", ".join(sorted([u.username for u in lame]))}
 % if punt:
-PUNTED for balance ≥$30: ${", ".join(sorted(punt))}
+PUNTED for balance ≥${currency}${fine * 6}: ${", ".join(sorted(punt))}
 % endif
 
 People who posted:
@@ -23,16 +23,18 @@ People who have not yet started:
 % endif
 
 Beer pool:
-This week: $${5 * len(lame)}.00
-Total:     $${pool}
-Paid:      $${paid}
+This week: ${currency}${fine * len(lame)}.00
+Total:     ${currency}${pool}
+Paid:      ${currency}${paid}
 
 Individual debts:
 % for (u, v) in sorted(debts, key=lambda p:p[1], reverse=True):
-${"%20s $%d" % (u, v)}
+       ${u} ${currency}${v}
 % endfor
+% if punted:
 
-PREVIOUSLY PUNTED (pay $30 balance to return): 
+PREVIOUSLY PUNTED (pay ${currency}${fine * 6} balance to return): 
 % for (u) in sorted(punted, key=lambda p:p.username):
 ${"%20s (%s)" % (u.username, u.end)}
 % endfor
+% endif

@@ -40,9 +40,9 @@ Results for week beginning ${week_start.strftime("%F")}
 
 <h2>Beer pool:</h2>
 <table>
-  <tr> <td> This week: </td> <td> $${5 * len(lame)} </td> </tr>
-  <tr> <td> Total: </td> <td> $${pool} </td> </tr>
-  <tr> <td> Paid: </td> <td> $${paid} </td> </tr>
+  <tr> <td> This week: </td> <td> ${currency}${fine * len(lame)} </td> </tr>
+  <tr> <td> Total: </td> <td> ${currency}${pool} </td> </tr>
+  <tr> <td> Paid: </td> <td> ${currency}${paid} </td> </tr>
 </table>
 
 <h2>Debts:</h2>
@@ -53,7 +53,7 @@ Results for week beginning ${week_start.strftime("%F")}
 <tr>\
 % endif
 <% i += 1 %>\
-<td class="user">${u}</td> <td class="money">$${v}</td>\
+<td class="user">${u}</td> <td class="money">${currency}${v}</td>\
 % if i % 3 == 0:
 </tr>
 %endif
