@@ -32,7 +32,7 @@ punt = []
 with open('ledger', 'a') as f:
     f.write("\n")
     for (user, debt) in debts:
-        if debt < (FINE_SIZE * 6): continue
+        if debt <= (FINE_SIZE * 6): continue
         punt.append(user)
         f.write("""\
 %(date)s Punt

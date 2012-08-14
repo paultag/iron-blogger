@@ -13,7 +13,6 @@ from mako.template import Template
 from config import *
 
 def get_balance(acct):
-    print acct
     balance_cmd_tmp = BALANCE_CMD
     balance_cmd_tmp.append(acct)
     p = subprocess.Popen(balance_cmd_tmp,
@@ -30,6 +29,7 @@ def get_debts():
         if not line: continue
         (val, acct) = line.split()
         user = acct[len("Pool:Owed:"):]
+        if not user: continue
         val = float(re.sub(r'(\D)?(\d+)$', r'\2', val))
         debts.append((user, val))
     return debts
@@ -102,7 +102,7 @@ def render_template(path, week=None, **kwargs):
 
     for u in userlist:
         user_start = datetime.datetime(*(u.start.timetuple()[:6]))
-        if u.end and parse(u.end, default=START) <= week_start:
+        if u.end and datetime.datetime(*(u.end.timetuple()[:6])) <= week_start:
             continue
         
         if should_skip(u.skip, week):
