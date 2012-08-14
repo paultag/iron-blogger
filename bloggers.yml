@@ -192,7 +192,10 @@ swartzcr:
   start: 2011-11-28
 vaughn:
   links:
-  - [Vaughn Tan, 'http://www.flavourcountryfeedlot.com/', 'http://feeds.feedburner.com/flavourcountryfeedlot/sap?format=xml']
+  - [Vaughn Tan (The Sap Also Rises), 'http://www.flavourcountryfeedlot.com/', 'http://feeds.feedburner.com/flavourcountryfeedlot/sap?format=xml']
+  - [Vaughn Tan (Hydration is Our Highest Priority), 'http://hydrationisourhighestpriority.blogspot.com/',
+    'http://hydrationisourhighestpriority.blogspot.com/feeds/posts/default']
+  - [Vaughn Tan (When I Am King), 'http://nowforthenoodles.blogspot.com/', 'http://feeds.feedburner.com/WhenIAmKing?format=xml']
   start: 2012-02-20
 wendy:
   end: 2012-04-17
