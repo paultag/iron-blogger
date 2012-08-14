@@ -1,2 +1,312 @@
-http://etherpad.mit.edu/iOQ6K3S7HZ
+== Iron Blogger Setup Instructions ==
+
+Author: Benjamin Mako Hill
+
+Thanks to Tony Yet from Iron Blogger Guangzhou who acted as the "guinea
+pig" and whose experience in the installation helped provide the impetus
+for writing this documentation.
+
+=== Things You'll Need ===
+
+- Wordpress blog, set up on some server that you have admin rights to.
+- GNU Ledger (http://ledger-cli.org/)
+- Python YAML
+- A mailing list or mailing alias. Each week you will send an email with
+  the results and that email should go to all the participants. Iron
+  Blogger doesn't automatically email everybody but you can create an
+  list on librelist.org, Google Groups, or on your own system with GNU
+  Mailman (for example). I just use a simple Postfix email alias but
+  other folks do different things.
+- Git (http://git-scm.com/)
+
+You can install the dependencies on Debian or Ubuntu with:
+
+  apt-get install ledger python-yaml git
+
+=== Setting it up ===
+
+Iron blogger runs in two places:
+
+1. The server that hosts your installation of Wordpress and installation
+   of Planet.
+2. The administrator's client systems where the administrator will run
+   the scripts from. On my system, this is just my laptop.
+
+=== 1. Setting up the server ===
+
+First, you will need to set up a  Wordpress installation. You can
+download one from: https://wordpress.org/
+
+Please follow the instructions there on how to set one up. 
+
+Once you have installed wordpress, you need to turn on XML-RPC. You can
+do that by checking the box in the Settings -> Writing -> XML-RPC
+setting in the Wordpress administrative interface.
+
+==== Installing and setting up planet ====
+
+Second, you need to install the Planet software which will show you an
+aggregator of all of the blogs of people who are participating in a
+single feed. Planet just sorts of regenerates from a "cronjob"
+periodically.
+
+You can put Planet anywhere, but I put it in a subdirectory of my
+Wordpress directory. My wordpress site is set up to be
+http://iron-blogger.mako.cc so planet will show up as
+http://iron-blogger.mako.cc/planet
+
+You can download the latest version of the planet code from:
+
+  http://www.planetplanet.org/
+
+The will will be something like "planet-2.0.tar.bz2" and you can upack
+it with "tar -jxvf FILENAME".
+
+The key file in planet is a file called "config.ini". You will see that
+the Iron Blogger client code will generate this automatically so don't
+edit this file by hand
+
+You will need to create an output directory and a templates directory. I
+do this just by copying the examples directory with a command like: cp
+-R examples/output out; cp -R examples templates; cp
+examples/fancy/index.html.tmpl templates
+
+Planet updates automatically. What I did was create a little shell
+scripts with the following content (I created it in
+"~/bin/update_planet.sh", but make sure you do "chmod +x" to make it
+executable). Also make sure that you change the location (e.g.,
+"/var/www/iron-blogger/planet") to the full path of your planet
+installation on your server:
+
+  #!/bin/sh
+  cd /var/www/iron-blogger/planet
+  python ./planet.py ./config.ini 2>/dev/null
+
+I then added a cronjob so that it runs every half hour. Make sure your
+user is part of the crontab group or add them with "sudo adduser tony23
+crontab". Once your userhas permission, you can type crontab -e and then
+add the following line which will cause planet to update on the 14th and
+44th minute of every hour:
+
+  14,44 * * * *   /home/mako/bin/update_planet.sh
+
+Once planet is running, it will be at WORD_PRESSLOCATION/planet/out.
+
+If you want it to be at just "/planet" you need to add an Apache alias
+to your Apache configuration file that is something like this (except
+with your location in the second part):
+
+  Alias /planet /var/www/iron-blogger/planet/out/
+
+=== 2. Setting up the administrators client system ===
+
+First, you'll need to clone the repository into some safe place on your system:
+
+  git clone git://projects.mako.cc/iron-blogger
+
+Iron Blogger asssumes you are running bit and will even commit things to
+your git repository for you in certain situations (e.g., when you run
+the weekly updates). As you make these changes, it's a good idea to keep
+committ things to git with "git commit -a" or something similar.
+
+==== Configuration Files ====
+
+The following files are configuration files that you will need to blank
+out and then customize completing for your system:
+
+1. bloggers.yml
+
+This file contains the list of the bloggers. Find an example of someone
+and copy and paste. The "start" date should be the Monday of the first
+week that the person is active.
+
+The list can contain multiple blogs and feeds. Every user is introduced
+with a little nickname which, in our system, is usually that person's
+user id.
+
+As you set it up, this only needs to be a single person.
+
+2. email_list
+
+This files doesn't "do" anything. I just use it as a list of the people
+who are using the system. That said, I like to keep a separate list of
+who is participating.
+
+3. ledger
+
+The ledger file is the file you will end up modifying quite a lot in
+order to keep up with who owes what, who had paid what, how much you
+have spent at meetups, etc. The way it works is like a basic ledger
+program but its data is all stored in a text file.
+
+If you have not used GNU Ledger before, figuring out exactly how it
+works can be a little tricky. In order to modify the file, however, you
+should only need copy and paste from my material. To start with, move
+the existing ledger file (from Iron Blogger Boston) to a new file with a
+commad like "mv ledger ledger.boston.example".
+
+Now, create a new file, called "ledger" in that directory that contains
+a little bit of test data for your installation. Unfortunately, if you
+just give it an empty file with no debts, the software will not work.
+So, add a fictional debt and a payment (one of *each*). Once things get
+up and running, you can remove this, just by removing the basic lines
+from the line.
+
+An example of a fictional line would be as follows (although you'd want
+to replace "mako" with the name of someone who is listed in your
+bloggers.yml file):
+
+2011-11-14 Week 1
+  User:andresmh    -5
+  Pool:Owed:mako
+2011-11-14 Payment
+  Pool:Owed:mako    -5
+  Pool:Paid
+
+In a ledger, money must always come from where and go somewhere. There
+are two entries in there.
+
+The first entry is a debt: money is going from the User:mako account
+into the Pool:Owed:mako account. As a result, User:mako is now at "$-5"
+while the Pool:Owed is now positive $5.
+
+The second entry is a payment: money is going from the Pool:Owed:mako
+account into the Pool:Paid account. Think of it this way. In the first
+bit, Mako owes the pools. After he pays, money is still in the pool, but
+its in the part of the pool that has been paid up.
+
+The person who runs Iron Blogger is basically the bank. Everything in
+Pool:Paid is money that you have been given. Anything in Pool:Owed is
+money that people owed the pool but which you have not received yet.
+
+Once you have this set up, you can test it by running the ledger command
+which you hopefully installed earlier. Try running "ledger -f ledger
+balance Pool:Owed" to find the balance owed. In this command, the first
+ledger is the program GNU Ledger while the "-f ledger" tell is to read
+the ledger file in the local directory as its input.
+
+4. out/
+
+The Iron Blogger code was a subdirectory called "out" where it will
+store intermediary data as it works. Just do "mkdir out" in your main
+directory on the client.
+
+==== Things you will need to modify ====
+
+1.
+
+These two files should be edited so that they contain details about your
+name/administrator, email address, etc:
+
+templates/config.ini
+templates/email.txt 
+
+2.
+
+You must modify this line in the file "config.py" that it points to the
+Monday that starts the week that your version of Iron Blogger is
+starting:
+
+START = datetime.datetime(2011, 10, 24, 6)
+
+Also edit config.py to include details on your wordpress setup. Here are
+my details that include the PAGE_ID of the participants page:
+
+XMLRPC_ENDPOINT = 'http://iron-blogger.mako.cc/xmlrpc.php'
+USER            = 'mako'
+BLOG_ID         = 1
+PAGE_ID         = 12
+
+The file will automatically keep the page of participants up to date.
+You can see the page on our system here:
+
+http://iron-blogger.mako.cc/participants/
+
+The XMLRPC_ENDPOINT should be just your Wordpress URL followed by
+xmlrpc.php. The USER should be your Wordpress user. The BLOG_ID should
+be 1 and the PAGE_ID for the Parcipants page should be visible in your
+Wordpress administrative interface.
+
+5.
+
+You'll also want to edit the "update-bloggers" script. You should only
+need to change this line that copies the planet configuration over to
+your server.
+
+  rsync $HERE/../iron-blogger-planet/config.ini epicenter:/var/www/iron-blogger/planet/
+
+You will to change it so that the second part ("epicenter:/LOCATION")
+points to your server in the way that you get to it with SSH (i.e., not
+the web server location) and the full path to the directory on that
+server where you have planet code setup. If you do not have rsync set
+up, you should be able replace rsync with "scp" and have it work just
+fine.
+
+Once you've done this, you should be able to test this by typing
+"./update-bloggers" in the terminal from your iron-blogger directory on
+your client. If it's working correctly, it will ask you for a password
+which will be your Wordpress password. The script will update the
+participants page in Wordpress, generate a new "config.ini" file for
+Planet, and copy it to your server.
+
+=== Adding bloggers and running weekly updates ===
+
+To add a new blogger, you need to:
+
+1. Edit "bloggers.yml' to add the metadata about the person
+2. Run: ./scan-feeds.py
+3. Run: "./update-bloggers" which will update the participants page and
+   the planet configuration.
+
+When it's successful, it won't return anything.
+
+Each week, you can run a weekly update. The updates don't happen
+automatically which means the person running the system will need to do
+it each week. If you miss a week, that's OK. You can run updates at any
+time so, for example, you could run updates for the previous week, the
+week before, and the week before that, all at the same time.
+
+To run a weekly update, you need to:
+
+1. Run ./scan-feeds.py
+2. Run: ./weekly-update.py -n '2012-01-01'
+
+The date, in quotes, should be the Monday that *starts* the week that
+you are running it on. The "-n" in step 2 will mean to not make changes,
+will not post to your iron-blogger website, and will not send out an
+email. It will print out a list on the terminal.
+
+If it all looks good, you can send it by running that command again with
+step 3:
+
+3. ./weekly-update.py '2012-01-01'
+
+That command will ask for your Wordpress password again and will send
+out an email to which ever address is in templates/email.txt. It will
+show all the fines and will also commit the latest charges in the ledger
+into git.
+
+=== Punting and Unpunting ===
+
+By default, the code is set to "punt" people when they have a debt that
+reaches $30 (or whatever 6 times the fine size (set by FINE_SIZE in
+config.py). The weekly-update.py file will do this automatically. Their
+debt dissappears. The idea is that people cannot just keep oweing more
+and more. When people pay their $30, they are "unpunted" meaning that
+they are back in the club.
+
+Unpunting requires two changes:
+
+1. Go to bloggers.yml and remove the line that says "end" associated
+   with the bloggers name.
+2. Go to the ledger file and restore their debt (essentially, add $30
+   back into the Pool:Owed), and record their payment normally. The
+   following example shows how to do that:
+
+2012-02-13 Unpunt
+  Pool:Owed:mako  30
+  User:mako
+2012-02-13 Payment
+  Pool:Owed:mako    -30
+  Pool:Paid
 
