@@ -90,7 +90,9 @@ add the following line which will cause planet to update on the 14th and
 
   14,44 * * * *   /home/mako/bin/update_planet.sh
 
-Once planet is running, it will be at WORD_PRESSLOCATION/planet/out.
+Once planet is running, it will be at 'WORDPRESS_LOCATION/planet/out'
+(replacing WORDPRESS_LOCATION with where ever your copy of Wordpress
+actually is.
 
 If you want it to be at just "/planet" you need to add an Apache alias
 to your Apache configuration file that is something like this (except
