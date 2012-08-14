@@ -1,207 +1,207 @@
 aarons:
   links:
   - [Aaron Shaw, 'http://fringethoughts.wordpress.com/', 'http://fringethoughts.wordpress.com/feed/atom']
-  start: 11/07/2011
+  start: 2011-11-07
 adelaida:
   links:
   - [Sarah Adelaida McIntire, 'https://saddlebaggins.wordpress.com/', 'https://saddlebaggins.wordpress.com/feed/']
-  start: 07/09/2012
+  start: 2012-07-09
 andresmh:
   links:
   - ["Andr\xE9s Monroy-Hern\xE1ndez", 'http://blogs.law.harvard.edu/andresmh/', 'http://blogs.law.harvard.edu/andresmh/feed/']
-  start: 10/31/2011
+  start: 2011-10-31
 asheesh:
-  end: '2012-03-05'
+  end: 2012-03-05
   links:
   - [Asheesh Laroia, 'http://asheesh.org/note/', 'http://asheesh.org/note/index.atom']
-  start: 11/07/2011
+  start: 2011-11-07
 austein:
-  end: '2012-02-28'
+  end: 2012-02-28
   links:
   - [Matthew Goldstein, 'http://austein.livejournal.com/', 'http://austein.livejournal.com/data/atom']
-  start: 11/21/2011
+  start: 2011-11-21
 bardagjy:
-  end: '2012-05-06'
+  end: 2012-05-06
   links:
   - [Andy Bardagjy, 'http://bardagjy.com', 'http://bardagjy.com/?feed=rss2']
-  start: 11/28/2011
+  start: 2011-11-28
 bkolko:
-  end: '2012-03-05'
+  end: 2012-03-05
   links:
   - [Beth Kolko, 'http://bethkolko.wordpress.com/', 'http://bethkolko.wordpress.com/feed/']
-  start: 11/14/2011
+  start: 2011-11-14
 cjb:
-  end: '2012-07-23'
+  end: 2012-07-23
   links:
   - [Chris Ball, 'http://blog.printf.net/', 'http://blog.printf.net/xml/rss20/feed.xml']
-  start: 02/20/2011
+  start: 2011-02-20
 crschmidt:
-  end: '2012-06-11'
+  end: 2012-06-11
   links:
   - [Christopher Schmidt, 'http://crschmidt.net/blog/feed/', 'http://crschmidt.net/blog/feed/']
-  start: 11/21/2011
+  start: 2011-11-21
 daf:
-  end: '2012-03-19'
+  end: 2012-03-19
   links:
   - [Dafydd Harries, 'http://rhydd.org/blog/', 'http://rhydd.org/blog/index.atom']
   - [Dafydd Harries (LiveJournal), 'http://dgh.livejournal.com/', 'http://dgh.livejournal.com/data/atom']
   - [Dafydd Harries (Fuck Yeah X11), 'http://fuckyeahx11.tumblr.com/', 'http://fuckyeahx11.tumblr.com/rss']
-  start: 11/14/2011
+  start: 2011-11-14
 dandennis:
-  end: '2012-04-18'
+  end: 2012-04-18
   links:
   - [Daniel Jones, 'http://dandennis.tumblr.com/', 'http://dandennis.tumblr.com/rss']
-  start: 11/21/2011
+  start: 2011-11-21
 denten:
-  end: '2012-07-09'
+  end: 2012-07-09
   links:
   - [Dennis Tenen, 'http://d3nten.com/', 'http://d3nten.com/feed/']
-  start: 2/20/2011
+  start: 2011-02-20
 djcp:
-  end: '2012-04-17'
+  end: 2012-04-17
   links:
   - [Dan Collis-Puro, 'http://blogs.law.harvard.edu/djcp/', 'http://blogs.law.harvard.edu/djcp/feed']
-  start: 11/14/2011
+  start: 2011-11-14
 dlarochelle:
   links:
   - [David Larochelle, 'http://blogs.law.harvard.edu/dlarochelle', 'http://blogs.law.harvard.edu/dlarochelle/feed/']
-  start: 11/14/2011
+  start: 2011-11-14
 epopko:
   links:
   - [Ed Popko, 'http://blogs.law.harvard.edu/okpop/', 'http://blogs.law.harvard.edu/okpop/feed/']
-  start: 02/06/2012
+  start: 2012-02-06
 hannah:
   links:
   - [Hannah Hildreth, 'http://sleepyjeandances.wordpress.com', 'https://sleepyjeandances.wordpress.com/feed/']
-  start: 07/30/2012
+  start: 2012-07-30
 jeff:
   links:
   - [Jeff Warren (Unterbahn), 'http://unterbahn.com', 'http://unterbahn.com/feed/']
   - [Jeff Warren (Public Laboratory), 'http://publiclaboratory.org/', 'http://publiclaboratory.org/feed/1']
-  start: 11/28/2011
+  start: 2011-11-28
 johns:
   links:
   - [John Sullivan, 'http://journal.wjsullivan.net', 'http://feeds.feedburner.com/wjsullivan']
-  start: 11/14/2011
+  start: 2011-11-14
 joi:
-  end: '2012-03-16'
+  end: 2012-03-16
   links:
   - [Joichi Ito, 'http://joi.ito.com/', 'http://feeds.feedburner.com/joi-ito/weblog']
   - [Joichi Ito (Diving), 'http://diving.ito.com/', 'http://diving.ito.com/rss']
-  start: 11/14/2011
+  start: 2011-11-14
 lombana:
   links:
   - [Andres Lombana Bermudez, 'http://andreslombana.net/blog/', 'http://andreslombana.net/blog/?feed=rss2']
-  start: 11/14/2011
+  start: 2011-11-14
 mad:
   links:
   - [Madeleine Price Ball, 'http://www.madprime.org/', 'http://www.madprime.org/xml/rss20/feed.xml']
   - [Madeleine Price Ball (Personal Genome Project), 'http://blog.personalgenomes.org/author/mpball/',
     'http://blog.personalgenomes.org/author/mpball/feed/']
   skip: [11/28/2011]
-  start: 11/14/2011
+  start: 2011-11-14
 mako:
   links:
   - [Benjamin Mako Hill, 'http://mako.cc/copyrighteous/', 'http://mako.cc/copyrighteous/?flav=atom']
-  start: 10/31/2011
+  start: 2011-10-31
 mattl:
   links:
   - [Matt Lee, 'https://lttam.wordpress.com/', 'http://feeds.feedburner.com/metamattl/rss']
-  start: 02/27/2012
+  start: 2012-02-27
 mayo:
-  end: '2012-06-18'
+  end: 2012-06-18
   links:
   - [Mayo Fuster Morell, 'http://www.onlinecreation.info/', 'http://www.onlinecreation.info/?feed=rss2']
   skip: [11/21/2011]
-  start: 11/14/2011
+  start: 2011-11-14
 mika:
   links:
   - [Mika Matsuzaki, 'http://mika.im/nikki', 'http://mika.im/nikki/tag/ironblogger/feed/']
   - [Mika Matsuzaki (Acetarium), 'http://acetarium.com/blog/', 'http://acetarium.com/blog/?creator=mika&feed=rss2']
-  start: 11/07/2011
+  start: 2011-11-07
 mindstalk:
   links:
   - [Damien Sullivan, 'http://mindstalk.livejournal.com/', 'http://mindstalk.livejournal.com/data/atom']
-  start: 05/07/2012
+  start: 2012-05-07
 mollydb:
   links:
   - [Molly de Blanc, 'http://mmillions.wordpress.com', 'http://mmillions.wordpress.com/feed/']
-  start: 11/07/2011
+  start: 2011-11-07
 mstone:
-  end: '2012-07-09'
+  end: 2012-07-09
   links:
   - [Michael Stone, 'http://mstone.info/posts/', 'http://mstone.info/posts/atom.xml']
-  start: 11/14/2011
+  start: 2011-11-14
 nadav:
-  end: '2012-01-19'
+  end: 2012-01-19
   links:
   - [Nadav Aharony, 'http://thisinformed.com', 'http://www.thisinformed.com/feeds/posts/default?alt=rss']
-  start: 11/14/2011
+  start: 2011-11-14
 nadya:
   links:
   - [Nadya Peek, 'http://infosyncratic.nl/weblog', 'http://infosyncratic.nl/weblog/feed']
-  start: 11/14/2011
+  start: 2011-11-14
 pablo:
-  end: '2012-07-30'
+  end: 2012-07-30
   links:
   - [Pablo Rey (Meipi), 'http://www.meipi.com/author/pablo/', 'http://www.meipi.com/author/pablo/feed']
   - [Pablo Rey (600km), 'http://www.6000km.org/author/pablo/', 'http://www.6000km.org/author/pablo/feed/']
   - [Pablo Rey, 'http://numeroteca.org/', 'http://numeroteca.org/feed/']
   - [Pablo Rey (PageOneX), 'http://montera34.org/pageonex/author/p/', 'http://montera34.org/pageonex/author/p/feed/']
   - [Pablo Rey (Basurama), 'http://www.basurama.org/blog/author/pablo/', 'http://www.basurama.org/blog/author/pablo/feed/']
-  start: 02/13/2012
+  start: 2012-02-13
 paultag:
   links:
   - [Paul Tagliamonte, 'http://blog.pault.ag/', 'http://blog.pault.ag/rss']
-  start: 11/07/2011
+  start: 2011-11-07
 rheacock:
-  end: '2012-06-16'
+  end: 2012-06-16
   links:
   - [Rebekah Heacock, 'http://jackfruity.com/', 'http://jackfruity.com/feed/']
-  start: 11/21/2011
+  start: 2011-11-21
 ria:
-  end: '2012-04-17'
+  end: 2012-04-17
   links:
   - [Ricarose Roque, 'http://www.ricarose.com/diversity', 'http://www.ricarose.com/diversity/feed']
-  start: 11/14/2011
+  start: 2011-11-14
 rocky:
   links:
   - [Rocky Acosta, 'http://arttechlaw.com/', 'http://arttechlaw.com/feed']
-  start: 11/21/2011
+  start: 2011-11-21
 sayamindu:
-  end: '2012-06-11'
+  end: 2012-06-11
   links:
   - [Sayamindu Dasgupta, 'http://sayamindu.randomink.org/ramblings-reloaded/', 'http://sayamindu.randomink.org/ramblings-reloaded/feed/']
-  start: 11/21/2011
+  start: 2011-11-21
 shauna:
   links:
   - [Shauna Gordon-McKeon, 'http://www.shaunagm.net/blog', 'http://www.shaunagm.net/blog/feed/atom/']
-  start: 11/14/2011
+  start: 2011-11-14
 sj:
   links:
   - [Samuel Klein, 'http://blogs.law.harvard.edu/sj/', 'http://blogs.law.harvard.edu/sj/feed/']
-  start: 01/16/2012
+  start: 2012-01-16
 spang:
-  end: '2012-05-09'
+  end: 2012-05-09
   links:
   - [Christine Spang, 'http://blog.spang.cc/', 'http://blog.spang.cc/index.atom']
-  start: 11/21/2011
+  start: 2011-11-21
 swartzcr:
   links:
   - [Noah Swartz, 'http://verythorough.tumblr.com/', 'http://verythorough.tumblr.com/rss']
-  start: 11/28/2011
+  start: 2011-11-28
 vaughn:
   links:
   - [Vaughn Tan, 'http://www.flavourcountryfeedlot.com/', 'http://feeds.feedburner.com/flavourcountryfeedlot/sap?format=xml']
-  start: 02/20/2012
+  start: 2012-02-20
 wendy:
-  end: '2012-04-17'
+  end: 2012-04-17
   links:
   - [Wendy Seltzer, 'http://wendy.seltzer.org/blog/', 'http://wendy.seltzer.org/blog/feed']
-  start: 2/13/2012
+  start: 2012-02-13
 zig:
-  end: '2012-04-17'
+  end: 2012-04-17
   links:
   - [Jamie Zigelbaum, 'http://jamiezigelbaum.wordpress.com/', 'http://jamiezigelbaum.wordpress.com/feed/']
   - [Jamie Zigelbaum (Industry Lab), 'http://industry-lab.com/weblog/', 'http://pipes.yahoo.com/pipes/pipe.run?_id=99cc7cd7e956c53fefcb90e37b0dce2f&_render=rss']
-  start: 11/28/2011
+  start: 2011-11-28
