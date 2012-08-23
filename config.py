@@ -17,7 +17,7 @@ FINE_SIZE = 5
 CURRENCY = "$"
 
 # check the version of ledger to find out which commands to use
-if subprocess.check_output(['ledger', '--version'])[7] == "3":
+if subprocess.Popen(['ledger', '--version'], stdout=subprocess.PIPE).communicate()[0][7] == '3'
     BALANCE_CMD = ['ledger', '-f', os.path.join(HERE,'ledger'),
                    '--no-color', '-n', 'balance']
 
