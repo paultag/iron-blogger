@@ -147,7 +147,9 @@ pablo:
   - [Pablo Rey (600km), 'http://www.6000km.org/author/pablo/', 'http://www.6000km.org/author/pablo/feed/']
   - [Pablo Rey, 'http://numeroteca.org/', 'http://numeroteca.org/feed/']
   - [Pablo Rey (PageOneX), 'http://montera34.org/pageonex/author/p/', 'http://montera34.org/pageonex/author/p/feed/']
-  - [Pablo Rey (Basurama), 'http://www.basurama.org/blog/author/pablo/', 'http://www.basurama.org/blog/author/pablo/feed/']
+  - [Pablo Rey (Basurama Blog), 'http://www.basurama.org/blog/author/pablo/', 'http://www.basurama.org/blog/author/pablo/feed/']
+  - [Pablog Rey (Basurama), 'http://basurama.org/', 'http://basurama.org/author/pablo/feed']
+  - [Pablog Rey (Basurama EN), 'http://basurama.org/en/', 'http://basurama.org/en/author/pablo/feed']
   start: 2012-02-13
 paultag:
   links:
