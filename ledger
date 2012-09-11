@@ -1771,8 +1771,10 @@
 2012-08-13 Party Payment (Late)
   Pool:Owed:johns  -20
   Pool:Paid
-
 2012-08-13 Party Payment (Late)
   Pool:Owed:rocky  -20
   Pool:Paid
 
+2012-08-13 Beer and Ice Cream
+  Pool:Paid     -91.19
+  Events
