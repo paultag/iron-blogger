@@ -1801,3 +1801,7 @@
 2012-09-11 Payment 
   Pool:Owed:adelaida  -5
   Pool:Paid
+
+2012-09-11 Payment 
+  Pool:Owed:nadya   -30
+  Pool:Paid
