@@ -1753,3 +1753,26 @@
 2012-08-27 Punt
   Pool:Owed:mad  -35.0
   User:mad
+
+2012-08-13 Unpunt (Late)
+  User:pablo    -30
+  Pool:Owed:pablo
+2012-08-13 Party Payment (Late)
+  Pool:Owed:pablo   -30
+  Pool:Paid
+
+2012-08-13 Unpunt (Late)
+  User:mstone   -30
+  Pool:Owed:mstone
+2012-08-13 Party Payment (Late)
+  Pool:Owed:mstone  -30
+  Pool:Paid
+
+2012-08-13 Party Payment (Late)
+  Pool:Owed:johns  -20
+  Pool:Paid
+
+2012-08-13 Party Payment (Late)
+  Pool:Owed:rocky  -20
+  Pool:Paid
+
