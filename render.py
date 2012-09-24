@@ -13,9 +13,7 @@ from mako.template import Template
 from config import *
 
 def get_balance(acct):
-    balance_cmd_tmp = BALANCE_CMD
-    balance_cmd_tmp.append(acct)
-    p = subprocess.Popen(balance_cmd_tmp,
+    p = subprocess.Popen(BALANCE_CMD + [acct],
                          stdout=subprocess.PIPE)
     (out, _) = p.communicate()
     return float(re.sub(r'\s*(\d+)\s+.*', r'\1', out))
