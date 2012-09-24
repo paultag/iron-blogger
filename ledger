@@ -1810,7 +1810,7 @@
   User:mayo    -30
   Pool:Owed:mayo
 2012-09-23 Payment
-  User:Owed:mayo    -30
+  Pool:Owed:mayo    -30
   Pool:Paid
 
 2012-09-17 Fine Week 46
@@ -1829,9 +1829,6 @@
   User:mattl    -5
   Pool:Owed:mattl
 2012-09-17 Fine Week 46
-  User:mayo    -5
-  Pool:Owed:mayo
-2012-09-17 Fine Week 46
   User:mstone    -5
   Pool:Owed:mstone
 2012-09-17 Fine Week 46
@@ -1841,6 +1838,3 @@
   User:pablo    -5
   Pool:Owed:pablo
 
-2012-09-10 Punt
-  Pool:Owed:mayo  -35.0
-  User:mayo
