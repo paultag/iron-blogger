@@ -1,6 +1,6 @@
 adelaida:
   links:
-  - [Sarah Adelaida McIntire, 'https://saddlebaggins.wordpress.com/', 'https://saddlebaggins.wordpress.com/feed/']
+  - [Sarah Adelaida McIntire, 'http://saddlebaggins.wordpress.com/', 'http://saddlebaggins.wordpress.com/feed/']
   start: 2012-07-09
 amos:
   links:
@@ -73,7 +73,7 @@ epopko:
   start: 2012-02-06
 hannah:
   links:
-  - [Hannah Hildreth, 'http://sleepyjeandances.wordpress.com', 'https://sleepyjeandances.wordpress.com/feed/']
+  - [Hannah Hildreth, 'http://sleepyjeandances.wordpress.com', 'http://sleepyjeandances.wordpress.com/feed/']
   start: 2012-07-30
 jeff:
   links:
@@ -112,7 +112,7 @@ mako:
   start: 2011-10-31
 mattl:
   links:
-  - [Matt Lee, 'https://lttam.wordpress.com/', 'http://feeds.feedburner.com/metamattl/rss']
+  - [Matt Lee, 'http://lttam.wordpress.com/', 'http://feeds.feedburner.com/metamattl/rss']
   start: 2012-02-27
 mayo:
   end: 2012-09-10
