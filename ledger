@@ -1805,3 +1805,10 @@
 2012-09-11 Payment 
   Pool:Owed:nadya   -30
   Pool:Paid
+
+2012-09-23 Unpunt
+  User:mayo    -30
+  Pool:Owed:mayo
+2012-09-23 Payment
+  User:Owed:mayo    -30
+  Pool:Paid

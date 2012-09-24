@@ -115,7 +115,6 @@ mattl:
   - [Matt Lee, 'https://lttam.wordpress.com/', 'http://feeds.feedburner.com/metamattl/rss']
   start: 2012-02-27
 mayo:
-  end: 2012-06-18
   links:
   - [Mayo Fuster Morell, 'http://www.onlinecreation.info/', 'http://www.onlinecreation.info/?feed=rss2']
   skip: [11/21/2011]
