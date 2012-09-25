@@ -123,6 +123,7 @@ mayo:
   skip: [11/21/2011]
   start: 2011-11-14
 mika:
+  end: 2012-09-24
   links:
   - [Mika Matsuzaki, 'http://mika.im/nikki', 'http://mika.im/nikki/tag/ironblogger/feed/']
   - [Mika Matsuzaki (Acetarium), 'http://acetarium.com/blog/', 'http://acetarium.com/blog/?creator=mika&feed=rss2']
