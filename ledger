@@ -1872,9 +1872,19 @@
   User:epopko
 
 2012-09-24 Payment
-  Pool:Owed:swartzcr    -15
+  Pool:Owed:swartzcr    -20
   Pool:Paid
 
 2012-09-24 Payment
   Pool:Owed:pablo    -10
   Pool:Paid
+
+2012-09-24 Beer and Cider
+  Pool:Paid     -80.97
+  Events
+2012-09-24 Shaws Fruits and Veggies
+  Pool:Paid     -57.00
+  Events
+2012-09-24 Mike's (e.g., Pizza)
+  Pool:Paid     -84.00
+  Events
