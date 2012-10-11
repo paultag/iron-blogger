@@ -1888,3 +1888,7 @@
 2012-09-24 Mike's (e.g., Pizza)
   Pool:Paid     -84.00
   Events
+
+2012-10-04 Payment
+  Pool:Owed:amos    -5
+  Pool:Paid
