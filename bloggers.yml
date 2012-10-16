@@ -162,6 +162,10 @@ paultag:
   links:
   - [Paul Tagliamonte, 'http://blog.pault.ag/', 'http://blog.pault.ag/rss']
   start: 2011-11-07
+philipp:
+  links:
+  - [Philipp Schmidt, 'http://sharing-nicely.net/', 'http://sharing-nicely.net/feed']
+  start: 2012-10-15
 rheacock:
   end: 2012-06-16
   links:
