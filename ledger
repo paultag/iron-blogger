@@ -1892,3 +1892,10 @@
 2012-10-04 Payment
   Pool:Owed:amos    -5
   Pool:Paid
+
+2012-09-23 Unpunt
+  User:mad  -30
+  Pool:Owed:mad
+2012-10-04 Payment
+  Pool:Owed:mad     -25
+  Pool:Paid
