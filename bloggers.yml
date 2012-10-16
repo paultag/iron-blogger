@@ -104,7 +104,7 @@ mad:
   - [Madeleine Price Ball, 'http://www.madprime.org/', 'http://www.madprime.org/xml/rss20/feed.xml']
   - [Madeleine Price Ball (Personal Genome Project), 'http://blog.personalgenomes.org/author/mpball/',
     'http://blog.personalgenomes.org/author/mpball/feed/']
-  skip: [11/28/2011]
+  skip: [11/28/2011, 9/24/2012]
   start: 2011-11-14
 mako:
   links:
