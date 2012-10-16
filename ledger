@@ -1945,3 +1945,10 @@
 2012-10-04 Payment
   Pool:Owed:mako    -30
   Pool:Paid
+
+2012-09-23 Unpunt
+  User:mayo  -30
+  Pool:Owed:mayo
+2012-10-04 Payment
+  Pool:Owed:mayo     -30
+  Pool:Paid
