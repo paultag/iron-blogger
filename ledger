@@ -1899,3 +1899,13 @@
 2012-10-04 Payment
   Pool:Owed:mad     -25
   Pool:Paid
+
+2012-10-01 Fine Week 48
+  User:hannah    -5
+  Pool:Owed:hannah
+2012-10-01 Fine Week 48
+  User:mstone    -5
+  Pool:Owed:mstone
+2012-10-01 Fine Week 48
+  User:nadya    -5
+  Pool:Owed:nadya
