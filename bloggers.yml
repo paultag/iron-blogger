@@ -34,7 +34,7 @@ bkolko:
 cjb:
   end: 2012-07-23
   links:
-  - [Chris Ball, 'http://blog.printf.net/', 'http://blog.printf.net/xml/rss20/feed.xml']
+  - [Chris Ball, 'http://blog.printf.net/', 'http://blog.printf.net/feed/']
   start: 2011-02-20
 crschmidt:
   end: 2012-06-11
