@@ -147,6 +147,7 @@ nadav:
   - [Nadav Aharony, 'http://thisinformed.com', 'http://www.thisinformed.com/feeds/posts/default?alt=rss']
   start: 2011-11-14
 nadya:
+  end: 2012-11-05
   links:
   - [Nadya Peek, 'http://infosyncratic.nl/weblog', 'http://infosyncratic.nl/weblog/feed']
   start: 2011-11-14
