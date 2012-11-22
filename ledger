@@ -2047,3 +2047,7 @@
 2012-11-12 Punt
   Pool:Owed:mstone  -35.0
   User:mstone
+
+2012-11-22 Payment
+  Pool:Owed:jeff    -10
+  Pool:Paid
