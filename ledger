@@ -1954,9 +1954,6 @@
   Pool:Paid
 
 2012-10-29 Fine Week 52
-  User:dlarochelle    -5
-  Pool:Owed:dlarochelle
-2012-10-29 Fine Week 52
   User:johns    -5
   Pool:Owed:johns
 2012-10-29 Fine Week 52
@@ -1979,7 +1976,7 @@
   Pool:Owed:swartzcr
 
 2012-10-22 Punt
-  Pool:Owed:dlarochelle  -35.0
+  Pool:Owed:dlarochelle  -30.0
   User:dlarochelle
 
 2012-11-05 Fine Week 53
@@ -2053,4 +2050,11 @@
   Pool:Paid
 2012-11-26 Payment
   Pool:Owed:mad    -10
+  Pool:Paid
+
+2012-10-22 Unpunt
+  User:dlarochelle  -30
+  Pool:Owed:dlarochelle
+2012-11-26 Payment
+  Pool:Owed:dlarochelle     -20
   Pool:Paid
