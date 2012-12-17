@@ -27,7 +27,7 @@ bardagjy:
   - [Andy Bardagjy, 'http://bardagjy.com', 'http://bardagjy.com/?feed=rss2']
   start: 2011-11-28
 bkolko:
-  end: 2012-03-05
+  skip: [12/10/2012]
   links:
   - [Beth Kolko, 'http://bethkolko.wordpress.com/', 'http://bethkolko.wordpress.com/feed/']
   start: 2011-11-14
@@ -64,7 +64,6 @@ djcp:
   - [Dan Collis-Puro, 'http://blogs.law.harvard.edu/djcp/', 'http://blogs.law.harvard.edu/djcp/feed']
   start: 2011-11-14
 dlarochelle:
-  end: 2012-10-22
   links:
   - [David Larochelle, 'http://blogs.law.harvard.edu/dlarochelle', 'http://blogs.law.harvard.edu/dlarochelle/feed/']
   - [David Larochelle (David Blends), 'http://davidblends.tumblr.com/', 'http://davidblends.tumblr.com/rss']
