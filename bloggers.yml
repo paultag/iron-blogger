@@ -114,6 +114,7 @@ mako:
   - [Benjamin Mako Hill, 'http://mako.cc/copyrighteous/', 'http://mako.cc/copyrighteous/?flav=atom']
   start: 2011-10-31
 mattl:
+  end: 2012-12-03
   links:
   - [Matt Lee, 'http://lttam.wordpress.com/', 'http://feeds.feedburner.com/metamattl/rss']
   - [Matt Lee (All About Matt), 'http://mattl.wpengine.com/', 'http://feeds.feedburner.com/allaboutmatt']
