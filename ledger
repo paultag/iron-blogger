@@ -2158,3 +2158,10 @@
 2013-01-21 Fine Week 64
   User:philipp    -5
   Pool:Owed:philipp
+
+2013-01-25 Unpunt
+  Pool:Owed:nadya  30
+  User:nadya
+2012-01-25 Payment
+  Pool:Owed:nadya   -30
+  Pool:Paid
