@@ -85,6 +85,7 @@ jeff:
   - [Jeff Warren (Public Laboratory), 'http://publiclaboratory.org/', 'http://publiclaboratory.org/feed/1']
   start: 2011-11-28
 johns:
+  end: 2013-02-04
   links:
   - [John Sullivan, 'http://journal.wjsullivan.net', 'http://feeds.feedburner.com/wjsullivan']
   start: 2011-11-14
@@ -122,6 +123,7 @@ mattl:
   - [Matt Lee (All About Matt), 'http://mattl.wpengine.com/', 'http://feeds.feedburner.com/allaboutmatt']
   start: 2012-02-27
 mayo:
+  end: 2013-02-04
   links:
   - [Mayo Fuster Morell, 'http://www.onlinecreation.info/', 'http://www.onlinecreation.info/?feed=rss2']
   skip: [11/21/2011]
@@ -169,6 +171,7 @@ paultag:
   - [Paul Tagliamonte, 'http://blog.pault.ag/', 'http://blog.pault.ag/rss']
   start: 2011-11-07
 philipp:
+  end: 2013-02-04
   links:
   - [Philipp Schmidt, 'http://sharing-nicely.net/', 'http://sharing-nicely.net/feed']
   start: 2012-10-15
@@ -205,6 +208,7 @@ spang:
   - [Christine Spang, 'http://blog.spang.cc/', 'http://blog.spang.cc/index.atom']
   start: 2011-11-21
 swartzcr:
+  end: 2013-02-04
   links:
   - [Noah Swartz, 'http://verythorough.tumblr.com/', 'http://verythorough.tumblr.com/rss']
   start: 2011-11-28
