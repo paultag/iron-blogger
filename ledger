@@ -2292,3 +2292,9 @@
   Pool:Owed:mako    -30
   Pool:Paid
 
+2013-02-19 Unpunt
+  User:kendra    -30
+  Pool:Owed:kendra
+2012-02-19 Payment
+  Pool:Owed:kendra  -30
+  Pool:Paid
