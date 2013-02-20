@@ -2322,3 +2322,7 @@
 2013-02-19 Adjustment Down (Cash from Non-Participants)
   Pool:Paid     15
   Events
+
+2012-02-19 Payment
+  Pool:Owed:adelaida    -5
+  Pool:Paid
