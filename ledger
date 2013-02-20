@@ -2309,3 +2309,16 @@
 2012-02-19 Payment
   Pool:Owed:mattl    -30
   Pool:Paid
+
+2013-02-19 Paella Ingredients
+  Pool:Paid     -68.00
+  Events
+2013-02-19 Beer
+  Pool:Paid     -73.50
+  Events
+2013-02-19 Pizza from Mike's
+  Pool:Paid     -36.15
+  Events
+2013-02-19 Adjustment Down (Cash from Non-Participants)
+  Pool:Paid     15
+  Events
