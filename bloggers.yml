@@ -113,6 +113,7 @@ mad:
   skip: [11/28/2011, 9/24/2012]
   start: 2011-11-14
 mako:
+  end: 2013-02-11
   links:
   - [Benjamin Mako Hill, 'http://mako.cc/copyrighteous/', 'http://mako.cc/copyrighteous/?flav=atom']
   start: 2011-10-31
