@@ -2302,3 +2302,10 @@
 2012-02-19 Payment
   Pool:Owed:nadya    -5
   Pool:Paid
+
+2013-02-19 Unpunt
+  User:johns     -30
+  Pool:Owed:johns
+2012-02-19 Payment
+  Pool:Owed:johns    -30
+  Pool:Paid
