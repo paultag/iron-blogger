@@ -82,7 +82,7 @@ hannah:
 jeff:
   links:
   - [Jeff Warren (Unterbahn), 'http://unterbahn.com', 'http://unterbahn.com/feed/']
-  - [Jeff Warren (Public Laboratory), 'http://publiclaboratory.org/', 'http://publiclaboratory.org/feed/1']
+  - [Jeff Warren (Public Laboratory), 'http://publiclaboratory.org/', 'http://alpha.publiclaboratory.org/feed/warren.rss']
   start: 2011-11-28
 johns:
   links:
