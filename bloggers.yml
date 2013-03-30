@@ -29,7 +29,6 @@ bardagjy:
   - [Andy Bardagjy, 'http://bardagjy.com', 'http://bardagjy.com/?feed=rss2']
   start: 2011-11-28
 bkolko:
-  end: 2013-03-04
   links:
   - [Beth Kolko, 'http://bethkolko.wordpress.com/', 'http://bethkolko.wordpress.com/feed/']
   skip: [12/10/2012]
