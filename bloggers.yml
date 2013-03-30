@@ -183,6 +183,7 @@ ria:
   - [Ricarose Roque, 'http://www.ricarose.com/diversity', 'http://www.ricarose.com/diversity/feed']
   start: 2011-11-14
 rocky:
+  end: 2013-02-25
   links:
   - [Rocky Acosta, 'http://arttechlaw.com/', 'http://arttechlaw.com/feed']
   start: 2011-11-21
@@ -196,6 +197,7 @@ shauna:
   - [Shauna Gordon-McKeon, 'http://www.shaunagm.net/blog', 'http://www.shaunagm.net/blog/feed/atom/']
   start: 2011-11-14
 sj:
+  end: 2013-02-25
   links:
   - [Samuel Klein, 'http://blogs.law.harvard.edu/sj/', 'http://blogs.law.harvard.edu/sj/feed/']
   start: 2012-01-16
