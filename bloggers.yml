@@ -116,6 +116,7 @@ mako:
   - [Benjamin Mako Hill, 'http://mako.cc/copyrighteous/', 'http://mako.cc/copyrighteous/?flav=atom']
   start: 2011-10-31
 mattl:
+  end: 2013-04-01
   links:
   - [Matt Lee, 'http://lttam.wordpress.com/', 'http://feeds.feedburner.com/metamattl/rss']
   - [Matt Lee (All About Matt), 'http://mattl.wpengine.com/', 'http://feeds.feedburner.com/allaboutmatt']
@@ -196,7 +197,8 @@ sayamindu:
 shauna:
   links:
   - [Shauna Gordon-McKeon, 'http://www.shaunagm.net/blog', 'http://www.shaunagm.net/blog/feed/atom/']
-  - [Shauna Gordon-McKeon (Open Hatch), 'http://openhatch.org/blog/author/Shauna/', 'http://openhatch.org/blog/author/Shauna/feed/']
+  - [Shauna Gordon-McKeon (Open Hatch), 'http://openhatch.org/blog/author/Shauna/',
+    'http://openhatch.org/blog/author/Shauna/feed/']
   start: 2011-11-14
 sj:
   end: 2013-02-25
