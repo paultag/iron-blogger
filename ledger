@@ -2498,3 +2498,16 @@
 2013-05-13 Payment
   Pool:Owed:mako    -30
   Pool:Paid
+
+2013-05-06 Fine Week 79
+  User:bkolko    -5
+  Pool:Owed:bkolko
+2013-05-06 Fine Week 79
+  User:dlarochelle    -5
+  Pool:Owed:dlarochelle
+2013-05-06 Fine Week 79
+  User:johns    -5
+  Pool:Owed:johns
+2013-05-06 Fine Week 79
+  User:mako    -5
+  Pool:Owed:mako
