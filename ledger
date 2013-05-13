@@ -2495,3 +2495,6 @@
   User:mako    -5
   Pool:Owed:mako
 
+2012-02-19 Payment
+  Pool:Owed:mako    -25
+  Pool:Paid
