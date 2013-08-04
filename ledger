@@ -2667,3 +2667,7 @@
 2013-08-04 Payment (May 13, 2013)
   Pool:Owed:nadya  -30.0
   Pool:Paid
+
+2013-08-04 Payment
+  Pool:Owed:mako  -30.0
+  Pool:Paid
