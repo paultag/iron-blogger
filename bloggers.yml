@@ -230,9 +230,3 @@ wendy:
   links:
   - [Wendy Seltzer, 'http://wendy.seltzer.org/blog/', 'http://wendy.seltzer.org/blog/feed']
   start: 2012-02-13
-zig:
-  end: 2012-04-17
-  links:
-  - [Jamie Zigelbaum, 'http://jamiezigelbaum.wordpress.com/', 'http://jamiezigelbaum.wordpress.com/feed/']
-  - [Jamie Zigelbaum (Industry Lab), 'http://industry-lab.com/weblog/', 'http://pipes.yahoo.com/pipes/pipe.run?_id=99cc7cd7e956c53fefcb90e37b0dce2f&_render=rss']
-  start: 2011-11-28
