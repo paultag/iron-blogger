@@ -87,6 +87,7 @@ jeff:
   - [Jeff Warren (Public Laboratory), 'http://publiclaboratory.org/', 'http://alpha.publiclaboratory.org/feed/warren.rss']
   start: 2011-11-28
 johns:
+  end: 2013-05-27
   links:
   - [John Sullivan, 'http://journal.wjsullivan.net', 'http://feeds.feedburner.com/wjsullivan']
   start: 2011-11-14
