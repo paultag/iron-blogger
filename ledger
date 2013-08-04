@@ -2660,3 +2660,10 @@
 2013-07-22 Punt
   Pool:Owed:pablo  -35.0
   User:pablo
+
+2013-08-04 Unpunt
+  Pool:Owed:nadya  30.0
+  User:nadya
+2013-08-04 Payment (May 13, 2013)
+  Pool:Owed:nadya  -30.0
+  Pool:Paid
