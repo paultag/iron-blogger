@@ -170,6 +170,7 @@ pablo:
 paultag:
   links:
   - [Paul Tagliamonte, 'http://blog.pault.ag/', 'http://blog.pault.ag/rss']
+  - [Paul Tagliamonte (Notes), 'http://notes.pault.ag/', 'http://notes.pault.ag/feeds/all-en.atom.xml']
   start: 2011-11-07
 philipp:
   end: 2013-02-04
