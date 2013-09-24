@@ -2668,3 +2668,10 @@
 2013-08-05 Payment
   Pool:Owed:jeff  -25.0
   Pool:Paid
+
+2013-09-23 Unpunt
+  Pool:Owed:nadya  30.0
+  User:nadya
+2013-09-23 Payment (September 9, 2013)
+  Pool:Owed:nadya  -30.0
+  Pool:Paid
