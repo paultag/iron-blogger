@@ -2664,3 +2664,7 @@
 2013-08-04 Payment
   Pool:Owed:mako  -30.0
   Pool:Paid
+
+2013-08-05 Payment
+  Pool:Owed:jeff  -25.0
+  Pool:Paid
