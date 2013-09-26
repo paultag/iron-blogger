@@ -2,6 +2,6 @@
 HERE=$(dirname "$0")
 $HERE/import-feeds.py
 $HERE/render.py $HERE/templates/config.ini > $HERE/out/config.ini
-rsync $HERE/out/config.ini epicenter:/var/www/iron-blogger/planet/
+rsync $HERE/out/config.ini metatron.pault.ag:/srv/www/nginx/iron-blogger/planet/
 
 $HERE/update-participants.py
