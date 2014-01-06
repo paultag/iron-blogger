@@ -8,7 +8,7 @@ PELICAN_FLAGS = -v
 PELICAN_THEME = ../themes
 PELICAN_CONTENT = .
 
-THEME = epipe
+THEME = ferrum
 
 all: build
 

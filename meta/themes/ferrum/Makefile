@@ -3,7 +3,7 @@
 
 
 all: clean build
-	@echo "built theme epipe"
+	@echo "built theme ferrum"
 
 
 clean:
@@ -18,13 +18,13 @@ resources: less
 	mkdir -p static/font static/css static/images
 	cp resources/font/* static/font
 	cp resources/css/* static/css
-	cp resources/images/* static/images
+	# cp resources/images/* static/images
 
 
 less:
 	make -C less
 	mkdir -p static/css
-	mv less/epipe.css static/css
+	mv less/ferrum.css static/css
 
 
 .PHONY: build clean resources less

@@ -1,4 +1,4 @@
-LESS_SCRIPTS = epipe.css
+LESS_SCRIPTS = ferrum.css
 
 LESSC = lessc
 LESSCFLAGS = -x
