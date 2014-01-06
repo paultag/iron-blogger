@@ -7,7 +7,10 @@ build: render
 render:
 	make -C notes
 
-prod-render:
+clean:
+	rm -rf output
+
+prod-render: clean
 	make -C notes PELICAN_CONFIG=../prod.py
 
 upload: prod-render

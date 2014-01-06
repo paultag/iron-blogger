@@ -12,21 +12,17 @@
         <link href="{{ SITEURL }}/theme/css/justified-nav.css" rel="stylesheet">
     </head>
     <body>
-    <div class="container">
-      <div class="masthead">
-        <h3 class="text-muted">{{SITENAME}}</h3>
-        <ul class="nav nav-justified">
-          <li class="active"><a href="#">Home</a></li>
-          <li><a href="#">Projects</a></li>
-          <li><a href="#">Services</a></li>
-          <li><a href="#">Downloads</a></li>
-          <li><a href="#">About</a></li>
-          <li><a href="#">Contact</a></li>
-        </ul>
-      </div>
-
+        <div class="container">
+            <div class="masthead">
+                <h3 class="text-muted">{{SITENAME}}</h3>
+                <ul class="nav nav-justified">
+                    <li><a href="{{SITEURL}}/pages/home/">Home</a></li>
+                    <li><a href="{{SITEURL}}/pages/about/">About</a></li>
+                    <li><a href="{{SITEURL}}/pages/blogs/">Blogs</a></li>
+                    <li><a href="{{SITEURL}}/pages/current/">Current report</a></li>
+                </ul>
+            </div>
 {% block content %}{% endblock %}
-
-    </div> <!-- /container -->
+        </div>
     </body>
 </html>

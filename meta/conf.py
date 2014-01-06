@@ -38,3 +38,6 @@ TEMPLATE_PAGES = {}  # 'pages/jinja2_template.html': 'jinja2_template.html'}
 
 ARTICLE_URL = '{slug}'
 ARTICLE_SAVE_AS = "{slug}/index.html"
+
+PAGE_URL = 'pages/{slug}'
+PAGE_SAVE_AS = "pages/{slug}/index.html"
