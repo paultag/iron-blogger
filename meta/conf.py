@@ -2,14 +2,13 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Paul Tagliamonte'
-SITENAME = "Ceci n'est pas une -EPIPE"
-SITETAG = "Life as a F/OSS Zealot, Debianite, Pythonista and Lisper"
-SITEURL = 'http://notes.pault.ag'
-SITEURL = 'http://localhost/blog'
+SITENAME = "Iron Blogger"
+SITETAG = "Beer. Blogging. Parties."
+SITEURL = 'http://boston.iron-blogger.com'
+SITEURL = 'http://localhost/iron-blogger'
 TIMEZONE = "America/New_York"
-THEME = "epipe"
+THEME = "ferrum"
 
-GITHUB_URL = 'git://github.com/paultag/notes.pault.ag.git'
 PDF_GENERATOR = False
 REVERSE_CATEGORY_ORDER = True
 
@@ -23,10 +22,7 @@ MARKUP = ('rst', 'md', 'html')
 
 LINKS = (('Blog', 'http://blog.pault.ag'),)
 
-SOCIAL = (('twitter', 'http://twitter.com/paultag'),
-          ('google-plus', 'http://gplus.to/paultag'),
-          ('music', 'http://rdio.com/people/paultag'),
-          ('github', 'http://git.io/paultag'),)
+SOCIAL = []
 
 # global metadata to all the contents
 DEFAULT_METADATA = ()  #(('yeah', 'it is'),)
