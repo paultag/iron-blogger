@@ -1,0 +1,236 @@
+adelaida:
+  links:
+  - [Sarah Adelaida McIntire, 'http://saddlebaggins.wordpress.com/', 'http://saddlebaggins.wordpress.com/feed/']
+  - [Sarah Adelaida McIntire (GirlOhGirl), 'http://girlohgirl.wordpress.com/', 'http://girlohgirl.wordpress.com/feed/']
+  start: 2012-07-09
+amos:
+  end: 2013-01-28
+  links:
+  - [Amos Blanton, 'http://www.amosamos.net/thought/', 'http://www.amosamos.net/thought/feeds/all.atom.xml']
+  start: 2012-08-20
+andresmh:
+  end: 2012-08-20
+  links:
+  - ["Andr\xE9s Monroy-Hern\xE1ndez", 'http://blogs.law.harvard.edu/andresmh/', 'http://blogs.law.harvard.edu/andresmh/feed/']
+  start: 2011-10-31
+asheesh:
+  end: 2012-03-05
+  links:
+  - [Asheesh Laroia, 'http://asheesh.org/note/', 'http://asheesh.org/note/index.atom']
+  start: 2011-11-07
+austein:
+  end: 2012-02-28
+  links:
+  - [Matthew Goldstein, 'http://austein.livejournal.com/', 'http://austein.livejournal.com/data/atom']
+  start: 2011-11-21
+bardagjy:
+  end: 2012-05-06
+  links:
+  - [Andy Bardagjy, 'http://bardagjy.com', 'http://bardagjy.com/?feed=rss2']
+  start: 2011-11-28
+bkolko:
+  end: 2013-05-06
+  links:
+  - [Beth Kolko, 'http://bethkolko.wordpress.com/', 'http://bethkolko.wordpress.com/feed/']
+  skip: [12/10/2012]
+  start: 2011-11-14
+cjb:
+  end: 2012-07-23
+  links:
+  - [Chris Ball, 'http://blog.printf.net/', 'http://blog.printf.net/feed/']
+  start: 2011-02-20
+crschmidt:
+  end: 2012-06-11
+  links:
+  - [Christopher Schmidt, 'http://crschmidt.net/blog/feed/', 'http://crschmidt.net/blog/feed/']
+  start: 2011-11-21
+daf:
+  end: 2012-03-19
+  links:
+  - [Dafydd Harries, 'http://rhydd.org/blog/', 'http://rhydd.org/blog/index.atom']
+  - [Dafydd Harries (LiveJournal), 'http://dgh.livejournal.com/', 'http://dgh.livejournal.com/data/atom']
+  - [Dafydd Harries (Fuck Yeah X11), 'http://fuckyeahx11.tumblr.com/', 'http://fuckyeahx11.tumblr.com/rss']
+  start: 2011-11-14
+dandennis:
+  end: 2012-04-18
+  links:
+  - [Daniel Jones, 'http://dandennis.tumblr.com/', 'http://dandennis.tumblr.com/rss']
+  start: 2011-11-21
+denten:
+  end: 2012-07-09
+  links:
+  - [Dennis Tenen, 'http://d3nten.com/', 'http://d3nten.com/feed/']
+  start: 2011-02-20
+djcp:
+  end: 2012-04-17
+  links:
+  - [Dan Collis-Puro, 'http://blogs.law.harvard.edu/djcp/', 'http://blogs.law.harvard.edu/djcp/feed']
+  start: 2011-11-14
+dlarochelle:
+  end: 2013-06-03
+  links:
+  - [David Larochelle, 'http://blogs.law.harvard.edu/dlarochelle', 'http://blogs.law.harvard.edu/dlarochelle/feed/']
+  - [David Larochelle (David Blends), 'http://davidblends.tumblr.com/', 'http://davidblends.tumblr.com/rss']
+  start: 2011-11-14
+epopko:
+  end: 2012-09-17
+  links:
+  - [Ed Popko, 'http://blogs.law.harvard.edu/okpop/', 'http://blogs.law.harvard.edu/okpop/feed/']
+  start: 2012-02-06
+hannah:
+  end: 2012-10-29
+  links:
+  - [Hannah Hildreth, 'http://sleepyjeandances.wordpress.com', 'http://sleepyjeandances.wordpress.com/feed/']
+  start: 2012-07-30
+jeff:
+  links:
+  - [Jeff Warren (Unterbahn), 'http://unterbahn.com', 'http://unterbahn.com/feed/']
+  - [Jeff Warren (Public Laboratory), 'http://publiclaboratory.org/', 'http://alpha.publiclaboratory.org/feed/warren.rss']
+  start: 2011-11-28
+johns:
+  end: 2013-05-27
+  links:
+  - [John Sullivan, 'http://journal.wjsullivan.net', 'http://feeds.feedburner.com/wjsullivan']
+  start: 2011-11-14
+joi:
+  end: 2012-03-16
+  links:
+  - [Joichi Ito, 'http://joi.ito.com/', 'http://feeds.feedburner.com/joi-ito/weblog']
+  - [Joichi Ito (Diving), 'http://diving.ito.com/', 'http://diving.ito.com/rss']
+  start: 2011-11-14
+kendra:
+  links:
+  - [Kendra Albert, 'http://www.kendraalbert.com/', 'http://www.kendraalbert.com/rss']
+  start: 2012-09-17
+lombana:
+  end: 2013-05-06
+  links:
+  - [Andres Lombana Bermudez, 'http://andreslombana.net/blog/', 'http://andreslombana.net/blog/?feed=rss2']
+  start: 2011-11-14
+mad:
+  end: 2013-03-04
+  links:
+  - [Madeleine Price Ball, 'http://www.madprime.org/', 'http://www.madprime.org/xml/rss20/feed.xml']
+  - [Madeleine Price Ball (Personal Genome Project), 'http://blog.personalgenomes.org/author/mpball/',
+    'http://blog.personalgenomes.org/author/mpball/feed/']
+  skip: [11/28/2011, 9/24/2012]
+  start: 2011-11-14
+mako:
+  end: 2013-09-02
+  links:
+  - [Benjamin Mako Hill, 'http://mako.cc/copyrighteous/', 'http://mako.cc/copyrighteous/?flav=atom']
+  start: 2011-10-31
+mattl:
+  end: 2013-04-01
+  links:
+  - [Matt Lee, 'http://lttam.wordpress.com/', 'http://feeds.feedburner.com/metamattl/rss']
+  - [Matt Lee (All About Matt), 'http://mattl.wpengine.com/', 'http://feeds.feedburner.com/allaboutmatt']
+  start: 2012-02-27
+mayo:
+  end: 2013-02-04
+  links:
+  - [Mayo Fuster Morell, 'http://www.onlinecreation.info/', 'http://www.onlinecreation.info/?feed=rss2']
+  skip: [11/21/2011]
+  start: 2011-11-14
+mika:
+  end: 2012-09-24
+  links:
+  - [Mika Matsuzaki, 'http://mika.im/nikki', 'http://mika.im/nikki/tag/ironblogger/feed/']
+  start: 2011-11-07
+mindstalk:
+  links:
+  - [Damien Sullivan, 'http://mindstalk.livejournal.com/', 'http://mindstalk.livejournal.com/data/atom']
+  start: 2012-05-07
+mollydb:
+  links:
+  - [Molly de Blanc, 'http://mmillions.wordpress.com', 'http://mmillions.wordpress.com/feed/']
+  start: 2011-11-07
+mstone:
+  end: 2012-11-12
+  links:
+  - [Michael Stone, 'http://mstone.info/posts/', 'http://mstone.info/posts/atom.xml']
+  start: 2011-11-14
+nadav:
+  end: 2012-01-19
+  links:
+  - [Nadav Aharony, 'http://thisinformed.com', 'http://www.thisinformed.com/feeds/posts/default?alt=rss']
+  start: 2011-11-14
+nadya:
+  links:
+  - [Nadya Peek, 'http://infosyncratic.nl/weblog', 'http://infosyncratic.nl/weblog/feed']
+  start: 2011-11-14
+pablo:
+  end: 2013-07-22
+  links:
+  - [Pablo Rey (Meipi), 'http://www.meipi.com/author/pablo/', 'http://www.meipi.com/author/pablo/feed']
+  - [Pablo Rey (600km), 'http://www.6000km.org/author/pablo/', 'http://www.6000km.org/author/pablo/feed/']
+  - [Pablo Rey, 'http://numeroteca.org/', 'http://numeroteca.org/feed/']
+  - [Pablo Rey (PageOneX), 'http://montera34.org/pageonex/author/p/', 'http://montera34.org/pageonex/author/p/feed/']
+  - [Pablo Rey (Basurama Blog), 'http://www.basurama.org/blog/author/pablo/', 'http://www.basurama.org/blog/author/pablo/feed/']
+  - [Pablog Rey (Basurama), 'http://basurama.org/', 'http://basurama.org/author/pablo/feed']
+  - [Pablog Rey (Basurama EN), 'http://basurama.org/en/', 'http://basurama.org/en/author/pablo/feed']
+  start: 2012-02-13
+paultag:
+  links:
+  - [Paul Tagliamonte, 'http://blog.pault.ag/', 'http://blog.pault.ag/rss']
+  - [Paul Tagliamonte (Notes), 'http://notes.pault.ag/', 'http://notes.pault.ag/feeds/all-en.atom.xml']
+  start: 2011-11-07
+philipp:
+  end: 2013-02-04
+  links:
+  - [Philipp Schmidt, 'http://sharing-nicely.net/', 'http://sharing-nicely.net/feed']
+  start: 2012-10-15
+rheacock:
+  end: 2012-06-16
+  links:
+  - [Rebekah Heacock, 'http://jackfruity.com/', 'http://jackfruity.com/feed/']
+  start: 2011-11-21
+ria:
+  end: 2012-04-17
+  links:
+  - [Ricarose Roque, 'http://www.ricarose.com/diversity', 'http://www.ricarose.com/diversity/feed']
+  start: 2011-11-14
+rocky:
+  end: 2013-02-25
+  links:
+  - [Rocky Acosta, 'http://arttechlaw.com/', 'http://arttechlaw.com/feed']
+  start: 2011-11-21
+sayamindu:
+  end: 2012-06-11
+  links:
+  - [Sayamindu Dasgupta, 'http://sayamindu.randomink.org/ramblings-reloaded/', 'http://sayamindu.randomink.org/ramblings-reloaded/feed/']
+  start: 2011-11-21
+shauna:
+  end: 2013-06-10
+  links:
+  - [Shauna Gordon-McKeon, 'http://www.shaunagm.net/blog', 'http://www.shaunagm.net/blog/feed/atom/']
+  - [Shauna Gordon-McKeon (Open Hatch), 'http://openhatch.org/blog/author/Shauna/',
+    'http://openhatch.org/blog/author/Shauna/feed/']
+  start: 2011-11-14
+sj:
+  end: 2013-02-25
+  links:
+  - [Samuel Klein, 'http://blogs.law.harvard.edu/sj/', 'http://blogs.law.harvard.edu/sj/feed/']
+  start: 2012-01-16
+spang:
+  end: 2012-05-09
+  links:
+  - [Christine Spang, 'http://blog.spang.cc/', 'http://blog.spang.cc/index.atom']
+  start: 2011-11-21
+swartzcr:
+  end: 2013-02-04
+  links:
+  - [Noah Swartz, 'http://verythorough.tumblr.com/', 'http://verythorough.tumblr.com/rss']
+  start: 2011-11-28
+vaughn:
+  links:
+  - [Vaughn Tan (The Sap Also Rises), 'http://www.flavourcountryfeedlot.com/', 'http://feeds.feedburner.com/flavourcountryfeedlot/sap?format=xml']
+  - [Vaughn Tan (Hydration is Our Highest Priority), 'http://hydrationisourhighestpriority.blogspot.com/',
+    'http://hydrationisourhighestpriority.blogspot.com/feeds/posts/default']
+  - [Vaughn Tan (When I Am King), 'http://nowforthenoodles.blogspot.com/', 'http://feeds.feedburner.com/WhenIAmKing?format=xml']
+  start: 2012-02-20
+wendy:
+  end: 2012-04-17
+  links:
+  - [Wendy Seltzer, 'http://wendy.seltzer.org/blog/', 'http://wendy.seltzer.org/blog/feed']
+  start: 2012-02-13
