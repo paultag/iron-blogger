@@ -43,22 +43,9 @@ with open('ledger', 'a') as f:
 
 if not dry_run:
     text = render.render_template('templates/week.tmpl', date, punt=punt)
-
-    lines = text.split("\n")
-    title = lines[0]
-    body  = "\n".join(lines[1:])
-
-    page = dict(title = title, description = body)
-
-    try:
-        subprocess.call(['stty', '-echo'])
-        passwd = raw_input("Password for %s: " % (USER,))
-        print
-    finally:
-        subprocess.call(['stty', 'echo'])
-
-    x = xmlrpclib.ServerProxy(XMLRPC_ENDPOINT)
-    x.metaWeblog.newPost(BLOG_ID, USER, passwd, page, True)
+    # Let's write to meta/notes/{week}.md
+    with open("meta/notes/{week}.md".format(week=date), 'w') as fd:
+        fd.write(text)
 
 email = render.render_template('templates/email.txt', date, punt=punt)
 
