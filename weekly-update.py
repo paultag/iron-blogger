@@ -43,7 +43,7 @@ with open('ledger', 'a') as f:
 
 if not dry_run:
     text = render.render_template('templates/week.tmpl',
-                                  date, punt=punt, slug='%s' % (date))
+                                  date, punt=punt, slug=date)
     # Let's write to meta/notes/{week}.md
     with open("meta/notes/{week}.md".format(week=date), 'w') as fd:
         fd.write(text)
