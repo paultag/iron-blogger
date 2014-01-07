@@ -42,15 +42,18 @@ with open('ledger', 'a') as f:
 
 
 if not dry_run:
-    text = render.render_template('templates/week.tmpl', date, punt=punt)
+    text = render.render_template('templates/week.tmpl',
+                                  date, punt=punt, slug='week-%s' % (date))
     # Let's write to meta/notes/{week}.md
     with open("meta/notes/{week}.md".format(week=date), 'w') as fd:
         fd.write(text)
-    # right, then let's update current.md
-    if os.path.exists("meta/notes/pages/current.md"):
-        os.unlink("meta/notes/pages/current.md")
-    os.symlink("meta/notes/{week}.md".format(week=date),
-               "meta/notes/pages/current.md")
+
+    # Once again for the current md thing.
+    text = render.render_template('templates/week.tmpl',
+                                  date, punt=punt, slug='current')
+    with open("meta/notes/pages/current.md".format(week=date), 'w') as fd:
+        fd.write(text)
+
 
 email = render.render_template('templates/email.txt', date, punt=punt)
 
