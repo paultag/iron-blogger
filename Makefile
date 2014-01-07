@@ -8,11 +8,10 @@ help:
 scan:
 	$(CURDIR)/scan-feeds.py
 
-
 update:
-	$(CURDIR)/update-participants.py
+	$(CURDIR)/scan-feeds.py
 	$(CURDIR)/update-bloggers
-
+	$(CURDIR)/update-participants.py
 
 post-update:
 	make -C meta

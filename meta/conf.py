@@ -38,8 +38,8 @@ STATIC_PATHS = ["../static", ]
 # custom page generated with a jinja2 template
 TEMPLATE_PAGES = {}  # 'pages/jinja2_template.html': 'jinja2_template.html'}
 
-ARTICLE_URL = '{slug}'
-ARTICLE_SAVE_AS = "{slug}/index.html"
+ARTICLE_URL = '/week/{slug}'
+ARTICLE_SAVE_AS = "/week/{slug}/index.html"
 
 PAGE_URL = 'pages/{slug}'
 PAGE_SAVE_AS = "pages/{slug}/index.html"
