@@ -1,4 +1,11 @@
-Results for week beginning ${week_start.strftime("%F")}
+Title: Weekly report for ${week_start.strftime("%F")}
+Date: ${week_start.strftime("%Y-%m-%d %H:%M")}
+Tags: weekly-report
+Category: weekly-report
+Slug: weekly-${week_start.strftime("%Y-%m-%d")}
+Author: iron-blogger
+
+
 <h2>People who posted</h2>
 <dl>
 % for u in sorted(good, key=lambda u:u.username):
