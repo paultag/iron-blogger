@@ -11,7 +11,7 @@ Author: Paul Tagliamonte
             Join iron-blogger to have ALL THE PARTIES.
         </p>
     <p>
-        <a class="btn btn-lg btn-success" href="#" role="button">Current Status</a>
-        <a class="btn btn-lg btn-info" href="#" role="button">Check the blogs!</a>
+        <a class="btn btn-lg btn-success" href="../current" role="button">Current Status</a>
+        <a class="btn btn-lg btn-info" href="../../planet" role="button">Check the blogs!</a>
     </p>
 </div>

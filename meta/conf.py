@@ -4,8 +4,12 @@ from __future__ import unicode_literals
 AUTHOR = 'Paul Tagliamonte'
 SITENAME = "Iron Blogger"
 SITETAG = "Beer. Blogging. Parties."
+
 SITEURL = 'http://boston.iron-blogger.com'
 SITEURL = 'http://localhost/iron-blogger'
+
+PLANET_URL = 'http://planet.boston.iron-blogger.com'
+
 TIMEZONE = "America/New_York"
 THEME = "ferrum"
 
