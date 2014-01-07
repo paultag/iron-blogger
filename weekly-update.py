@@ -46,6 +46,11 @@ if not dry_run:
     # Let's write to meta/notes/{week}.md
     with open("meta/notes/{week}.md".format(week=date), 'w') as fd:
         fd.write(text)
+    # right, then let's update current.md
+    if os.path.exists("meta/notes/pages/current.md"):
+        os.unlink("meta/notes/pages/current.md")
+    os.symlink("meta/notes/{week}.md".format(week=date),
+               "meta/notes/pages/current.md")
 
 email = render.render_template('templates/email.txt', date, punt=punt)
 
