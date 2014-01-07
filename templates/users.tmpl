@@ -1,3 +1,10 @@
+Title: The Participants
+Date: 2014-01-06 19:00
+Tags: generated
+Category: iron-blogger
+Slug: participants
+Author: iron-blogger 1.0
+
 <h1>Participants in Good Standing</h1>
 <table id='participants'>
         <tr>
@@ -26,30 +33,30 @@
 % if any(map(lambda u: u.end, userlist)):
 <h1>Former Participants Punted for Lack of Payment</h1>
 
-      <table id='participants'>
-        <tr>
-          <th>Who</th>
-          <th>Blog link</th>
-          <th>Start Week</th>
-          <th>End Week</th>
-        </tr>
+<table id='participants'>
+<tr>
+  <th>Who</th>
+  <th>Blog link</th>
+  <th>Start Week</th>
+  <th>End Week</th>
+</tr>
 % for u in sorted(userlist, key=lambda u:u.username):
-    <% if not u.end: continue %>
-        <tr>
-          <td><tt> ${u.username} </tt></td>
-          <td>
-           % if u.links:
-            % for a in u.links:
-           <a href="${a[1]}">${a[0]}</a>
-            % endfor
-           % else:
-             Undecided
-           % endif
-          </td>
-          <td> ${u.start} </td>
-          <td> ${u.end} </td>
-        </tr>
+<% if not u.end: continue %>
+<tr>
+  <td><tt> ${u.username} </tt></td>
+  <td>
+   % if u.links:
+    % for a in u.links:
+   <a href="${a[1]}">${a[0]}</a>
+    % endfor
+   % else:
+     Undecided
+   % endif
+  </td>
+  <td> ${u.start} </td>
+  <td> ${u.end} </td>
+</tr>
 % endfor
-      </table>
+</table>
 
 % endif
