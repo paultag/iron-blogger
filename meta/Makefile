@@ -15,9 +15,10 @@ prod-render: clean
 
 upload: prod-render
 	cd output; \
-	rsync -vr --delete \
+	rsync -vr \
 		. \
-		tag@pault.ag:/srv/www/nginx/notes/
+		tag@pault.ag:/srv/www/nginx/iron-blogger/
 
+post-update: upload
 
 .PHONY: render build all upload

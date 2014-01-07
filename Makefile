@@ -12,3 +12,8 @@ scan:
 update:
 	$(CURDIR)/update-participants.py
 	$(CURDIR)/update-bloggers
+
+
+post-update:
+	make -C meta
+	make -C meta post-update
