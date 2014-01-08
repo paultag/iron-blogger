@@ -54,7 +54,7 @@ Author: iron-blogger 1.0
           </td>
           <td> 2011-11-07 </td>
         </tr>
-      </table>
+          </table>
 
 <h1>Former Participants Punted for Lack of Payment</h1>
 
@@ -83,6 +83,15 @@ Author: iron-blogger 1.0
   </td>
   <td> 2011-11-14 </td>
   <td> 2013-05-27 </td>
+</tr>
+
+<tr>
+  <td><tt> sj </tt></td>
+  <td>
+   <a href="http://blogs.law.harvard.edu/sj/">Samuel Klein</a>
+  </td>
+  <td> 2012-01-16 </td>
+  <td> 2013-02-25 </td>
 </tr>
 </table>
 
