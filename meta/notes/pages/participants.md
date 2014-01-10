@@ -12,6 +12,14 @@ Author: iron-blogger 1.0
           <th>Blog link</th>
           <th>Start Week</th>
         </tr>
+    
+        <tr>
+          <td><tt> adelaida </tt></td>
+          <td>
+           <a href="http://saddlebaggins.wordpress.com/">Sarah Adelaida McIntire</a>
+          </td>
+          <td> 2012-07-09 </td>
+        </tr>
         
         <tr>
           <td><tt> jeff </tt></td>
