@@ -1,42 +1,39 @@
 adelaida:
   links:
   - [Sarah Adelaida McIntire, 'http://saddlebaggins.wordpress.com/', 'http://saddlebaggins.wordpress.com/feed/']
-  start: 2012-07-09
+  start: 2014-02-01
 dlarochelle:
-  end: 2013-06-03
   links:
   - [David Larochelle, 'http://blogs.law.harvard.edu/dlarochelle', 'http://blogs.law.harvard.edu/dlarochelle/feed/']
   - [David Larochelle (David Blends), 'http://davidblends.tumblr.com/', 'http://davidblends.tumblr.com/rss']
-  start: 2011-11-14
+  start: 2014-02-01
 jeff:
   links:
   - [Jeff Warren (Unterbahn), 'http://unterbahn.com', 'http://unterbahn.com/feed/']
   - [Jeff Warren (Public Laboratory), 'http://publiclaboratory.org/', 'http://alpha.publiclaboratory.org/feed/warren.rss']
-  start: 2011-11-28
+  start: 2014-02-01
 johns:
-  end: 2013-05-27
   links:
   - [John Sullivan, 'http://journal.wjsullivan.net', 'http://feeds.feedburner.com/wjsullivan']
-  start: 2011-11-14
+  start: 2014-02-01
 kendra:
   links:
   - [Kendra Albert, 'http://www.kendraalbert.com/', 'http://www.kendraalbert.com/rss']
-  start: 2012-09-17
+  start: 2014-02-01
 mindstalk:
   links:
   - [Damien Sullivan, 'http://mindstalk.livejournal.com/', 'http://mindstalk.livejournal.com/data/atom']
-  start: 2012-05-07
+  start: 2014-02-01
 mollydb:
   links:
   - [Molly de Blanc, 'http://mmillions.wordpress.com', 'http://mmillions.wordpress.com/feed/']
-  start: 2011-11-07
+  start: 2014-02-01
 paultag:
   links:
   - [Paul Tagliamonte, 'http://blog.pault.ag/', 'http://blog.pault.ag/rss']
   - [Paul Tagliamonte (Notes), 'http://notes.pault.ag/', 'http://notes.pault.ag/feeds/all-en.atom.xml']
-  start: 2011-11-07
+  start: 2014-02-01
 sj:
-  end: 2013-02-25
   links:
   - [Samuel Klein, 'http://blogs.law.harvard.edu/sj/', 'http://blogs.law.harvard.edu/sj/feed/']
-  start: 2012-01-16
+  start: 2014-02-01
