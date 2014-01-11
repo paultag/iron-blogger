@@ -24,6 +24,12 @@ kendra:
   links:
   - [Kendra Albert, 'http://www.kendraalbert.com/', 'http://www.kendraalbert.com/rss']
   start: 2014-02-01
+mad:
+  links:
+  - [Madeleine Price Ball, 'http://www.madprime.org/', 'http://www.madprime.org/xml/rss20/feed.xml']
+  - [Madeleine Price Ball (Personal Genome Project), 'http://blog.personalgenomes.org/author/mpball/',
+    'http://blog.personalgenomes.org/author/mpball/feed/']
+  start: 2014-02-01
 mindstalk:
   links:
   - [Damien Sullivan, 'http://mindstalk.livejournal.com/', 'http://mindstalk.livejournal.com/data/atom']
