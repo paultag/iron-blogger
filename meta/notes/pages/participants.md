@@ -114,6 +114,14 @@ Author: iron-blogger 1.0
         </tr>
     
         <tr>
+          <td><tt> pdefilippi </tt></td>
+          <td>
+           <a href="http://www.googlish.com/">K.</a>
+          </td>
+          <td> 2014-02-01 </td>
+        </tr>
+    
+        <tr>
           <td><tt> shauna </tt></td>
           <td>
            <a href="http://www.shaunagm.net/blog">Shauna Gordon-McKeon</a>

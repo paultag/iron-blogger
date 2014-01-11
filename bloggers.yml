@@ -51,6 +51,10 @@ paultag:
   - [Paul Tagliamonte, 'http://blog.pault.ag/', 'http://blog.pault.ag/rss']
   - [Paul Tagliamonte (Notes), 'http://notes.pault.ag/', 'http://notes.pault.ag/feeds/all-en.atom.xml']
   start: 2014-02-01
+pdefilippi:
+  links:
+  - [K., 'http://www.googlish.com/', 'http://www.googlish.com/?feed=rss2']
+  start: 2014-02-01
 shauna:
   links:
   - [Shauna Gordon-McKeon, 'http://www.shaunagm.net/blog', 'http://www.shaunagm.net/blog/feed/atom/']
