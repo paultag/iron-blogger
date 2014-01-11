@@ -20,7 +20,7 @@ Author: iron-blogger 1.0
           </td>
           <td> 2014-02-01 </td>
         </tr>
-    
+        
         <tr>
           <td><tt> dlarochelle </tt></td>
           <td>
@@ -97,4 +97,24 @@ Author: iron-blogger 1.0
           <td> 2014-02-01 </td>
         </tr>
       </table>
+
+<h1>Former Participants Punted for Lack of Payment</h1>
+
+<table id='participants'>
+<tr>
+  <th>Who</th>
+  <th>Blog link</th>
+  <th>Start Week</th>
+  <th>End Week</th>
+</tr>
+
+<tr>
+  <td><tt> cjb </tt></td>
+  <td>
+   <a href="http://blog.printf.net/">Chris Ball</a>
+  </td>
+  <td> 2014-02-01 </td>
+  <td> 2012-07-23 </td>
+</tr>
+</table>
 

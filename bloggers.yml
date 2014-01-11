@@ -2,6 +2,11 @@ adelaida:
   links:
   - [Sarah Adelaida McIntire, 'http://saddlebaggins.wordpress.com/', 'http://saddlebaggins.wordpress.com/feed/']
   start: 2014-02-01
+cjb:
+  end: 2012-07-23
+  links:
+  - [Chris Ball, 'http://blog.printf.net/', 'http://blog.printf.net/feed/']
+  start: 2014-02-01
 dlarochelle:
   links:
   - [David Larochelle, 'http://blogs.law.harvard.edu/dlarochelle', 'http://blogs.law.harvard.edu/dlarochelle/feed/']
