@@ -5,3 +5,5 @@ $HERE/render.py $HERE/templates/config.ini > $HERE/out/config.ini
 rsync $HERE/out/config.ini metatron.pault.ag:/home/tag/iron-blogger/planet-nightly
 
 $HERE/update-participants.py
+ssh metatron.pault.ag /home/tag/iron-blogger/update-planet.sh
+# Kick off a planet run.
