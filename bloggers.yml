@@ -38,6 +38,10 @@ mollydb:
   links:
   - [Molly de Blanc, 'http://mmillions.wordpress.com', 'http://mmillions.wordpress.com/feed/']
   start: 2014-02-01
+nadya:
+  links:
+  - [Nadya Peek, 'http://infosyncratic.nl/weblog', 'http://infosyncratic.nl/weblog/feed']
+  start: 2014-02-01
 paultag:
   links:
   - [Paul Tagliamonte, 'http://blog.pault.ag/', 'http://blog.pault.ag/rss']

@@ -89,6 +89,14 @@ Author: iron-blogger 1.0
         </tr>
     
         <tr>
+          <td><tt> nadya </tt></td>
+          <td>
+           <a href="http://infosyncratic.nl/weblog">Nadya Peek</a>
+          </td>
+          <td> 2014-02-01 </td>
+        </tr>
+    
+        <tr>
           <td><tt> paultag </tt></td>
           <td>
            <a href="http://blog.pault.ag/">Paul Tagliamonte</a>
