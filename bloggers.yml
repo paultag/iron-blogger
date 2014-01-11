@@ -33,6 +33,12 @@ paultag:
   - [Paul Tagliamonte, 'http://blog.pault.ag/', 'http://blog.pault.ag/rss']
   - [Paul Tagliamonte (Notes), 'http://notes.pault.ag/', 'http://notes.pault.ag/feeds/all-en.atom.xml']
   start: 2014-02-01
+shauna:
+  links:
+  - [Shauna Gordon-McKeon, 'http://www.shaunagm.net/blog', 'http://www.shaunagm.net/blog/feed/atom/']
+  - [Shauna Gordon-McKeon (Open Hatch), 'http://openhatch.org/blog/author/Shauna/',
+    'http://openhatch.org/blog/author/Shauna/feed/']
+  start: 2014-02-01
 sj:
   links:
   - [Samuel Klein, 'http://blogs.law.harvard.edu/sj/', 'http://blogs.law.harvard.edu/sj/feed/']
