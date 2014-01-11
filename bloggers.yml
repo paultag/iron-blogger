@@ -24,6 +24,10 @@ kendra:
   links:
   - [Kendra Albert, 'http://www.kendraalbert.com/', 'http://www.kendraalbert.com/rss']
   start: 2014-02-01
+maalox:
+  links:
+  - [Alexander Ose, 'http://alexose.blogspot.com/', 'http://alexose.blogspot.com/feeds/posts/default?alt=rss']
+  start: 2014-02-01
 mad:
   links:
   - [Madeleine Price Ball, 'http://www.madprime.org/', 'http://www.madprime.org/xml/rss20/feed.xml']
