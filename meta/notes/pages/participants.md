@@ -107,7 +107,7 @@ Author: iron-blogger 1.0
         <tr>
           <td><tt> missperovaz </tt></td>
           <td>
-           <a href="http://www.carolinabrum.com/">Carolina Brum</a>
+           <a href="http://carolinabrum.com/blog">Carolina Brum</a>
           </td>
           <td> 2014-02-01 </td>
         </tr>
