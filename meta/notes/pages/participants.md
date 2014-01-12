@@ -39,6 +39,14 @@ Author: iron-blogger 1.0
         </tr>
     
         <tr>
+          <td><tt> fiendish </tt></td>
+          <td>
+           <a href="http://textsfromharriotte.tumblr.com/">Avi Kelman</a>
+          </td>
+          <td> 2014-02-01 </td>
+        </tr>
+    
+        <tr>
           <td><tt> jeff </tt></td>
           <td>
            <a href="http://unterbahn.com">Jeff Warren (Unterbahn)</a>

@@ -11,6 +11,10 @@ dlarochelle:
   - [David Larochelle, 'http://blogs.law.harvard.edu/dlarochelle', 'http://blogs.law.harvard.edu/dlarochelle/feed/']
   - [David Larochelle (David Blends), 'http://davidblends.tumblr.com/', 'http://davidblends.tumblr.com/rss']
   start: 2014-02-01
+fiendish:
+  links:
+  - [Avi Kelman, 'http://textsfromharriotte.tumblr.com/', 'http://textsfromharriotte.tumblr.com/rss']
+  start: 2014-02-01
 jeff:
   links:
   - [Jeff Warren (Unterbahn), 'http://unterbahn.com', 'http://unterbahn.com/feed/']
