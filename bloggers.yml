@@ -42,6 +42,10 @@ mindstalk:
   links:
   - [Damien Sullivan, 'http://mindstalk.livejournal.com/', 'http://mindstalk.livejournal.com/data/atom']
   start: 2014-02-01
+missperovaz:
+  links:
+  - [Carolina Brum, 'http://www.carolinabrum.com/', 'http://www.music.mcgill.ca/~cmedei1/?feed=rss2']
+  start: 2014-02-01
 mollydb:
   links:
   - [Molly de Blanc, 'http://mmillions.wordpress.com', 'http://mmillions.wordpress.com/feed/']
