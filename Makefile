@@ -15,3 +15,4 @@ update:
 post-update:
 	make -C meta
 	make -C meta post-update
+	git push
