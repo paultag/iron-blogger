@@ -24,6 +24,10 @@ johns:
   links:
   - [John Sullivan, 'http://journal.wjsullivan.net', 'http://feeds.feedburner.com/wjsullivan']
   start: 2014-02-01
+kbroida:
+  links:
+  - [Katie Broida, 'http://thefoodbeat.net/', 'http://thefoodbeat.net/feed/']
+  start: 2014-02-01
 kendra:
   links:
   - [Kendra Albert, 'http://www.kendraalbert.com/', 'http://www.kendraalbert.com/rss']

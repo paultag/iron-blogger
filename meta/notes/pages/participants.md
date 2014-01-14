@@ -64,6 +64,14 @@ Author: iron-blogger 1.0
         </tr>
     
         <tr>
+          <td><tt> kbroida </tt></td>
+          <td>
+           <a href="http://thefoodbeat.net/">Katie Broida</a>
+          </td>
+          <td> 2014-02-01 </td>
+        </tr>
+    
+        <tr>
           <td><tt> kendra </tt></td>
           <td>
            <a href="http://www.kendraalbert.com/">Kendra Albert</a>
