@@ -2,6 +2,10 @@ adelaida:
   links:
   - [Sarah Adelaida McIntire, 'http://saddlebaggins.wordpress.com/', 'http://saddlebaggins.wordpress.com/feed/']
   start: 2014-02-01
+axel:
+  links:
+  - [axel, 'http://www.axelarnbak.nl/', 'http://www.axelarnbak.nl/feed/']
+  start: 2014-02-01
 cjb:
   links:
   - [Chris Ball, 'http://blog.printf.net/', 'http://blog.printf.net/feed/']
