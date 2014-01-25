@@ -44,6 +44,10 @@ kit:
   links:
   - [Kit, 'http://studytrax.wordpress.com/', 'http://studytrax.wordpress.com/feed/']
   start: 2014-02-01
+lombana:
+  links:
+  - [andres lombana-bermudez, 'http://andreslombana.net/blog', 'http://andreslombana.net/blog/feed/']
+  start: 2014-02-01
 maalox:
   links:
   - [Alexander Ose, 'http://alexose.blogspot.com/', 'http://alexose.blogspot.com/feeds/posts/default?alt=rss']
