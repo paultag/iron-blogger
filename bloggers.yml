@@ -58,6 +58,10 @@ mad:
   - [Madeleine Price Ball (Personal Genome Project), 'http://blog.personalgenomes.org/author/mpball/',
     'http://blog.personalgenomes.org/author/mpball/feed/']
   start: 2014-02-01
+maggie.delano:
+  links:
+  - [Maggie Delano, 'http://maggiedelano.tumblr.com/', 'http://maggiedelano.tumblr.com/rss']
+  start: 2014-02-01
 mindstalk:
   links:
   - [Damien Sullivan, 'http://mindstalk.livejournal.com/', 'http://mindstalk.livejournal.com/data/atom']

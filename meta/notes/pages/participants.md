@@ -129,6 +129,14 @@ Author: iron-blogger 1.0
         </tr>
     
         <tr>
+          <td><tt> maggie.delano </tt></td>
+          <td>
+           <a href="http://maggiedelano.tumblr.com/">Maggie Delano</a>
+          </td>
+          <td> 2014-02-01 </td>
+        </tr>
+    
+        <tr>
           <td><tt> mindstalk </tt></td>
           <td>
            <a href="http://mindstalk.livejournal.com/">Damien Sullivan</a>
