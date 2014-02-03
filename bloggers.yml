@@ -32,6 +32,10 @@ johns:
   links:
   - [John Sullivan, 'http://journal.wjsullivan.net', 'http://feeds.feedburner.com/wjsullivan']
   start: 2014-02-01
+k:
+  links:
+  - [K., 'http://www.googlish.com/', 'http://www.googlish.com/?feed=rss2']
+  start: 2014-02-01
 kbroida:
   links:
   - [Katie Broida, 'http://thefoodbeat.net/', 'http://thefoodbeat.net/feed/']
@@ -82,10 +86,6 @@ paultag:
   links:
   - [Paul Tagliamonte, 'http://blog.pault.ag/', 'http://blog.pault.ag/rss']
   - [Paul Tagliamonte (Notes), 'http://notes.pault.ag/', 'http://notes.pault.ag/feeds/all-en.atom.xml']
-  start: 2014-02-01
-k:
-  links:
-  - [K., 'http://www.googlish.com/', 'http://www.googlish.com/?feed=rss2']
   start: 2014-02-01
 shauna:
   links:

@@ -17,17 +17,17 @@ FINE_SIZE = 5
 CURRENCY = "$"
 
 # check the version of ledger to find out which commands to use
-if subprocess.Popen(['ledger', '--version'], stdout=subprocess.PIPE).communicate()[0][7] == '3':
-    BALANCE_CMD = ['ledger', '-f', os.path.join(HERE,'ledger'),
-                   '--no-color', '-n', 'balance']
+# if subprocess.Popen(['ledger', '--version'], stdout=subprocess.PIPE).communicate()[0][7] == '3':
+#     BALANCE_CMD = ['ledger', '-f', os.path.join(HERE,'ledger'),
+#                    '--no-color', '-n', 'balance']
+# 
+#     DEBTS_CMD = ['ledger', '-f', os.path.join(HERE, 'ledger'),
+#                  '--flat', '--no-total', '--no-color',
+#                  'balance', 'Pool:Owed:']
+# 
+# else:
 
-    DEBTS_CMD = ['ledger', '-f', os.path.join(HERE, 'ledger'),
-                 '--flat', '--no-total', '--no-color',
-                 'balance', 'Pool:Owed:']
-
-else:
-    BALANCE_CMD = ['ledger', '-f', os.path.join(HERE, 'ledger'),
-                   '-n', 'balance']
-    DEBTS_CMD = ['ledger', '-f', os.path.join(HERE, 'ledger'),
-                 '-n', 'balance', 'Pool:Owed:']
-    
+BALANCE_CMD = ['ledger', '-f', os.path.join(HERE, 'ledger'),
+               'balance']
+DEBTS_CMD = ['ledger', '-f', os.path.join(HERE, 'ledger'),
+             'balance', 'Pool:Owed:']

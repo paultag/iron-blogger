@@ -16,6 +16,8 @@ def get_balance(acct):
     p = subprocess.Popen(BALANCE_CMD + [acct],
                          stdout=subprocess.PIPE)
     (out, _) = p.communicate()
+    if out.strip() == "":
+        return 0
     return float(re.sub(r'\s*(\d+)\s+.*', r'\1', out))
 
 def get_debts():
