@@ -6,7 +6,7 @@ import datetime
 import subprocess
 
 HERE  = os.path.dirname(__file__)
-START = datetime.datetime(2011, 10, 24, 6)
+START = datetime.datetime(2013, 01, 27, 6)
 
 #XMLRPC_ENDPOINT = 'http://iron-blogger.mako.cc/xmlrpc.php'
 USER            = 'tag'

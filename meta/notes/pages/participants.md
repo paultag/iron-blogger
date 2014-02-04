@@ -18,7 +18,7 @@ Author: iron-blogger 1.0
           <td>
            <a href="http://1l2p.net/">Philipp Schmidt</a>
           </td>
-          <td> 2014-02-01 </td>
+          <td> 2014-01-27 </td>
         </tr>
     
         <tr>
@@ -26,7 +26,7 @@ Author: iron-blogger 1.0
           <td>
            <a href="http://saddlebaggins.wordpress.com/">Sarah Adelaida McIntire</a>
           </td>
-          <td> 2014-02-01 </td>
+          <td> 2014-01-27 </td>
         </tr>
     
         <tr>
@@ -34,7 +34,7 @@ Author: iron-blogger 1.0
           <td>
            <a href="http://www.axelarnbak.nl/">axel</a>
           </td>
-          <td> 2014-02-01 </td>
+          <td> 2014-01-27 </td>
         </tr>
     
         <tr>
@@ -42,7 +42,7 @@ Author: iron-blogger 1.0
           <td>
            <a href="http://blog.printf.net/">Chris Ball</a>
           </td>
-          <td> 2014-02-01 </td>
+          <td> 2014-01-27 </td>
         </tr>
     
         <tr>
@@ -51,7 +51,7 @@ Author: iron-blogger 1.0
            <a href="http://blogs.law.harvard.edu/dlarochelle">David Larochelle</a>
            <a href="http://davidblends.tumblr.com/">David Larochelle (David Blends)</a>
           </td>
-          <td> 2014-02-01 </td>
+          <td> 2014-01-27 </td>
         </tr>
     
         <tr>
@@ -59,7 +59,7 @@ Author: iron-blogger 1.0
           <td>
            <a href="http://textsfromharriotte.tumblr.com/">Avi Kelman</a>
           </td>
-          <td> 2014-02-01 </td>
+          <td> 2014-01-27 </td>
         </tr>
     
         <tr>
@@ -68,7 +68,7 @@ Author: iron-blogger 1.0
            <a href="http://unterbahn.com">Jeff Warren (Unterbahn)</a>
            <a href="http://publiclaboratory.org/">Jeff Warren (Public Laboratory)</a>
           </td>
-          <td> 2014-02-01 </td>
+          <td> 2014-01-27 </td>
         </tr>
     
         <tr>
@@ -76,7 +76,15 @@ Author: iron-blogger 1.0
           <td>
            <a href="http://journal.wjsullivan.net">John Sullivan</a>
           </td>
-          <td> 2014-02-01 </td>
+          <td> 2014-01-27 </td>
+        </tr>
+    
+        <tr>
+          <td><tt> k </tt></td>
+          <td>
+           <a href="http://www.googlish.com/">K.</a>
+          </td>
+          <td> 2014-01-27 </td>
         </tr>
     
         <tr>
@@ -84,7 +92,7 @@ Author: iron-blogger 1.0
           <td>
            <a href="http://thefoodbeat.net/">Katie Broida</a>
           </td>
-          <td> 2014-02-01 </td>
+          <td> 2014-01-27 </td>
         </tr>
     
         <tr>
@@ -92,7 +100,7 @@ Author: iron-blogger 1.0
           <td>
            <a href="http://www.kendraalbert.com/">Kendra Albert</a>
           </td>
-          <td> 2014-02-01 </td>
+          <td> 2014-01-27 </td>
         </tr>
     
         <tr>
@@ -100,7 +108,7 @@ Author: iron-blogger 1.0
           <td>
            <a href="http://studytrax.wordpress.com/">Kit</a>
           </td>
-          <td> 2014-02-01 </td>
+          <td> 2014-01-27 </td>
         </tr>
     
         <tr>
@@ -108,7 +116,7 @@ Author: iron-blogger 1.0
           <td>
            <a href="http://andreslombana.net/blog">andres lombana-bermudez</a>
           </td>
-          <td> 2014-02-01 </td>
+          <td> 2014-01-27 </td>
         </tr>
     
         <tr>
@@ -116,7 +124,7 @@ Author: iron-blogger 1.0
           <td>
            <a href="http://alexose.blogspot.com/">Alexander Ose</a>
           </td>
-          <td> 2014-02-01 </td>
+          <td> 2014-01-27 </td>
         </tr>
     
         <tr>
@@ -125,7 +133,7 @@ Author: iron-blogger 1.0
            <a href="http://www.madprime.org/">Madeleine Price Ball</a>
            <a href="http://blog.personalgenomes.org/author/mpball/">Madeleine Price Ball (Personal Genome Project)</a>
           </td>
-          <td> 2014-02-01 </td>
+          <td> 2014-01-27 </td>
         </tr>
     
         <tr>
@@ -133,7 +141,7 @@ Author: iron-blogger 1.0
           <td>
            <a href="http://maggiedelano.tumblr.com/">Maggie Delano</a>
           </td>
-          <td> 2014-02-01 </td>
+          <td> 2014-01-27 </td>
         </tr>
     
         <tr>
@@ -141,7 +149,7 @@ Author: iron-blogger 1.0
           <td>
            <a href="http://mindstalk.livejournal.com/">Damien Sullivan</a>
           </td>
-          <td> 2014-02-01 </td>
+          <td> 2014-01-27 </td>
         </tr>
     
         <tr>
@@ -149,7 +157,7 @@ Author: iron-blogger 1.0
           <td>
            <a href="http://carolinabrum.com/blog">Carolina Brum</a>
           </td>
-          <td> 2014-02-01 </td>
+          <td> 2014-01-27 </td>
         </tr>
     
         <tr>
@@ -157,7 +165,7 @@ Author: iron-blogger 1.0
           <td>
            <a href="http://mmillions.wordpress.com">Molly de Blanc</a>
           </td>
-          <td> 2014-02-01 </td>
+          <td> 2014-01-27 </td>
         </tr>
     
         <tr>
@@ -165,7 +173,7 @@ Author: iron-blogger 1.0
           <td>
            <a href="http://infosyncratic.nl/weblog">Nadya Peek</a>
           </td>
-          <td> 2014-02-01 </td>
+          <td> 2014-01-27 </td>
         </tr>
     
         <tr>
@@ -174,15 +182,7 @@ Author: iron-blogger 1.0
            <a href="http://blog.pault.ag/">Paul Tagliamonte</a>
            <a href="http://notes.pault.ag/">Paul Tagliamonte (Notes)</a>
           </td>
-          <td> 2014-02-01 </td>
-        </tr>
-    
-        <tr>
-          <td><tt> pdefilippi </tt></td>
-          <td>
-           <a href="http://www.googlish.com/">K.</a>
-          </td>
-          <td> 2014-02-01 </td>
+          <td> 2014-01-27 </td>
         </tr>
     
         <tr>
@@ -191,7 +191,7 @@ Author: iron-blogger 1.0
            <a href="http://www.shaunagm.net/blog">Shauna Gordon-McKeon</a>
            <a href="http://openhatch.org/blog/author/Shauna/">Shauna Gordon-McKeon (Open Hatch)</a>
           </td>
-          <td> 2014-02-01 </td>
+          <td> 2014-01-27 </td>
         </tr>
     
         <tr>
@@ -199,7 +199,7 @@ Author: iron-blogger 1.0
           <td>
            <a href="http://blogs.law.harvard.edu/sj/">Samuel Klein</a>
           </td>
-          <td> 2014-02-01 </td>
+          <td> 2014-01-27 </td>
         </tr>
     
         <tr>
@@ -207,7 +207,7 @@ Author: iron-blogger 1.0
           <td>
            <a href="http://spacetruant.wordpress.com/">Valerie Young</a>
           </td>
-          <td> 2014-02-01 </td>
+          <td> 2014-01-27 </td>
         </tr>
     
         <tr>
@@ -215,7 +215,7 @@ Author: iron-blogger 1.0
           <td>
            <a href="http://donottouchscreens.tumblr.com/">Steve Pomeroy</a>
           </td>
-          <td> 2014-02-01 </td>
+          <td> 2014-01-27 </td>
         </tr>
       </table>
 

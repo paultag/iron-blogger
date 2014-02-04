@@ -8,9 +8,19 @@ help:
 scan:
 	$(CURDIR)/scan-feeds.py
 
-update:
+update: out/report.yml
 	$(CURDIR)/update-bloggers
 	$(CURDIR)/update-participants.py
+
+weekly: clean out/report.yml
+	./weekly-update $@
+
+clean:
+	rm -rf out
+
+out/report.yml:
+	mkdir -p out
+	$(CURDIR)/scan-feeds.py
 
 post-update:
 	make -C meta
