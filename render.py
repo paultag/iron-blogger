@@ -98,6 +98,7 @@ def render_template(path, week=None, **kwargs):
         return (u.start, u.username)
 
     userlist.sort(key=user_key)
+
     punted.sort(key=user_key)
 
     for u in userlist:
