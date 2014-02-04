@@ -6,7 +6,7 @@ import datetime
 import subprocess
 
 HERE  = os.path.dirname(__file__)
-START = datetime.datetime(2013, 01, 27, 6)
+START = datetime.datetime(2014, 01, 27, 6)
 
 #XMLRPC_ENDPOINT = 'http://iron-blogger.mako.cc/xmlrpc.php'
 USER            = 'tag'
@@ -28,6 +28,6 @@ CURRENCY = "$"
 # else:
 
 BALANCE_CMD = ['ledger', '-f', os.path.join(HERE, 'ledger'),
-               'balance']
+               '-n', 'balance']
 DEBTS_CMD = ['ledger', '-f', os.path.join(HERE, 'ledger'),
-             'balance', 'Pool:Owed:']
+             '-n', 'balance', 'Pool:Owed:']

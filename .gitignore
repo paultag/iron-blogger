@@ -2,3 +2,4 @@
 *.pyc
 out/
 meta/output/
+*swp
