@@ -1,107 +1,107 @@
 1L2P:
   links:
   - [Philipp Schmidt, 'http://1l2p.net/', 'http://1l2p.net/rss.xml']
-  start: 2014-02-01
+  start: 2014-01-27
 adelaida:
   links:
   - [Sarah Adelaida McIntire, 'http://saddlebaggins.wordpress.com/', 'http://saddlebaggins.wordpress.com/feed/']
-  start: 2014-02-01
+  start: 2014-01-27
 axel:
   links:
   - [axel, 'http://www.axelarnbak.nl/', 'http://www.axelarnbak.nl/feed/']
-  start: 2014-02-01
+  start: 2014-01-27
 cjb:
   links:
   - [Chris Ball, 'http://blog.printf.net/', 'http://blog.printf.net/feed/']
-  start: 2014-02-01
+  start: 2014-01-27
 dlarochelle:
   links:
   - [David Larochelle, 'http://blogs.law.harvard.edu/dlarochelle', 'http://blogs.law.harvard.edu/dlarochelle/feed/']
   - [David Larochelle (David Blends), 'http://davidblends.tumblr.com/', 'http://davidblends.tumblr.com/rss']
-  start: 2014-02-01
+  start: 2014-01-27
 fiendish:
   links:
   - [Avi Kelman, 'http://textsfromharriotte.tumblr.com/', 'http://textsfromharriotte.tumblr.com/rss']
-  start: 2014-02-01
+  start: 2014-01-27
 jeff:
   links:
   - [Jeff Warren (Unterbahn), 'http://unterbahn.com', 'http://unterbahn.com/feed/']
   - [Jeff Warren (Public Laboratory), 'http://publiclaboratory.org/', 'http://alpha.publiclaboratory.org/feed/warren.rss']
-  start: 2014-02-01
+  start: 2014-01-27
 johns:
   links:
   - [John Sullivan, 'http://journal.wjsullivan.net', 'http://feeds.feedburner.com/wjsullivan']
-  start: 2014-02-01
+  start: 2014-01-27
 k:
   links:
   - [K., 'http://www.googlish.com/', 'http://www.googlish.com/?feed=rss2']
-  start: 2014-02-01
+  start: 2014-01-27
 kbroida:
   links:
   - [Katie Broida, 'http://thefoodbeat.net/', 'http://thefoodbeat.net/feed/']
-  start: 2014-02-01
+  start: 2014-01-27
 kendra:
   links:
   - [Kendra Albert, 'http://www.kendraalbert.com/', 'http://www.kendraalbert.com/rss']
-  start: 2014-02-01
+  start: 2014-01-27
 kit:
   links:
   - [Kit, 'http://studytrax.wordpress.com/', 'http://studytrax.wordpress.com/feed/']
-  start: 2014-02-01
+  start: 2014-01-27
 lombana:
   links:
   - [andres lombana-bermudez, 'http://andreslombana.net/blog', 'http://andreslombana.net/blog/feed/']
-  start: 2014-02-01
+  start: 2014-01-27
 maalox:
   links:
   - [Alexander Ose, 'http://alexose.blogspot.com/', 'http://alexose.blogspot.com/feeds/posts/default?alt=rss']
-  start: 2014-02-01
+  start: 2014-01-27
 mad:
   links:
   - [Madeleine Price Ball, 'http://www.madprime.org/', 'http://www.madprime.org/xml/rss20/feed.xml']
   - [Madeleine Price Ball (Personal Genome Project), 'http://blog.personalgenomes.org/author/mpball/',
     'http://blog.personalgenomes.org/author/mpball/feed/']
-  start: 2014-02-01
+  start: 2014-01-27
 maggie.delano:
   links:
   - [Maggie Delano, 'http://maggiedelano.tumblr.com/', 'http://maggiedelano.tumblr.com/rss']
-  start: 2014-02-01
+  start: 2014-01-27
 mindstalk:
   links:
   - [Damien Sullivan, 'http://mindstalk.livejournal.com/', 'http://mindstalk.livejournal.com/data/atom']
-  start: 2014-02-01
+  start: 2014-01-27
 missperovaz:
   links:
   - [Carolina Brum, 'http://carolinabrum.com/blog', 'http://www.music.mcgill.ca/~cmedei1/?feed=rss2']
-  start: 2014-02-01
+  start: 2014-01-27
 mollydb:
   links:
   - [Molly de Blanc, 'http://mmillions.wordpress.com', 'http://mmillions.wordpress.com/feed/']
-  start: 2014-02-01
+  start: 2014-01-27
 nadya:
   links:
   - [Nadya Peek, 'http://infosyncratic.nl/weblog', 'http://infosyncratic.nl/weblog/feed']
-  start: 2014-02-01
+  start: 2014-01-27
 paultag:
   links:
   - [Paul Tagliamonte, 'http://blog.pault.ag/', 'http://blog.pault.ag/rss']
   - [Paul Tagliamonte (Notes), 'http://notes.pault.ag/', 'http://notes.pault.ag/feeds/all-en.atom.xml']
-  start: 2014-02-01
+  start: 2014-01-27
 shauna:
   links:
   - [Shauna Gordon-McKeon, 'http://www.shaunagm.net/blog', 'http://www.shaunagm.net/blog/feed/atom/']
   - [Shauna Gordon-McKeon (Open Hatch), 'http://openhatch.org/blog/author/Shauna/',
     'http://openhatch.org/blog/author/Shauna/feed/']
-  start: 2014-02-01
+  start: 2014-01-27
 sj:
   links:
   - [Samuel Klein, 'http://blogs.law.harvard.edu/sj/', 'http://blogs.law.harvard.edu/sj/feed/']
-  start: 2014-02-01
+  start: 2014-01-27
 spectranaut:
   links:
   - [Valerie Young, 'http://spacetruant.wordpress.com/', 'http://spacetruant.wordpress.com/feed']
-  start: 2014-02-01
+  start: 2014-01-27
 xxv:
   links:
   - [Steve Pomeroy, 'http://donottouchscreens.tumblr.com/', 'http://donottouchscreens.tumblr.com/rss']
-  start: 2014-02-01
+  start: 2014-01-27
