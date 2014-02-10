@@ -74,6 +74,10 @@ missperovaz:
   links:
   - [Carolina Brum, 'http://carolinabrum.com/blog', 'http://www.music.mcgill.ca/~cmedei1/?feed=rss2']
   start: 2014-01-27
+mjg59:
+  links:
+  - [Matthew Garrett, 'http://mjg59.dreamwidth.org/', 'http://mjg59.dreamwidth.org/data/rss']
+  start: 2014-02-09
 mollydb:
   links:
   - [Molly de Blanc, 'http://mmillions.wordpress.com', 'http://mmillions.wordpress.com/feed/']
