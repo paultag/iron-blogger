@@ -1,9 +1,7 @@
 all: help
 
-
 help:
 	@echo "Run update to update bloggers."
-
 
 scan:
 	$(CURDIR)/scan-feeds.py
@@ -13,7 +11,6 @@ update: out/report.yml
 	$(CURDIR)/update-participants.py
 
 weekly: clean out/report.yml
-	./weekly-update.py $<
 
 clean:
 	rm -rf out
@@ -26,3 +23,7 @@ post-update:
 	make -C meta
 	make -C meta post-update
 	git push
+
+20%: weekly
+	# Fix this in year 3000
+	echo ./weekly-update.py $@
