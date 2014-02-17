@@ -13,7 +13,7 @@ update: out/report.yml
 	$(CURDIR)/update-participants.py
 
 weekly: clean out/report.yml
-	./weekly-update $@
+	./weekly-update.py $<
 
 clean:
 	rm -rf out
