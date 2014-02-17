@@ -26,4 +26,4 @@ post-update:
 
 20%: weekly
 	# Fix this in year 3000
-	echo ./weekly-update.py $@
+	./weekly-update.py $@
