@@ -25,6 +25,7 @@ Author: iron-blogger 1.0
           <td><tt> adelaida </tt></td>
           <td>
            <a href="http://saddlebaggins.wordpress.com/">Sarah Adelaida McIntire</a>
+           <a href="http://queensaddle.wordpress.com/">Sarah Adelaida McIntire (Queen Saddle)</a>
           </td>
           <td> 2014-01-27 </td>
         </tr>
