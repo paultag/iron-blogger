@@ -38,11 +38,6 @@ k:
   links:
   - [K., 'http://www.googlish.com/', 'http://www.googlish.com/?feed=rss2']
   start: 2014-01-27
-# Commented out; 2014-03-12 - hiatus
-# kbroida:
-#   links:
-#   - [Katie Broida, 'http://thefoodbeat.net/', 'http://thefoodbeat.net/feed/']
-#   start: 2014-01-27
 kendra:
   links:
   - [Kendra Albert, 'http://www.kendraalbert.com/', 'http://www.kendraalbert.com/rss']
@@ -51,6 +46,10 @@ kit:
   links:
   - [Kit, 'http://studytrax.wordpress.com/', 'http://studytrax.wordpress.com/feed/']
   start: 2014-01-27
+lecrayonkhol:
+  links:
+  - [Kristin Wagner, 'http://lecrayonkhol.com/', 'http://lecrayonkhol.com/feed/']
+  start: 2014-03-16
 lombana:
   links:
   - [andres lombana-bermudez, 'http://andreslombana.net/blog', 'http://andreslombana.net/blog/feed/']
@@ -104,15 +103,6 @@ sj:
   links:
   - [Samuel Klein, 'http://blogs.law.harvard.edu/sj/', 'http://blogs.law.harvard.edu/sj/feed/']
   start: 2014-01-27
-lecrayonkhol:
-  links:
-  - [Kristin Wagner, 'http://lecrayonkhol.com/', 'http://lecrayonkhol.com/feed/']
-  start: 2014-03-16
-# Removed: March 12th, 2014. Val wants out.
-# spectranaut:
-#   links:
-#   - [Valerie Young, 'http://spacetruant.wordpress.com/', 'http://spacetruant.wordpress.com/feed']
-#   start: 2014-01-27
 xxv:
   links:
   - [Steve Pomeroy, 'http://donottouchscreens.tumblr.com/', 'http://donottouchscreens.tumblr.com/rss']

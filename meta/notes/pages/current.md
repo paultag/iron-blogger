@@ -1,5 +1,5 @@
-Title: Weekly report for 2014-03-03
-Date: 2014-03-03 06:00
+Title: Weekly report for 2014-03-10
+Date: 2014-03-10 06:00
 Tags: weekly-report
 Category: weekly-report
 Slug: current
@@ -11,106 +11,99 @@ Author: iron-blogger
 <dt><span class="user">1L2P:</span></dt>
 <dd>
   <ul>
-   <li><a href="http://1l2p.net/2014/03/09/Learning-Curiosity.html">Curious Learner</a></li>
+   <li><a href="http://1l2p.net/2014/03/17/Amateurs-and-experts.html">Amateurs and other experts</a></li>
   </ul>
 </dd>
 <dt><span class="user">adelaida:</span></dt>
 <dd>
   <ul>
-   <li><a href="http://saddlebaggins.wordpress.com/2014/03/10/twenty-four-is-hard/">Twenty-Four is hard.</a></li>
+   <li><a href="http://saddlebaggins.wordpress.com/2014/03/17/doing-it-wrong/">Doing it Wrong.</a></li>
   </ul>
 </dd>
 <dt><span class="user">axel:</span></dt>
 <dd>
   <ul>
-   <li><a href="http://www.axelarnbak.nl/2014/03/04/332/">History Repeating: Alan Westin in 1967 on NSA Data Surveillance</a></li>
+   <li><a href="https://www.axelarnbak.nl/2014/03/15/art-as-mirror-slab-city-internet-cafe-pic/">Art as Mirror – Slab City Internet Cafe [Pic]</a></li>
+   <li><a href="https://www.axelarnbak.nl/2014/03/13/translation-dutch-net-freedom-laws-2011-net-neutrality-no-commercial-wiretapping-no-3-strikes/">Translation Dutch Net Freedom Laws 2011: Net Neutrality, No Commercial Wiretapping, No 3 Strikes</a></li>
   </ul>
 </dd>
 <dt><span class="user">fiendish:</span></dt>
 <dd>
   <ul>
-   <li><a href="http://textsfromharriotte.tumblr.com/post/78511867959">"Good morning V Please no worries about whenever you do the shop if you can do it before the..."</a></li>
+   <li><a href="http://textsfromharriotte.tumblr.com/post/79821706864">"Hey there I’m trying to get home using the ride vehicle but the roads are just and saying we waited..."</a></li>
   </ul>
 </dd>
 <dt><span class="user">jeff:</span></dt>
 <dd>
   <ul>
-   <li><a href="http://unterbahn.com/2014/03/man-woman-buttons/">Man Woman buttons</a></li>
-   <li><a href="http://unterbahn.com/2014/03/stewart-brand-on-de-extinction/">Stewart Brand on de-extinction</a></li>
-   <li><a href="http://publiclab.org/notes/warren/03-05-2014/yellow-smoke-plume-at-lawrence-point-queens">Yellow smoke plume at Lawrence Point, Queens</a></li>
+   <li><a href="http://unterbahn.com/2014/03/harmacy/">Harmacy</a></li>
   </ul>
 </dd>
 <dt><span class="user">johns:</span></dt>
 <dd>
   <ul>
-   <li><a href="http://feedproxy.google.com/~r/wjsullivan/~3/JT3wE1Dtv3c/296418.html">Cooking diary</a></li>
+   <li><a href="http://feedproxy.google.com/~r/wjsullivan/~3/Xph1n6vORwA/296528.html">Drupal UI win</a></li>
   </ul>
 </dd>
 <dt><span class="user">k:</span></dt>
 <dd>
   <ul>
-   <li><a href="http://www.googlish.com/?p=36">Week #9 (March 2nd, 2014)</a></li>
+   <li><a href="http://www.googlish.com/?p=38">Week #10 (March 9th, 2014)</a></li>
   </ul>
 </dd>
-<dt><span class="user">maalox:</span></dt>
+<dt><span class="user">lombana:</span></dt>
 <dd>
   <ul>
-   <li><a href="http://alexose.blogspot.com/2014/03/octpw-heartbeat.html">OCTPW: Heartbeat</a></li>
+   <li><a href="http://andreslombana.net/blog/2014/03/11/enduring-analog-printing-presses/">Enduring Analog Printing Presses</a></li>
   </ul>
 </dd>
 <dt><span class="user">mad:</span></dt>
 <dd>
   <ul>
-   <li><a href="http://blog.personalgenomes.org/2014/03/09/participants-welcome-to-apply-for-get-labs/">Participants welcome to apply for GET Labs!</a></li>
+   <li><a href="http://madprime.org/articles/2014/03/open-silhouettes-sitting-asian-man/">Open silhouettes: Sitting Asian Man</a></li>
   </ul>
 </dd>
 <dt><span class="user">maggie.delano:</span></dt>
 <dd>
   <ul>
-   <li><a href="http://maggiedelano.tumblr.com/post/79105895109">Transformative Books (Non-fiction edition)</a></li>
+   <li><a href="http://maggiedelano.tumblr.com/post/79827186318">The City of Cambridge also thinks you should bike commute in winter!</a></li>
   </ul>
 </dd>
 <dt><span class="user">mindstalk:</span></dt>
 <dd>
   <ul>
-   <li><a href="http://mindstalk.livejournal.com/392938.html">Debunking the Texas miracle</a></li>
-   <li><a href="http://mindstalk.livejournal.com/392549.html">Parasites and politics</a></li>
+   <li><a href="http://mindstalk.livejournal.com/393423.html">HCoFP: chapter 14, California Cruising</a></li>
+   <li><a href="http://mindstalk.livejournal.com/393002.html">Disney's Frozen</a></li>
   </ul>
 </dd>
 <dt><span class="user">mjg59:</span></dt>
 <dd>
   <ul>
-   <li><a href="http://mjg59.dreamwidth.org/29817.html">The simple things in life</a></li>
+   <li><a href="http://mjg59.dreamwidth.org/29954.html">Dealing with Apple ACPI issues</a></li>
   </ul>
 </dd>
 <dt><span class="user">mollydb:</span></dt>
 <dd>
   <ul>
-   <li><a href="http://mmillions.wordpress.com/2014/03/09/nostalgia/">nostalgia</a></li>
+   <li><a href="https://mmillions.wordpress.com/2014/03/14/preparations/">preparations</a></li>
   </ul>
 </dd>
 <dt><span class="user">paultag:</span></dt>
 <dd>
   <ul>
-   <li><a href="http://blog.pault.ag/post/78948241683">Donate to MediaGoblin!</a></li>
+   <li><a href="http://blog.pault.ag/post/79700697236">Pygments 1.6</a></li>
   </ul>
 </dd>
 <dt><span class="user">shauna:</span></dt>
 <dd>
   <ul>
-   <li><a href="http://www.shaunagm.net/blog/2014/03/slides-from-the-southern-california-anything-linux-expo/?utm_source=rss&utm_medium=rss&utm_campaign=slides-from-the-southern-california-anything-linux-expo">Slides from the Southern California Anything Linux Expo*</a></li>
-  </ul>
-</dd>
-<dt><span class="user">sj:</span></dt>
-<dd>
-  <ul>
-   <li><a href="http://blogs.law.harvard.edu/sj/2014/03/05/aksyonov-predicts-crimean-takeover-in-79-novel/">Aksyonov predicts Crimean takeover in ’79 novel</a></li>
+   <li><a href="http://www.shaunagm.net/blog/2014/03/100-beautiful-things/?utm_source=rss&utm_medium=rss&utm_campaign=100-beautiful-things">100 beautiful things</a></li>
   </ul>
 </dd>
 <dt><span class="user">xxv:</span></dt>
 <dd>
   <ul>
-   <li><a href="http://donottouchscreens.tumblr.com/post/79138904361">InstantClick — JS library to make your website instant</a></li>
+   <li><a href="http://donottouchscreens.tumblr.com/post/79846294406">AM/PM button</a></li>
   </ul>
 </dd>
 </dl>
@@ -119,33 +112,36 @@ Author: iron-blogger
 <ul>
 <li class="user">cjb</li>
 <li class="user">dlarochelle</li>
-<li class="user">kbroida</li>
 <li class="user">kendra</li>
 <li class="user">kit</li>
-<li class="user">lombana</li>
+<li class="user">maalox</li>
 <li class="user">missperovaz</li>
 <li class="user">nadya</li>
-<li class="user">spectranaut</li>
+<li class="user">sj</li>
 </ul>
 
 
+<h2>People who have not yet started</h2>
+<ul>
+  <li class="user">lecrayonkhol</li>
+</ul>
 
 <h2>Beer pool:</h2>
 <table>
-  <tr> <td> This week: </td> <td> $45 </td> </tr>
-  <tr> <td> Total: </td> <td> $230.0 </td> </tr>
+  <tr> <td> This week: </td> <td> $40 </td> </tr>
+  <tr> <td> Total: </td> <td> $270.0 </td> </tr>
   <tr> <td> Paid: </td> <td> $0 </td> </tr>
 </table>
 
 <h2>Debts:</h2>
 
 <table class="debts">
-<tr><td class="user">dlarochelle</td> <td class="money">$25.0</td><td class="user">spectranaut</td> <td class="money">$25.0</td><td class="user">kendra</td> <td class="money">$20.0</td></tr>
-<tr><td class="user">missperovaz</td> <td class="money">$20.0</td><td class="user">nadya</td> <td class="money">$20.0</td><td class="user">cjb</td> <td class="money">$15.0</td></tr>
-<tr><td class="user">jeff</td> <td class="money">$15.0</td><td class="user">johns</td> <td class="money">$15.0</td><td class="user">kbroida</td> <td class="money">$10.0</td></tr>
-<tr><td class="user">kit</td> <td class="money">$10.0</td><td class="user">sj</td> <td class="money">$10.0</td><td class="user">xxv</td> <td class="money">$10.0</td></tr>
-<tr><td class="user">adelaida</td> <td class="money">$5.0</td><td class="user">axel</td> <td class="money">$5.0</td><td class="user">fiendish</td> <td class="money">$5.0</td></tr>
-<tr><td class="user">lombana</td> <td class="money">$5.0</td><td class="user">maalox</td> <td class="money">$5.0</td><td class="user">mad</td> <td class="money">$5.0</td></tr>
+<tr><td class="user">dlarochelle</td> <td class="money">$30.0</td><td class="user">kendra</td> <td class="money">$25.0</td><td class="user">missperovaz</td> <td class="money">$25.0</td></tr>
+<tr><td class="user">nadya</td> <td class="money">$25.0</td><td class="user">spectranaut</td> <td class="money">$25.0</td><td class="user">cjb</td> <td class="money">$20.0</td></tr>
+<tr><td class="user">jeff</td> <td class="money">$15.0</td><td class="user">johns</td> <td class="money">$15.0</td><td class="user">kit</td> <td class="money">$15.0</td></tr>
+<tr><td class="user">sj</td> <td class="money">$15.0</td><td class="user">kbroida</td> <td class="money">$10.0</td><td class="user">maalox</td> <td class="money">$10.0</td></tr>
+<tr><td class="user">xxv</td> <td class="money">$10.0</td><td class="user">adelaida</td> <td class="money">$5.0</td><td class="user">axel</td> <td class="money">$5.0</td></tr>
+<tr><td class="user">fiendish</td> <td class="money">$5.0</td><td class="user">lombana</td> <td class="money">$5.0</td><td class="user">mad</td> <td class="money">$5.0</td></tr>
 <tr><td class="user">mjg59</td> <td class="money">$5.0</td></tr>
 </table>
 

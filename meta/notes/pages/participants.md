@@ -89,14 +89,6 @@ Author: iron-blogger 1.0
         </tr>
     
         <tr>
-          <td><tt> kbroida </tt></td>
-          <td>
-           <a href="http://thefoodbeat.net/">Katie Broida</a>
-          </td>
-          <td> 2014-01-27 </td>
-        </tr>
-    
-        <tr>
           <td><tt> kendra </tt></td>
           <td>
            <a href="http://www.kendraalbert.com/">Kendra Albert</a>
@@ -110,6 +102,14 @@ Author: iron-blogger 1.0
            <a href="http://studytrax.wordpress.com/">Kit</a>
           </td>
           <td> 2014-01-27 </td>
+        </tr>
+    
+        <tr>
+          <td><tt> lecrayonkhol </tt></td>
+          <td>
+           <a href="http://lecrayonkhol.com/">Kristin Wagner</a>
+          </td>
+          <td> 2014-03-16 </td>
         </tr>
     
         <tr>
@@ -207,14 +207,6 @@ Author: iron-blogger 1.0
           <td><tt> sj </tt></td>
           <td>
            <a href="http://blogs.law.harvard.edu/sj/">Samuel Klein</a>
-          </td>
-          <td> 2014-01-27 </td>
-        </tr>
-    
-        <tr>
-          <td><tt> spectranaut </tt></td>
-          <td>
-           <a href="http://spacetruant.wordpress.com/">Valerie Young</a>
           </td>
           <td> 2014-01-27 </td>
         </tr>
