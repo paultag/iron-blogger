@@ -17,6 +17,7 @@ cjb:
   - [Chris Ball, 'http://blog.printf.net/', 'http://blog.printf.net/feed/']
   start: 2014-01-27
 dlarochelle:
+  end: 2014-03-23
   links:
   - [David Larochelle, 'http://blogs.law.harvard.edu/dlarochelle', 'http://blogs.law.harvard.edu/dlarochelle/feed/']
   - [David Larochelle (David Blends), 'http://davidblends.tumblr.com/', 'http://davidblends.tumblr.com/rss']
