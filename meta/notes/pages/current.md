@@ -1,5 +1,5 @@
-Title: Weekly report for 2014-04-07
-Date: 2014-04-07 06:00
+Title: Weekly report for 2014-03-24
+Date: 2014-03-24 06:00
 Tags: weekly-report
 Category: weekly-report
 Slug: current
@@ -11,51 +11,87 @@ Author: iron-blogger
 <dt><span class="user">1L2P:</span></dt>
 <dd>
   <ul>
-   <li><a href="http://1l2p.net/2014/04/10/Connected-Learning-Podcast.html">Connected Learning intervew</a></li>
+   <li><a href="http://1l2p.net/2014/03/26/Time-for-change.html">Big news in the MOOC world</a></li>
   </ul>
 </dd>
-<dt><span class="user">coxalax:</span></dt>
+<dt><span class="user">axel:</span></dt>
 <dd>
   <ul>
-   <li><a href="http://moveward.com/chaos/">chaos</a></li>
+   <li><a href="https://www.axelarnbak.nl/2014/03/28/any-colour-you-like-the-history-and-future-of-internet-security-policy-talk/">Any Colour You Like: the History (and Future?) of Internet Security Policy [talk]</a></li>
+  </ul>
+</dd>
+<dt><span class="user">fiendish:</span></dt>
+<dd>
+  <ul>
+   <li><a href="http://textsfromharriotte.tumblr.com/post/81239216454">"Hello my dear How is life going? I wanted to let you know that I wouldn’t be..."</a></li>
   </ul>
 </dd>
 <dt><span class="user">jeff:</span></dt>
 <dd>
   <ul>
-   <li><a href="http://unterbahn.com/2014/04/airplane-cross-sections/">Airplane cross sections</a></li>
-   <li><a href="http://publiclab.org/notes/warren/04-10-2014/mobius-action-cam-infragram-tests">Mobius Action Cam Infragram tests</a></li>
-   <li><a href="http://publiclab.org/notes/warren/04-08-2014/selenium-detection-methods-ideas-on-e-cigarette-atomizers-for-diy-analysis">Selenium detection methods & ideas on e-cigarette atomizers for DIY analysis</a></li>
-  </ul>
-</dd>
-<dt><span class="user">johns:</span></dt>
-<dd>
-  <ul>
-   <li><a href="http://feedproxy.google.com/~r/wjsullivan/~3/7unhowhNsVc/297292.html">Welcome to Barcelona</a></li>
+   <li><a href="http://unterbahn.com/2014/03/drawings-from-way-back-when/">Drawings from way back when</a></li>
+   <li><a href="http://unterbahn.com/2014/03/taiwan-cafe-for-first-amendment-rights/">Taiwan Cafe for First Amendment rights</a></li>
   </ul>
 </dd>
 <dt><span class="user">k:</span></dt>
 <dd>
   <ul>
-   <li><a href="http://www.googlish.com/?p=49">Week #14 (April 6th, 2014)</a></li>
+   <li><a href="http://www.googlish.com/?p=44">Week #12 (March 23th, 2014)</a></li>
+  </ul>
+</dd>
+<dt><span class="user">kendra:</span></dt>
+<dd>
+  <ul>
+   <li><a href="http://www.kendraalbert.com/post/81240570057">Filing for Divorce in MA: Doing Law School Right</a></li>
+  </ul>
+</dd>
+<dt><span class="user">lombana:</span></dt>
+<dd>
+  <ul>
+   <li><a href="http://andreslombana.net/blog/2014/03/30/colombian-audiovisual-memory-in-youtube/">Colombian Audiovisual Memory in YouTube</a></li>
   </ul>
 </dd>
 <dt><span class="user">maalox:</span></dt>
 <dd>
   <ul>
-   <li><a href="http://alexose.blogspot.com/2014/04/app-week-7_10.html">App week: 7</a></li>
+   <li><a href="http://alexose.blogspot.com/2014/03/app-week.html">App Week</a></li>
+  </ul>
+</dd>
+<dt><span class="user">maggie.delano:</span></dt>
+<dd>
+  <ul>
+   <li><a href="http://maggiedelano.tumblr.com/post/81237147594">In Honor of Hayao Miyazaki's Swan Song</a></li>
   </ul>
 </dd>
 <dt><span class="user">mindstalk:</span></dt>
 <dd>
   <ul>
-   <li><a href="http://mindstalk.livejournal.com/395399.html">This week in meh</a></li>
+   <li><a href="http://mindstalk.livejournal.com/394870.html">More on overprotective parenting</a></li>
+   <li><a href="http://mindstalk.livejournal.com/394600.html">Overprotective parenting</a></li>
+  </ul>
+</dd>
+<dt><span class="user">missperovaz:</span></dt>
+<dd>
+  <ul>
+   <li><a href="http://www.music.mcgill.ca/~cmedei1/?p=1064&utm_source=rss&utm_medium=rss&utm_campaign=acetarium-3">acetarium</a></li>
+  </ul>
+</dd>
+<dt><span class="user">mollydb:</span></dt>
+<dd>
+  <ul>
+   <li><a href="http://mmillions.wordpress.com/2014/03/31/figurehead/">figurehead</a></li>
+  </ul>
+</dd>
+<dt><span class="user">paultag:</span></dt>
+<dd>
+  <ul>
+   <li><a href="http://blog.pault.ag/post/80933884149">Sundays (how they're going)</a></li>
   </ul>
 </dd>
 <dt><span class="user">shauna:</span></dt>
 <dd>
   <ul>
-   <li><a href="http://openhatch.org/blog/2014/teaching-open-source-at-umass-amherst/">Teaching open source at UMass Amherst</a></li>
+   <li><a href="http://www.shaunagm.net/blog/2014/03/on-solutionism-and-lolcats/?utm_source=rss&utm_medium=rss&utm_campaign=on-solutionism-and-lolcats">On Solutionism and Lolcats</a></li>
   </ul>
 </dd>
 </dl>
@@ -63,19 +99,13 @@ Author: iron-blogger
 <h2>People who failed to post</h2>
 <ul>
 <li class="user">adelaida</li>
-<li class="user">axel</li>
 <li class="user">cjb</li>
-<li class="user">fiendish</li>
-<li class="user">kendra</li>
+<li class="user">johns</li>
 <li class="user">kit</li>
 <li class="user">lecrayonkhol</li>
-<li class="user">lombana</li>
 <li class="user">mad</li>
-<li class="user">maggie.delano</li>
 <li class="user">mjg59</li>
-<li class="user">mollydb</li>
 <li class="user">nadya</li>
-<li class="user">paultag</li>
 <li class="user">sj</li>
 <li class="user">xxv</li>
 </ul>
@@ -84,14 +114,21 @@ Author: iron-blogger
 
 <h2>Beer pool:</h2>
 <table>
-  <tr> <td> This week: </td> <td> $80 </td> </tr>
-  <tr> <td> Total: </td> <td> $410.0 </td> </tr>
+  <tr> <td> This week: </td> <td> $50 </td> </tr>
+  <tr> <td> Total: </td> <td> $330.0 </td> </tr>
   <tr> <td> Paid: </td> <td> $0 </td> </tr>
 </table>
 
 <h2>Debts:</h2>
 
 <table class="debts">
+<tr><td class="user">kendra</td> <td class="money">$30.0</td><td class="user">missperovaz</td> <td class="money">$30.0</td><td class="user">nadya</td> <td class="money">$30.0</td></tr>
+<tr><td class="user">cjb</td> <td class="money">$25.0</td><td class="user">johns</td> <td class="money">$25.0</td><td class="user">kit</td> <td class="money">$25.0</td></tr>
+<tr><td class="user">sj</td> <td class="money">$25.0</td><td class="user">spectranaut</td> <td class="money">$25.0</td><td class="user">jeff</td> <td class="money">$15.0</td></tr>
+<tr><td class="user">maalox</td> <td class="money">$15.0</td><td class="user">mad</td> <td class="money">$15.0</td><td class="user">xxv</td> <td class="money">$15.0</td></tr>
+<tr><td class="user">adelaida</td> <td class="money">$10.0</td><td class="user">kbroida</td> <td class="money">$10.0</td><td class="user">lecrayonkhol</td> <td class="money">$10.0</td></tr>
+<tr><td class="user">mjg59</td> <td class="money">$10.0</td><td class="user">axel</td> <td class="money">$5.0</td><td class="user">fiendish</td> <td class="money">$5.0</td></tr>
+<tr><td class="user">lombana</td> <td class="money">$5.0</td></tr>
 </table>
 
 <h2>Previously Punted (pay $30 to return):</h2>
