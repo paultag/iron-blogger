@@ -108,3 +108,7 @@ xxv:
   links:
   - [Steve Pomeroy, 'http://donottouchscreens.tumblr.com/', 'http://donottouchscreens.tumblr.com/rss']
   start: 2014-01-27
+zenhack:
+  links:
+  - [Ian Denhardt, 'http://zenhack.net/', 'http://zenhack.net/rss.xml']
+  start: 2014-04-27
