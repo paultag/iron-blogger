@@ -47,14 +47,13 @@ Author: iron-blogger 1.0
         </tr>
     
         <tr>
-          <td><tt> dlarochelle </tt></td>
+          <td><tt> coxalax </tt></td>
           <td>
-           <a href="http://blogs.law.harvard.edu/dlarochelle">David Larochelle</a>
-           <a href="http://davidblends.tumblr.com/">David Larochelle (David Blends)</a>
+           <a href="http://moveward.com/">coxalax</a>
           </td>
           <td> 2014-01-27 </td>
         </tr>
-    
+        
         <tr>
           <td><tt> fiendish </tt></td>
           <td>
@@ -154,14 +153,6 @@ Author: iron-blogger 1.0
         </tr>
     
         <tr>
-          <td><tt> missperovaz </tt></td>
-          <td>
-           <a href="http://carolinabrum.com/blog">Carolina Brum</a>
-          </td>
-          <td> 2014-01-27 </td>
-        </tr>
-    
-        <tr>
           <td><tt> mjg59 </tt></td>
           <td>
            <a href="http://mjg59.dreamwidth.org/">Matthew Garrett</a>
@@ -189,7 +180,6 @@ Author: iron-blogger 1.0
           <td><tt> paultag </tt></td>
           <td>
            <a href="http://blog.pault.ag/">Paul Tagliamonte</a>
-           <a href="http://notes.pault.ag/">Paul Tagliamonte (Notes)</a>
           </td>
           <td> 2014-01-27 </td>
         </tr>
@@ -218,5 +208,34 @@ Author: iron-blogger 1.0
           </td>
           <td> 2014-01-27 </td>
         </tr>
+    
+        <tr>
+          <td><tt> zenhack </tt></td>
+          <td>
+           <a href="http://zenhack.net/">Ian Denhardt</a>
+          </td>
+          <td> 2014-04-27 </td>
+        </tr>
       </table>
+
+<h1>Former Participants Punted for Lack of Payment</h1>
+
+<table id='participants'>
+<tr>
+  <th>Who</th>
+  <th>Blog link</th>
+  <th>Start Week</th>
+  <th>End Week</th>
+</tr>
+
+<tr>
+  <td><tt> dlarochelle </tt></td>
+  <td>
+   <a href="http://blogs.law.harvard.edu/dlarochelle">David Larochelle</a>
+   <a href="http://davidblends.tumblr.com/">David Larochelle (David Blends)</a>
+  </td>
+  <td> 2014-01-27 </td>
+  <td> 2014-03-23 </td>
+</tr>
+</table>
 

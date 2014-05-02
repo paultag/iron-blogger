@@ -16,6 +16,10 @@ cjb:
   links:
   - [Chris Ball, 'http://blog.printf.net/', 'http://blog.printf.net/feed/']
   start: 2014-01-27
+coxalax:
+  links:
+  - [coxalax, 'http://moveward.com/', 'http://moveward.com/feed/']
+  start: 2014-01-27
 dlarochelle:
   end: 2014-03-23
   links:
@@ -73,10 +77,6 @@ mindstalk:
   links:
   - [Damien Sullivan, 'http://mindstalk.livejournal.com/', 'http://mindstalk.livejournal.com/data/atom']
   start: 2014-01-27
-coxalax:
-  links:
-  - [coxalax, 'http://moveward.com/', 'http://moveward.com/feed/']
-  start: 2014-01-27
 mjg59:
   links:
   - [Matthew Garrett, 'http://mjg59.dreamwidth.org/', 'http://mjg59.dreamwidth.org/data/rss']
@@ -92,7 +92,6 @@ nadya:
 paultag:
   links:
   - [Paul Tagliamonte, 'http://blog.pault.ag/', 'http://blog.pault.ag/rss']
-  #  - [Paul Tagliamonte (Notes), 'http://notes.pault.ag/', 'http://notes.pault.ag/feeds/all-en.atom.xml']
   start: 2014-01-27
 shauna:
   links:
