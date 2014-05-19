@@ -21,7 +21,7 @@ def parse_published(pub):
     return parse(pub).astimezone(tz.tzlocal()).replace(tzinfo=None)
 
 def get_date(post):
-    for k in ('published', 'created'):
+    for k in ('published', 'created', 'updated'):
         if k in post:
             return post[k]
 
