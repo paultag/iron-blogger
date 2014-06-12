@@ -104,10 +104,10 @@ sj:
   links:
   - [Samuel Klein, 'http://blogs.law.harvard.edu/sj/', 'http://blogs.law.harvard.edu/sj/feed/']
   start: 2014-01-27
-xxv:
-  links:
-  - [Steve Pomeroy, 'http://donottouchscreens.tumblr.com/', 'http://donottouchscreens.tumblr.com/rss']
-  start: 2014-01-27
+# xxv:
+#   links:
+#   - [Steve Pomeroy, 'http://donottouchscreens.tumblr.com/', 'http://donottouchscreens.tumblr.com/rss']
+#   start: 2014-01-27
 zenhack:
   links:
   - [Ian Denhardt, 'http://zenhack.net/', 'http://zenhack.net/rss.xml']
