@@ -96,9 +96,10 @@ paultag:
   start: 2014-01-27
 shauna:
   links:
-  - [Shauna Gordon-McKeon, 'http://www.shaunagm.net/blog', 'http://www.shaunagm.net/blog/feed/atom/', 'http://shaunagm.tumblr.com/rss']
+  - [Shauna Gordon-McKeon, 'http://www.shaunagm.net/blog', 'http://www.shaunagm.net/blog/feed/atom/']
   - [Shauna Gordon-McKeon (Open Hatch), 'http://openhatch.org/blog/author/Shauna/',
     'http://openhatch.org/blog/author/Shauna/feed/']
+  - [Shauna Gordon-McKeon (Galaxy Rise), 'http://shaunagm.tumblr.com', 'http://shaunagm.tumblr.com/rss']
   start: 2014-01-27
 sj:
   links:
